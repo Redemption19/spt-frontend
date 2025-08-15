@@ -173,7 +173,7 @@ export function HomeSlider() {
       {/* Content Container */}
       <div className="relative z-10 h-full">
         <div className="container-custom h-full">
-          <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center h-full py-12 sm:py-16">
+          <div className={`grid lg:grid-cols-2 gap-8 lg:gap-12 ${slide.id === 3 ? 'items-end' : 'items-center'} h-full py-12 sm:py-16`}>
             
             {/* Text Content */}
             <motion.div
@@ -181,7 +181,7 @@ export function HomeSlider() {
               initial={{ opacity: 0, x: slide.textPosition === 'left' ? -50 : 50 }}
               animate={{ opacity: 1, x: 0 }}
               transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
-              className={`${slide.textPosition === 'right' ? 'lg:order-2 lg:pl-12' : ''} space-y-4 sm:space-y-6 ${slide.id === 2 ? 'lg:pl-16' : ''} px-4 sm:px-0`}
+              className={`${slide.textPosition === 'right' ? 'lg:order-2 lg:pl-12' : ''} space-y-4 sm:space-y-6 ${slide.id === 2 ? 'lg:pl-16' : ''} ${slide.id === 3 ? 'mt-16 sm:mt-20 lg:mt-0' : ''} px-4 sm:px-0`}
             >
               {/* Main Title */}
               <div className="space-y-2">
