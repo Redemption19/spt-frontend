@@ -61,34 +61,7 @@ export default function AboutPageContent() {
             </section>
           </ScrollReveal>
 
-          {/* Who We Are Section */}
-          <ScrollReveal delay={0.2}>
-            <section className="mb-12 md:mb-16">
-              <div className="bg-card border border-border/50 rounded-lg p-6 sm:p-8 shadow-sm">
-                <h2 className="text-2xl sm:text-3xl font-semibold mb-4 md:mb-6">Who We Are</h2>
-                <p className="text-base sm:text-lg text-muted-foreground mb-6">
-                  Standard Pensions Trust was founded in 2008 with a vision to transform retirement planning in Ghana. Licensed and regulated by the National Pensions Regulatory Authority (NPRA), we&apos;ve grown to become one of Ghana&apos;s most trusted pension administrators. Our team of financial experts is dedicated to helping individuals and organizations navigate the complexities of pension planning and management.
-                </p>
-                <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6 text-center mt-8 md:mt-10">
-                  {companyStats.map((stat, index) => (
-                    <motion.div 
-                      key={index} 
-                      className="flex flex-col p-2 sm:p-4"
-                      initial={{ opacity: 0, y: 20 }}
-                      animate={{ opacity: 1, y: 0 }}
-                      transition={{ duration: 0.6, delay: 0.4 + index * 0.1 }}
-                      whileHover={{ y: -5 }}
-                    >
-                      <span className="text-2xl sm:text-3xl md:text-4xl font-bold text-primary">
-                        {stat.value}
-                      </span>
-                      <span className="text-muted-foreground mt-1 md:mt-2 text-xs sm:text-sm">{stat.label}</span>
-                    </motion.div>
-                  ))}
-                </div>
-              </div>
-            </section>
-          </ScrollReveal>
+
 
           {/* What We Do Section */}
           <ScrollReveal delay={0.3}>
@@ -248,7 +221,7 @@ export default function AboutPageContent() {
                   transition={{ duration: 0.6, delay: 0.7 }}
                   whileHover={{ x: 5 }}
                 >
-                  <h3 className="text-lg sm:text-xl font-medium mb-3 md:mb-4">150,000+ Members</h3>
+                  <h3 className="text-lg sm:text-xl font-medium mb-3 md:mb-4"><span className="text-primary">Over</span> 150,000 Members</h3>
                   <p className="text-muted-foreground text-sm sm:text-base">
                     Join our growing community of members who trust us with their retirement planning and pension management.
                   </p>
@@ -260,9 +233,9 @@ export default function AboutPageContent() {
                   transition={{ duration: 0.6, delay: 0.8 }}
                   whileHover={{ x: 5 }}
                 >
-                  <h3 className="text-lg sm:text-xl font-medium mb-3 md:mb-4">8 Branch Offices</h3>
+                  <h3 className="text-lg sm:text-xl font-medium mb-3 md:mb-4"><span className="text-primary">Over</span> 200 Employers</h3>
                   <p className="text-muted-foreground text-sm sm:text-base">
-                    With locations across Ghana, we provide accessible service and support wherever you are.
+                    Join hundreds of employers who trust us with their employees' pension management.
                   </p>
                 </motion.div>
                 <motion.div 
@@ -272,7 +245,7 @@ export default function AboutPageContent() {
                   transition={{ duration: 0.6, delay: 0.9 }}
                   whileHover={{ x: 5 }}
                 >
-                  <h3 className="text-lg sm:text-xl font-medium mb-3 md:mb-4">Dedicated Account Managers</h3>
+                  <h3 className="text-lg sm:text-xl font-medium mb-3 md:mb-4"><span className="text-primary">≈</span> 100% Prompt Payouts</h3>
                   <p className="text-muted-foreground text-sm sm:text-base">
                     Every client is assigned a personal account manager to provide tailored guidance and support.
                   </p>
