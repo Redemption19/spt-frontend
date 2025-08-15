@@ -70,5 +70,14 @@
     "keywords": ["main office", "headquarters", "primary location", "central hub", "42 Nii Nortei Nyanchi Street", "Dzorwulu", "Greater Accra", "administrative functions", "customer service center", "coordination"],
     "createdAt": "2024-01-01T00:00:00Z",
     "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "branch_009",
+    "category": "branch_locations",
+    "title": "CORRECTION: SPT DOES have physical branches - NOT online-only",
+    "content": "IMPORTANT CORRECTION: SPT DOES operate a traditional branch network with 8 physical locations across Ghana. We are NOT just an online-only service. The statement 'SPT doesn't operate a traditional branch network like retail banks' is INCORRECT. We have 8 physical branch locations providing in-person support, face-to-face consultations, document verification, and local customer service. Our branches are located in Greater Accra (main office), Takoradi, Kumasi, Ho, Dunkwaw-on-Offin, Cape Coast, Techiman, and additional regional locations. Each branch offers comprehensive pension services including account opening, contribution processing, benefit claims, pension planning consultations, and customer support. We combine physical branch accessibility with 24/7 digital services through our Member Portal, phone support, email, and WhatsApp. You can visit any of our branches during business hours for in-person assistance without needing to schedule an appointment.",
+    "keywords": ["correction", "NOT online-only", "8 physical branches", "in-person support", "face-to-face consultations", "document verification", "local customer service", "physical locations", "branch network", "traditional branches"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
   }
 ]

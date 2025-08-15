@@ -86,6 +86,14 @@ export const comprehensiveKnowledge = [
     content: "SPT operates 8 physical branch locations across Ghana providing comprehensive in-person pension services. Our branches are strategically located in: 1) GREATER ACCRA (Main Office): 42 Nii Nortei Nyanchi Street, Dzorwulu, Phone: +233 30 278 0765, 2) TAKORADI: Amonoo Niezer Fie, Top Ten, Second Floor, Phone: +233 24 702 3411 / +233 54 248 6962, 3) KUMASI: Stadium Amakom, City Style Building (same floor with Ash FM), Phone: +233 24 481 6344, 4) HO: SSNIT Premises, 1st Floor, Phone: +233 54 070 6701, 5) DUNKWAW-ON-OFFIN: Aban Keseɛ, SSNIT Building, 1st Floor, Phone: +233 54 129 1727 / +233 26 686 2185, 6) CAPE COAST: SSNIT House, Third Floor, Phone: +233 50 391 996 / +233 55 305 4830, 7) TECHIMAN: Phone: +233 20 203 5875, 8) Additional regional locations. Each branch provides full pension services including account management, contributions, claims, consultations, and document verification. We combine physical branch accessibility with 24/7 digital services through our Member Portal, phone support, email, and WhatsApp.",
     keywords: ["8 branches", "physical locations", "branch network", "nationwide coverage", "Greater Accra", "Takoradi", "Kumasi", "Ho", "Dunkwaw", "Cape Coast", "Techiman", "in-person services", "not online-only"],
     route: "/contact"
+  },
+  {
+    id: 12,
+    category: "branch_network",
+    title: "CORRECTION: SPT DOES have traditional branch network - NOT online-only",
+    content: "IMPORTANT CORRECTION: The statement 'SPT doesn't operate a traditional branch network like retail banks' is COMPLETELY INCORRECT and FALSE. SPT DOES operate a traditional branch network with 8 physical locations across Ghana. We are NOT primarily an online-only service. We have 8 physical branch locations providing in-person support, face-to-face consultations, document verification, and local customer service. Our branches are located in Greater Accra (main office), Takoradi, Kumasi, Ho, Dunkwaw-on-Offin, Cape Coast, Techiman, and additional regional locations. Each branch offers comprehensive pension services including account opening, contribution processing, benefit claims, pension planning consultations, and customer support. We combine physical branch accessibility with 24/7 digital services through our Member Portal, phone support, email, and WhatsApp. You can visit any of our branches during business hours for in-person assistance without needing to schedule an appointment.",
+    keywords: ["correction", "NOT online-only", "8 physical branches", "traditional branch network", "in-person support", "face-to-face consultations", "document verification", "local customer service", "physical locations", "branch network", "completely incorrect", "false statement"],
+    route: "/contact"
   }
 ];
 
@@ -109,6 +117,10 @@ export const faqData = [
   {
     question: "Does SPT have physical branch locations?",
     answer: "YES, SPT has 8 physical branch locations across Ghana. We are NOT just an online-only service. Our branches provide in-person support, face-to-face consultations, document verification, and local customer service. Our branches are located in Greater Accra (main office), Takoradi, Kumasi, Ho, Dunkwaw-on-Offin, Cape Coast, Techiman, and additional regional locations. Each branch offers comprehensive pension services including account opening, contribution processing, benefit claims, pension planning consultations, and customer support. We combine physical branch accessibility with digital services for the best member experience."
+  },
+  {
+    question: "CORRECTION: Does SPT operate a traditional branch network?",
+    answer: "YES, SPT DOES operate a traditional branch network with 8 physical locations across Ghana. The statement 'SPT doesn't operate a traditional branch network like retail banks' is COMPLETELY INCORRECT. We have 8 physical branch locations providing in-person support, face-to-face consultations, document verification, and local customer service. Our branches are located in Greater Accra (main office), Takoradi, Kumasi, Ho, Dunkwaw-on-Offin, Cape Coast, Techiman, and additional regional locations. Each branch offers comprehensive pension services including account opening, contribution processing, benefit claims, pension planning consultations, and customer support. We combine physical branch accessibility with 24/7 digital services through our Member Portal, phone support, email, and WhatsApp. You can visit any of our branches during business hours for in-person assistance without needing to schedule an appointment."
   },
   {
     question: "What documents do I need for enrollment?",

@@ -209,10 +209,10 @@ function MobileNav({ currentPath }: { currentPath: string }) {
         {/* Mobile CTA Buttons */}
         <div className="pt-6 space-y-4 border-t border-border/40 mt-6">
           <Button asChild variant="outline" className="w-full justify-center h-12 text-base font-medium">
-            <Link href="/member-portal">Member Portal</Link>
+            <Link href="https://portal.standardpensions.com/">Member Portal</Link>
           </Button>
           <Button asChild className="w-full justify-center h-12 text-base font-medium bg-accent hover:bg-accent/90">
-            <Link href="/make-payment">Make Payment</Link>
+            <Link href="https://validate.standardpensions.com/validation-portal/">Make Payment</Link>
           </Button>
         </div>
       </div>

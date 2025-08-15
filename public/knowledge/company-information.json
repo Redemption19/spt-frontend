@@ -58,7 +58,14 @@
     "category": "company_information",
     "title": "Does SPT have physical branch locations?",
     "content": "YES, SPT has 8 physical branch locations across Ghana. We are NOT just an online-only service. Our branches provide in-person support, face-to-face consultations, document verification, and local customer service. Our branches are located in Greater Accra (main office), Takoradi, Kumasi, Ho, Dunkwaw-on-Offin, Cape Coast, Techiman, and additional regional locations. Each branch offers comprehensive pension services including account opening, contribution processing, benefit claims, pension planning consultations, and customer support. We combine physical branch accessibility with digital services for the best member experience.",
-    "keywords": ["physical branches", "8 branches", "in-person support", "face-to-face consultations", "document verification", "local customer service", "not online-only", "physical locations", "branch network"],
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "company_008",
+    "category": "company_information",
+    "title": "CORRECTION: SPT DOES have traditional branch network",
+    "content": "IMPORTANT CORRECTION: The statement 'SPT doesn't operate a traditional branch network like retail banks' is COMPLETELY INCORRECT. SPT DOES operate a traditional branch network with 8 physical locations across Ghana. We are NOT primarily an online-only service. We have 8 physical branch locations providing in-person support, face-to-face consultations, document verification, and local customer service. Our branches are located in Greater Accra (main office), Takoradi, Kumasi, Ho, Dunkwaw-on-Offin, Cape Coast, Techiman, and additional regional locations. Each branch offers comprehensive pension services including account opening, contribution processing, benefit claims, pension planning consultations, and customer support. We combine physical branch accessibility with 24/7 digital services through our Member Portal, phone support, email, and WhatsApp. You can visit any of our branches during business hours for in-person assistance without needing to schedule an appointment.",
+    "keywords": ["correction", "NOT online-only", "8 physical branches", "traditional branch network", "in-person support", "face-to-face consultations", "document verification", "local customer service", "physical locations", "branch network", "completely incorrect"],
     "createdAt": "2024-01-01T00:00:00Z",
     "updatedAt": "2024-01-01T00:00:00Z"
   }
