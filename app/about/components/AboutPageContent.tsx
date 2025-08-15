@@ -248,7 +248,7 @@ export default function AboutPageContent() {
                   transition={{ duration: 0.6, delay: 0.7 }}
                   whileHover={{ x: 5 }}
                 >
-                  <h3 className="text-lg sm:text-xl font-medium mb-3 md:mb-4">17,710+ Members</h3>
+                  <h3 className="text-lg sm:text-xl font-medium mb-3 md:mb-4">150,000+ Members</h3>
                   <p className="text-muted-foreground text-sm sm:text-base">
                     Join our growing community of members who trust us with their retirement planning and pension management.
                   </p>
