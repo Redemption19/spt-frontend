@@ -268,58 +268,6 @@ export const timelineEvents = [
   },
 ];
 
-// Board of Trustees
-export const boardOfTrustees = [
-  {
-    name: 'Dr. Kwame Adjei',
-    position: 'Board Chairman',
-    bio: 'Former Deputy Governor of Bank of Ghana with over 30 years of experience in financial regulation and policy development.',
-    icon: 'Banknote',
-    category: 'master-trust',
-    tenure: '2018 - Present',
-    education: 'PhD Economics, MBA Finance',
-    certifications: ['CFA', 'ACCA'],
-    linkedin: 'https://linkedin.com/in/kwame-adjei',
-    expertise: ['Financial Regulation', 'Monetary Policy', 'Risk Management']
-  },
-  {
-    name: 'Mrs. Akua Danso',
-    position: 'Independent Trustee',
-    bio: 'Chartered Accountant and Risk Management Specialist with extensive experience in corporate governance.',
-    icon: 'Scale',
-    category: 'master-trust',
-    tenure: '2020 - Present',
-    education: 'CA(Ghana), MSc Risk Management',
-    certifications: ['ACCA', 'FRM'],
-    linkedin: 'https://linkedin.com/in/akua-danso',
-    expertise: ['Corporate Governance', 'Risk Management', 'Financial Auditing']
-  },
-  {
-    name: 'Prof. Samuel Mensah',
-    position: 'Independent Trustee',
-    bio: 'Professor of Economics and Finance at University of Ghana with expertise in pension systems and social security.',
-    icon: 'GraduationCap',
-    category: 'personal-pension',
-    tenure: '2019 - Present',
-    education: 'PhD Economics, MSc Finance',
-    certifications: ['CPA', 'PhD'],
-    linkedin: 'https://linkedin.com/in/samuel-mensah',
-    expertise: ['Pension Systems', 'Social Security', 'Economic Policy']
-  },
-  {
-    name: 'Ms. Esi Oforiwaa',
-    position: 'Member Representative Trustee',
-    bio: 'Labor Relations Expert with 15 years\' experience advocating for workers\' rights and benefits.',
-    icon: 'Users',
-    category: 'personal-pension',
-    tenure: '2021 - Present',
-    education: 'LLB, MSc Human Resources',
-    certifications: ['SHRM', 'CIPD'],
-    linkedin: 'https://linkedin.com/in/esi-oforiwaa',
-    expertise: ['Labor Relations', 'Workers Rights', 'HR Management']
-  },
-];
-
 // Blog Posts
 import { BlogPost, Author } from './schemas/blog-schema'; // Import the new types
 

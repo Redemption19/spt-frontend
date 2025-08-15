@@ -1,0 +1,47 @@
+[
+  {
+    "id": "social_001",
+    "category": "social_media",
+    "title": "How can I connect with SPT on social media platforms?",
+    "content": "Standard Pension Trust maintains active presence on major social media platforms including Facebook, Twitter, LinkedIn, Instagram, and TikTok. Follow us for pension tips, company updates, financial education content, and community engagement.",
+    "keywords": ["social media", "Facebook", "Twitter", "LinkedIn", "Instagram", "TikTok", "pension tips", "company updates", "financial education"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "social_002",
+    "category": "social_media",
+    "title": "What type of content does SPT share on social media?",
+    "content": "SPT shares educational content about pension planning, retirement tips, company news and updates, member success stories, financial literacy resources, and community engagement activities. Our social media content aims to inform and empower members in their financial journey.",
+    "keywords": ["educational content", "pension planning", "retirement tips", "company news", "member success stories", "financial literacy", "community engagement"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "social_003",
+    "category": "social_media",
+    "title": "Can I get customer support through SPT's social media channels?",
+    "content": "While we monitor our social media channels, for immediate customer support and account-specific inquiries, please contact us directly at +233 30 278 0765 or info@standardpensionstrust.com. Social media is best used for general information and community engagement.",
+    "keywords": ["customer support", "social media channels", "immediate support", "account inquiries", "general information", "community engagement"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "social_004",
+    "category": "social_media",
+    "title": "How does SPT use social media for financial education?",
+    "content": "SPT leverages social media platforms to share bite-sized financial education content, pension planning tips, retirement preparation strategies, and interactive content that makes financial concepts accessible. We use various formats including videos, infographics, and live sessions.",
+    "keywords": ["financial education", "bite-sized content", "pension planning tips", "retirement strategies", "interactive content", "videos", "infographics", "live sessions"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "social_005",
+    "category": "social_media",
+    "title": "Which social media platform is best for staying updated with SPT?",
+    "content": "All SPT social media platforms (Facebook, Twitter, LinkedIn, Instagram, TikTok) provide valuable content, but the best platform depends on your preferences. LinkedIn offers professional insights, Facebook provides community discussions, Instagram shares visual content, Twitter gives quick updates, and TikTok features engaging educational videos.",
+    "keywords": ["platform comparison", "LinkedIn professional", "Facebook community", "Instagram visual", "Twitter updates", "TikTok videos", "preferences"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  }
+]

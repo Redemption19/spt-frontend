@@ -36,12 +36,6 @@
     "content": "@/components/ui/button Enroll in a Pension Plan Secure your future in just a few steps. Learn how to enroll in our pension schemes as an individual or employer."
   },
   {
-    "id": 7,
-    "path": "app\\schemes\\page.tsx",
-    "route": "/\\schemes\\page.tsx",
-    "content": "Best Pensions Master Trust Scheme A mandatory Tier 2 scheme providing 5% contribution of basic salary for retirement security. /schemes/master-trust from-primary/20 via-transparent to-accent/20 Best Personal Pensions Scheme A flexible Tier 3 long-term investment scheme with tax benefits for enhanced pension. /schemes/personal-pension from-accent/20 via-transparent to-primary/20 DOSH Personal Pensions Scheme The Combo - A specialized personal pension scheme combining traditional benefits with modern flexibility. /schemes/dosh-pension from-primary/20 via-accent/20 to-transparent Best Provident Fund Scheme A fully funded and privately managed Tier 3 provident fund scheme with tax benefits. /schemes/provident-fund from-accent/20 via-primary/20 to-transparent Employer Sponsored Schemes Comprehensive trustee services for 2nd & 3rd Tier pensions with full establishment ownership. /schemes/employer-sponsored from-primary/20 to-accent/20"
-  },
-  {
     "id": 8,
     "path": "app\\schemes\\provident-fund\\page.tsx",
     "route": "/\\schemes\\provident-fund\\page.tsx",
@@ -249,7 +243,7 @@
     "id": 42,
     "path": "app\\schemes\\page.tsx",
     "route": "/\\schemes\\page.tsx",
-    "content": "Best Pensions Master Trust Scheme A mandatory Tier 2 scheme providing 5% contribution of basic salary for retirement security. /schemes/master-trust from-primary/20 via-transparent to-accent/20 Best Personal Pensions Scheme A flexible Tier 3 long-term investment scheme with tax benefits for enhanced pension. /schemes/personal-pension from-accent/20 via-transparent to-primary/20 DOSH Personal Pensions Scheme The Combo - A specialized personal pension scheme combining traditional benefits with modern flexibility. /schemes/dosh-pension from-primary/20 via-accent/20 to-transparent Best Provident Fund Scheme A fully funded and privately managed Tier 3 provident fund scheme with tax benefits. /schemes/provident-fund from-accent/20 via-primary/20 to-transparent Employer Sponsored Schemes Comprehensive trustee services for 2nd & 3rd Tier pensions with full establishment ownership. /schemes/employer-sponsored from-primary/20 to-accent/20"
+    "content": "Best Pensions Master Trust Scheme A mandatory Tier 2 scheme providing 5% contribution of basic salary for retirement security. /schemes/master-trust from-primary/20 via-transparent to-accent/20 Best Personal Pensions Scheme A flexible Tier 3 long-term investment scheme with tax benefits for enhanced pension. /schemes/personal-pension from-accent/20 via-transparent to-primary/20 Best Provident Fund Scheme A fully funded and privately managed Tier 3 provident fund scheme with tax benefits. /schemes/provident-fund from-accent/20 via-primary/20 to-transparent Employer Sponsored Schemes Comprehensive trustee services for 2nd & 3rd Tier pensions with full establishment ownership. /schemes/employer-sponsored from-primary/20 to-accent/20"
   },
   {
     "id": 43,

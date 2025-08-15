@@ -1,0 +1,47 @@
+[
+  {
+    "id": "branch_001",
+    "category": "branch_locations",
+    "title": "Where are SPT's branch locations across Ghana?",
+    "content": "Standard Pension Trust operates 8 branches strategically located across Ghana to serve members nationwide. Our main office is in Greater Accra at 42 Nii Nortei Nyanchi Street, Dzorwulu. Additional branches are located in major cities and regions to ensure convenient access to pension services.",
+    "keywords": ["8 branches", "nationwide", "Greater Accra", "42 Nii Nortei Nyanchi Street", "Dzorwulu", "major cities", "convenient access"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "branch_002",
+    "category": "branch_locations",
+    "title": "What services are available at SPT branch locations?",
+    "content": "All SPT branches provide comprehensive pension services including account opening, contribution processing, benefit claims, pension planning consultations, document verification, and customer support. Each branch is staffed with trained professionals to assist with your pension needs.",
+    "keywords": ["comprehensive services", "account opening", "contribution processing", "benefit claims", "pension planning", "document verification", "trained professionals"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "branch_003",
+    "category": "branch_locations",
+    "title": "How does SPT's branch network ensure accessibility?",
+    "content": "With 8 strategically positioned branches across Ghana, SPT ensures that pension services are accessible to members in different regions. This network reduces travel time and provides local support, making pension management convenient for all members regardless of location.",
+    "keywords": ["strategic positioning", "accessibility", "different regions", "reduced travel time", "local support", "convenient"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "branch_004",
+    "category": "branch_locations",
+    "title": "What is the main office location and its role?",
+    "content": "The main office at 42 Nii Nortei Nyanchi Street, Dzorwulu, Greater Accra serves as SPT's headquarters and primary customer service center. This location handles complex inquiries, administrative functions, and serves as the central hub for coordinating services across all branches.",
+    "keywords": ["main office", "headquarters", "primary customer service", "complex inquiries", "administrative functions", "central hub"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "branch_005",
+    "category": "branch_locations",
+    "title": "How can I find the nearest SPT branch to my location?",
+    "content": "Contact SPT at +233 30 278 0765 or email info@standardpensionstrust.com to find the nearest branch to your location. Our customer service team can provide directions, operating hours, and specific services available at each of our 8 branch locations across Ghana.",
+    "keywords": ["nearest branch", "contact information", "directions", "operating hours", "specific services", "customer service team"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  }
+]

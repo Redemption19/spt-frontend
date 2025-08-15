@@ -1,0 +1,47 @@
+[
+  {
+    "id": "leadership_001",
+    "category": "leadership_team",
+    "title": "Who are the key leaders at Standard Pension Trust?",
+    "content": "Standard Pension Trust is led by experienced professionals with extensive backgrounds in finance, pension management, and business leadership. Our leadership team combines decades of industry expertise to guide SPT's mission of providing secure pension services to Ghanaians.",
+    "keywords": ["leadership team", "experienced professionals", "finance background", "pension management", "business leadership", "industry expertise"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "leadership_002",
+    "category": "leadership_team",
+    "title": "How can I connect with SPT's leadership on professional networks?",
+    "content": "SPT's leadership team maintains professional presence on LinkedIn and other social media platforms. You can find and connect with our leaders to stay updated on industry insights, company vision, and professional perspectives on pension and financial planning.",
+    "keywords": ["professional networks", "LinkedIn", "social media presence", "industry insights", "company vision", "professional perspectives"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "leadership_003",
+    "category": "leadership_team",
+    "title": "What expertise does SPT's leadership bring to pension management?",
+    "content": "Our leadership team brings diverse expertise including financial services management, regulatory compliance, investment strategy, customer service excellence, and digital transformation. This comprehensive expertise ensures SPT delivers reliable, innovative pension solutions.",
+    "keywords": ["diverse expertise", "financial services", "regulatory compliance", "investment strategy", "customer service", "digital transformation", "innovative solutions"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "leadership_004",
+    "category": "leadership_team",
+    "title": "How does SPT's leadership ensure member-focused service delivery?",
+    "content": "SPT's leadership prioritizes member welfare through transparent communication, continuous service improvement, and member feedback integration. Our leaders actively engage with the pension community and maintain focus on delivering value to members and employers.",
+    "keywords": ["member-focused", "transparent communication", "service improvement", "member feedback", "community engagement", "value delivery"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "leadership_005",
+    "category": "leadership_team",
+    "title": "What is SPT leadership's vision for the future of pension services in Ghana?",
+    "content": "SPT's leadership envisions expanding digital accessibility, enhancing member education, strengthening financial security for all Ghanaians, and maintaining industry leadership in pension innovation. We aim to make pension planning simple, accessible, and rewarding for every member.",
+    "keywords": ["future vision", "digital accessibility", "member education", "financial security", "industry leadership", "pension innovation", "simple accessible"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  }
+]

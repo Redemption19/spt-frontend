@@ -1,0 +1,47 @@
+[
+  {
+    "id": "contact_001",
+    "category": "contact_information",
+    "title": "What are SPT's main office contact details?",
+    "content": "Standard Pension Trust main office is located at 42 Nii Nortei Nyanchi Street, Dzorwulu, Greater Accra. You can reach us by phone at +233 30 278 0765 or email at info@standardpensionstrust.com. Our office hours are Monday to Friday, 8:00 AM to 5:00 PM.",
+    "keywords": ["main office", "42 Nii Nortei Nyanchi Street", "Dzorwulu", "Greater Accra", "+233 30 278 0765", "info@standardpensionstrust.com", "office hours"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contact_002",
+    "category": "contact_information",
+    "title": "How can I contact SPT customer support?",
+    "content": "For customer support, call +233 30 278 0765 during business hours (Monday-Friday, 8AM-5PM) or email info@standardpensionstrust.com. Our customer service team provides assistance with account inquiries, pension planning, and general support.",
+    "keywords": ["customer support", "+233 30 278 0765", "info@standardpensionstrust.com", "business hours", "account inquiries", "pension planning"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contact_003",
+    "category": "contact_information",
+    "title": "What are SPT's office hours and availability?",
+    "content": "SPT offices are open Monday through Friday from 8:00 AM to 5:00 PM. We are closed on weekends and public holidays. For urgent matters outside office hours, you can email info@standardpensionstrust.com and we will respond during the next business day.",
+    "keywords": ["office hours", "Monday-Friday", "8AM-5PM", "weekends closed", "public holidays", "urgent matters", "email support"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contact_004",
+    "category": "contact_information",
+    "title": "Where is SPT's main office located?",
+    "content": "Our main office is conveniently located at 42 Nii Nortei Nyanchi Street in Dzorwulu, Greater Accra region. This central location provides easy access for members across the Greater Accra area and serves as our primary customer service center.",
+    "keywords": ["main office location", "42 Nii Nortei Nyanchi Street", "Dzorwulu", "Greater Accra", "central location", "customer service center"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contact_005",
+    "category": "contact_information",
+    "title": "How can I visit SPT's office for in-person assistance?",
+    "content": "Visit our main office at 42 Nii Nortei Nyanchi Street, Dzorwulu, Greater Accra during business hours (Monday-Friday, 8AM-5PM). Our staff provides in-person assistance with account setup, pension planning consultations, document submission, and general inquiries. No appointment necessary for general services.",
+    "keywords": ["visit office", "in-person assistance", "account setup", "pension consultations", "document submission", "no appointment"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  }
+]

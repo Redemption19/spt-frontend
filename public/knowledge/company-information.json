@@ -1,0 +1,47 @@
+[
+  {
+    "id": "company_001",
+    "category": "company_information",
+    "title": "What are SPT's current company statistics and achievements?",
+    "content": "Standard Pension Trust has achieved significant milestones: 8 branches across Ghana, serving over 150,000 members, partnering with 2,000+ employers, and maintaining a 100% prompt payout record. These statistics demonstrate our commitment to reliable pension services and nationwide accessibility.",
+    "keywords": ["8 branches", "150,000 members", "2,000 employers", "100% prompt payouts", "statistics", "achievements"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "company_002",
+    "category": "company_information",
+    "title": "What is SPT's mission and vision?",
+    "content": "Standard Pension Trust is dedicated to providing secure, reliable pension services that help Ghanaians build financial security for retirement. We combine traditional values with modern financial solutions to serve diverse communities across Ghana.",
+    "keywords": ["mission", "vision", "secure pension", "financial security", "retirement", "traditional values"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "company_003",
+    "category": "company_information",
+    "title": "How does SPT ensure nationwide accessibility?",
+    "content": "With 8 strategically located branches across Ghana, SPT ensures members can access services conveniently. Our branch network covers major cities and regions, providing in-person support alongside digital services for comprehensive accessibility.",
+    "keywords": ["nationwide accessibility", "8 branches", "strategic locations", "in-person support", "comprehensive access"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "company_004",
+    "category": "company_information",
+    "title": "What makes SPT's payout record reliable?",
+    "content": "SPT maintains a 100% prompt payout record, ensuring all eligible pension benefits are paid on time without delays. This reliability is backed by sound financial management, regulatory compliance, and commitment to member welfare.",
+    "keywords": ["100% prompt payouts", "reliable", "on time", "financial management", "regulatory compliance", "member welfare"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "company_005",
+    "category": "company_information",
+    "title": "How does SPT serve both individual members and employers?",
+    "content": "SPT serves over 150,000 individual members while partnering with 2,000+ employers to provide comprehensive pension solutions. We offer tailored services for both individual retirement planning and corporate pension scheme management.",
+    "keywords": ["individual members", "employers", "150,000 members", "2,000 employers", "tailored services", "corporate schemes"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  }
+]

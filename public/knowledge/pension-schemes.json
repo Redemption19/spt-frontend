@@ -1,0 +1,56 @@
+[
+  {
+    "id": "schemes_001",
+    "category": "pension_schemes",
+    "title": "What pension schemes does SPT offer?",
+    "content": "Standard Pension Trust offers comprehensive pension schemes designed to meet diverse retirement planning needs. Our schemes include individual pension plans, employer-sponsored group schemes, and flexible contribution options to accommodate different income levels and retirement goals.",
+    "keywords": ["pension schemes", "individual pension plans", "employer-sponsored", "group schemes", "flexible contributions", "retirement goals"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "schemes_002",
+    "category": "pension_schemes",
+    "title": "What are the benefits of joining SPT's pension schemes?",
+    "content": "SPT pension schemes offer guaranteed retirement income, tax advantages, professional investment management, flexible contribution schedules, and 100% prompt benefit payouts. Members enjoy peace of mind knowing their retirement funds are professionally managed and secure.",
+    "keywords": ["guaranteed income", "tax advantages", "professional management", "flexible contributions", "100% prompt payouts", "peace of mind"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "schemes_003",
+    "category": "pension_schemes",
+    "title": "How do SPT's employer-sponsored schemes work?",
+    "content": "SPT partners with 2,000+ employers to provide group pension schemes. These schemes typically involve employer contributions, employee contributions, and professional fund management. Employers benefit from tax deductions while employees build retirement security through regular contributions.",
+    "keywords": ["employer-sponsored", "2000+ employers", "group schemes", "employer contributions", "employee contributions", "tax deductions"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "schemes_004",
+    "category": "pension_schemes",
+    "title": "What makes SPT's pension schemes reliable?",
+    "content": "SPT's reliability is demonstrated through our 100% prompt payout record, regulatory compliance, professional fund management, and transparent reporting. With over 150,000 satisfied members, our schemes have proven track record of delivering on retirement promises.",
+    "keywords": ["reliable", "100% prompt payouts", "regulatory compliance", "professional management", "transparent reporting", "150,000 members"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "schemes_005",
+    "category": "pension_schemes",
+    "title": "How can I choose the right pension scheme for my needs?",
+    "content": "SPT offers personalized consultation to help you choose the right pension scheme based on your age, income, retirement goals, and risk tolerance. Our advisors assess your financial situation and recommend schemes that align with your retirement planning objectives.",
+    "keywords": ["personalized consultation", "right scheme", "age income goals", "risk tolerance", "financial situation", "retirement objectives"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "schemes_006",
+    "category": "pension_schemes",
+    "title": "What contribution options are available in SPT pension schemes?",
+    "content": "SPT offers flexible contribution options including monthly, quarterly, or annual payments. You can adjust contribution amounts based on your financial capacity, make additional voluntary contributions, and benefit from employer matching where applicable.",
+    "keywords": ["flexible contributions", "monthly quarterly annual", "adjust amounts", "voluntary contributions", "employer matching", "financial capacity"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  }
+]

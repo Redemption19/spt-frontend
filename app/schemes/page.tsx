@@ -19,12 +19,6 @@ const schemes = [
     gradient: "from-accent/20 via-transparent to-primary/20",
   },
   {
-    title: "DOSH Personal Pensions Scheme",
-    description: "The Combo - A specialized personal pension scheme combining traditional benefits with modern flexibility.",
-    href: "/schemes/dosh-pension",
-    gradient: "from-primary/20 via-accent/20 to-transparent",
-  },
-  {
     title: "Best Provident Fund Scheme",
     description: "A fully funded and privately managed Tier 3 provident fund scheme with tax benefits.",
     href: "/schemes/provident-fund",
