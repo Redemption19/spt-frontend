@@ -23,61 +23,41 @@ interface PensionFormPdf {
 
 const forms = [
   {
-    name: 'Employer Enrolment Form',
+    name: 'Employer Registration Form',
     description: 'For employers registering their company pension scheme',
     type: 'PDF',
     category: 'Employer',
     formType: 'employer_enrollment',
-    onlineFormUrl: '/forms/employer-enrollment'
+    onlineFormUrl: '/forms/employer-enrollment',
+    pdfPath: '/documents/EMPLOYER FORM-1.pdf'
   },
   {
-    name: 'Employee Enrolment Form',
+    name: 'Employee Registration Form',
     description: 'For individual employees joining a pension scheme',
     type: 'PDF',
     category: 'Employee',
     formType: 'employee_enrollment',
-    onlineFormUrl: '/forms/employee-enrollment'
+    onlineFormUrl: '/forms/employee-enrollment',
+    pdfPath: '/documents/EMPLOYEE REGISTRATION FORM.pdf'
   },
   {
-    name: 'Tier 2 Benefit Claim Form',
-    description: 'For claiming Tier 2 pension benefits',
+    name: 'Benefit Withdrawal Form',
+    description: 'For claiming pension benefits',
     type: 'PDF',
     category: 'Claims',
-    formType: 'tier2_benefit_claim',
-    onlineFormUrl: '/forms/tier-2-benefit-claim'
+    formType: 'benefit_withdrawal',
+    onlineFormUrl: '/forms/tier-2-benefit-claim',
+    pdfPath: '/documents/Benefit Withdrawal Form-rev.pdf'
   },
   {
-    name: 'Tier 2 Beneficiary Claim Form',
-    description: 'For beneficiaries claiming Tier 2 benefits',
+    name: 'Fund Porting Form',
+    description: 'For transferring pension funds between schemes',
     type: 'PDF',
-    category: 'Claims',
-    formType: 'tier2_beneficiary_claim',
-    onlineFormUrl: '/forms/tier-2-beneficiary-claim'
-  },
-  {
-    name: 'Tier 3 Benefit Claim Form',
-    description: 'For claiming Tier 3 pension benefits',
-    type: 'PDF',
-    category: 'Claims',
-    formType: 'tier3_benefit_claim',
-    onlineFormUrl: '/forms/tier-3-benefit-claim'
-  },
-  {
-    name: 'Tier 3 Beneficiary Claim Form',
-    description: 'For beneficiaries claiming Tier 3 benefits',
-    type: 'PDF',
-    category: 'Claims',
-    formType: 'tier3_beneficiary_claim',
-    onlineFormUrl: '/forms/tier-3-beneficiary-claim'
-  },
-  {
-    name: 'Personal Pension Claim Form',
-    description: 'For claiming personal pension benefits',
-    type: 'PDF',
-    category: 'Claims',
-    formType: 'personal_pension_claim',
-    onlineFormUrl: '/forms/personal-pension-claim'
-  },
+    category: 'Transfer',
+    formType: 'fund_porting',
+    onlineFormUrl: '/forms/tier-2-benefit-claim',
+    pdfPath: '/documents/FUND PORTING FORM12.pdf'
+  }
 ]
 
 type Form = {
@@ -87,6 +67,7 @@ type Form = {
   category: string
   formType: string
   onlineFormUrl: string
+  pdfPath: string
 }
 
 export default function SelfServiceCenterPage() {
@@ -115,42 +96,15 @@ export default function SelfServiceCenterPage() {
 
   const handleDownloadPdf = async (form: Form) => {
     try {
-      // Find the PDF ID from our backend data
-      const pdf = pensionPdfs.find(p => {
-        const titleLower = p.title.toLowerCase()
-        const nameWords = form.name.toLowerCase().split(' ')
-        return nameWords.every(word => titleLower.includes(word))
-      })
-
-      if (!pdf) {
-        // Fallback to static PDF if not found in backend
-        window.open(`/forms/${form.formType.replace('_', '-')}.pdf`, '_blank')
-        return
-      }
-
-      setDownloadingId(pdf.id)
+      // Set downloading state
+      setDownloadingId(form.formType === 'employer_enrollment' ? 1 :
+                      form.formType === 'employee_enrollment' ? 2 :
+                      form.formType === 'benefit_withdrawal' ? 3 : 4)
       
-      const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000'}/api/v1/pension-forms/download-pdf/${pdf.id}`)
-      
-      if (response.ok) {
-        // For direct file download
-        const blob = await response.blob()
-        const url = window.URL.createObjectURL(blob)
-        const a = document.createElement('a')
-        a.href = url
-        a.download = `${form.name.replace(/\s+/g, '_')}.pdf`
-        document.body.appendChild(a)
-        a.click()
-        window.URL.revokeObjectURL(url)
-        document.body.removeChild(a)
-      } else {
-        // Fallback to opening in new tab
-        window.open(`${process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000'}/api/v1/pension-forms/download-pdf/${pdf.id}`, '_blank')
-      }
+      // Open the PDF in a new tab
+      window.open(form.pdfPath, '_blank')
     } catch (error) {
-      console.error('Error downloading PDF:', error)
-      // Fallback to static PDF
-      window.open(`/forms/${form.formType.replace('_', '-')}.pdf`, '_blank')
+      console.error('Error opening PDF:', error)
     } finally {
       setDownloadingId(null)
     }
@@ -196,8 +150,10 @@ export default function SelfServiceCenterPage() {
           {/* Forms Grid */}
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
             {forms.map((form: Form, index) => {
-              const pdfInfo = getPdfInfo(form)
-              const isDownloading = downloadingId === pdfInfo?.id
+              const formId = form.formType === 'employer_enrollment' ? 1 :
+                           form.formType === 'employee_enrollment' ? 2 :
+                           form.formType === 'benefit_withdrawal' ? 3 : 4
+              const isDownloading = downloadingId === formId
               
               return (
                 <Card key={index} className="border-border/50">
@@ -206,11 +162,6 @@ export default function SelfServiceCenterPage() {
                       <div className="flex-1">
                         <CardTitle className="text-lg mb-2">{form.name}</CardTitle>
                         <CardDescription>{form.description}</CardDescription>
-                        {pdfInfo && (
-                          <div className="text-xs text-muted-foreground mt-2">
-                            Size: {formatFileSize(pdfInfo.file_size)} • Downloads: {pdfInfo.download_count}
-                          </div>
-                        )}
                       </div>
                       <div className="flex gap-2">
                         <span className="text-xs bg-accent/10 text-accent px-2 py-1 rounded">
@@ -226,8 +177,7 @@ export default function SelfServiceCenterPage() {
                   <CardContent>
                     <div className="flex flex-col gap-2">
                       <Button 
-                        variant="outline" 
-                        className="w-full"
+                        className="w-full bg-primary hover:bg-primary/90"
                         onClick={() => handleDownloadPdf(form)}
                         disabled={isDownloading}
                       >
@@ -243,11 +193,14 @@ export default function SelfServiceCenterPage() {
                           </>
                         )}
                       </Button>
-                      <Button asChild className="w-full">
-                        <Link href={form.onlineFormUrl} className="flex items-center justify-center">
-                          <FileText className="mr-2 h-4 w-4" />
-                          Fill Online
-                        </Link>
+                      <Button 
+                        variant="outline" 
+                        className="w-full" 
+                        disabled
+                        title="Online form submission coming soon"
+                      >
+                        <FileText className="mr-2 h-4 w-4" />
+                        Fill Online (Coming Soon)
                       </Button>
                     </div>
                   </CardContent>

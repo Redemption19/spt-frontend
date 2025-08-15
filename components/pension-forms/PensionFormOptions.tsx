@@ -17,7 +17,7 @@ interface PensionFormPdf {
 }
 
 interface PensionFormOptionsProps {
-  formType: 'employee' | 'employer' | 'tier2-benefit' | 'tier3-benefit' | 'personal-pension'
+  formType: 'employee' | 'employer' | 'benefit' | 'porting'
   title: string
   description: string
   onlineFormComponent: React.ReactNode
@@ -39,32 +39,47 @@ export default function PensionFormOptions({
 
   const fetchPensionFormPdfs = async () => {
     try {
-      const response = await fetch('/api/v1/pension-forms/pdfs')
-      const data = await response.json()
-      
-      if (data.status === 'success') {
-        // Filter PDFs based on form type
-        const filteredPdfs = data.data.filter((pdf: PensionFormPdf) => {
-          const titleLower = pdf.title.toLowerCase()
-          switch (formType) {
-            case 'employee':
-              return titleLower.includes('employee enrollment')
-            case 'employer':
-              return titleLower.includes('employer enrollment')
-            case 'tier2-benefit':
-              return titleLower.includes('tier 2 benefit claim')
-            case 'tier3-benefit':
-              return titleLower.includes('tier 3 benefit claim')
-            case 'personal-pension':
-              return titleLower.includes('personal pension claim')
-            default:
-              return false
-          }
-        })
-        setPdfs(filteredPdfs)
+      // Map each form type to its corresponding PDF
+      const formMap = {
+        'employee': {
+          id: 1,
+          title: 'Employee Registration Form',
+          description: 'Complete this form to enroll as an employee in our pension scheme',
+          download_url: '/documents/EMPLOYEE REGISTRATION FORM.pdf',
+          file_size: 500000
+        },
+        'employer': {
+          id: 2,
+          title: 'Employer Registration Form',
+          description: 'Register your organization as an employer in our pension scheme',
+          download_url: '/documents/EMPLOYER FORM-1.pdf',
+          file_size: 500000
+        },
+        'benefit': {
+          id: 3,
+          title: 'Benefit Withdrawal Form',
+          description: 'Use this form to claim your pension benefits',
+          download_url: '/documents/Benefit Withdrawal Form-rev.pdf',
+          file_size: 500000
+        },
+        'porting': {
+          id: 4,
+          title: 'Fund Porting Form',
+          description: 'Transfer your pension funds between schemes',
+          download_url: '/documents/FUND PORTING FORM12.pdf',
+          file_size: 500000
+        }
+      }
+
+      const formData = formMap[formType]
+      if (formData) {
+        setPdfs([{
+          ...formData,
+          download_count: 0
+        }])
       }
     } catch (error) {
-      console.error('Error fetching pension form PDFs:', error)
+      console.error('Error setting up pension form PDFs:', error)
     } finally {
       setLoading(false)
     }
@@ -72,12 +87,10 @@ export default function PensionFormOptions({
 
   const handleDownloadPdf = async (pdfId: number) => {
     try {
-      const response = await fetch(`/api/v1/pension-forms/download-pdf/${pdfId}`)
-      const data = await response.json()
-      
-      if (data.status === 'success') {
-        // Open download URL in new tab
-        window.open(data.data.download_url, '_blank')
+      const pdf = pdfs.find(p => p.id === pdfId)
+      if (pdf) {
+        // Open PDF in new tab
+        window.open(pdf.download_url, '_blank')
       }
     } catch (error) {
       console.error('Error downloading PDF:', error)
