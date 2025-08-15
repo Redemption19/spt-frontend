@@ -1,5 +1,5 @@
 import { comprehensiveKnowledge, faqData, leadershipInfo, schemeDetails } from '@/lib/enhanced-knowledge-base'
-import { navItems, footerLinks, pensionSchemes, companyStats, leadershipTeam, timelineEvents, boardOfTrustees, blogPosts, faqs, contactInfo } from '@/lib/constants'
+import { navItems, footerLinks, pensionSchemes, companyStats, leadershipTeam, timelineEvents, blogPosts, faqs, contactInfo } from '@/lib/constants'
 
 // Enhanced search result interface
 export interface EnhancedSearchResult {
