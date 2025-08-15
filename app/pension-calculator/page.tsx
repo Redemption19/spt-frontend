@@ -133,9 +133,6 @@ export default function PensionCalculatorPage() {
                       Tier 1 pension rights: 37.5% for first 15 years + 1.125% per additional year (max 60%).
                     </li>
                     <li className="text-sm sm:text-base leading-relaxed">
-                      Early retirement (before age 60) incurs a 10% penalty per year from your Tier 1 benefits.
-                    </li>
-                    <li className="text-sm sm:text-base leading-relaxed">
                       We recommend reviewing your pension plan regularly with a financial advisor.
                     </li>
                     <li className="text-sm sm:text-base leading-relaxed">
