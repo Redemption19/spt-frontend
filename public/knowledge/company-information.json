@@ -43,5 +43,23 @@
     "keywords": ["individual members", "employers", "150,000 members", "2,000 employers", "tailored services", "corporate schemes"],
     "createdAt": "2024-01-01T00:00:00Z",
     "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "company_006",
+    "category": "company_information",
+    "title": "What is SPT's branch network structure and coverage?",
+    "content": "SPT operates a comprehensive network of 8 branches strategically located across Ghana's major cities and regions. Our branches are in Greater Accra (main office), Takoradi, Kumasi, Ho, Dunkwaw-on-Offin, Cape Coast, Techiman, and additional regional locations. This network ensures that pension services are accessible to members nationwide, providing both in-person support and digital services. Each branch is fully equipped to handle all pension-related services including account management, contributions, claims processing, and consultations.",
+    "keywords": ["8 branches", "branch network", "strategic locations", "nationwide coverage", "major cities", "in-person support", "digital services", "pension services", "account management"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:Z"
+  },
+  {
+    "id": "company_007",
+    "category": "company_information",
+    "title": "Does SPT have physical branch locations?",
+    "content": "YES, SPT has 8 physical branch locations across Ghana. We are NOT just an online-only service. Our branches provide in-person support, face-to-face consultations, document verification, and local customer service. Our branches are located in Greater Accra (main office), Takoradi, Kumasi, Ho, Dunkwaw-on-Offin, Cape Coast, Techiman, and additional regional locations. Each branch offers comprehensive pension services including account opening, contribution processing, benefit claims, pension planning consultations, and customer support. We combine physical branch accessibility with digital services for the best member experience.",
+    "keywords": ["physical branches", "8 branches", "in-person support", "face-to-face consultations", "document verification", "local customer service", "not online-only", "physical locations", "branch network"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
   }
 ]

@@ -78,6 +78,14 @@ export const comprehensiveKnowledge = [
     content: "Comprehensive Pension Calculator: Advanced tool calculating Tier 1 SSNIT, Tier 2 Occupational, and Tier 3 Voluntary pension projections. Input Parameters: Current age, retirement age, salary, contribution history, investment return assumptions, inflation expectations. Calculations Include: Pension rights percentage (37.5% for first 15 years + 1.125% per additional year, max 60%), early retirement penalties, fund growth projections, replacement ratios. Results: Monthly pension estimates, lump sum projections, survivor benefits, invalidity benefits, total retirement income, readiness scores.",
     keywords: ["pension calculator", "retirement planning", "pension rights", "early retirement", "replacement ratio", "survivor benefits", "scenario modeling"],
     route: "/pension-calculator"
+  },
+  {
+    id: 11,
+    category: "branch_network",
+    title: "SPT's Branch Network and Physical Locations",
+    content: "SPT operates 8 physical branch locations across Ghana providing comprehensive in-person pension services. Our branches are strategically located in: 1) GREATER ACCRA (Main Office): 42 Nii Nortei Nyanchi Street, Dzorwulu, Phone: +233 30 278 0765, 2) TAKORADI: Amonoo Niezer Fie, Top Ten, Second Floor, Phone: +233 24 702 3411 / +233 54 248 6962, 3) KUMASI: Stadium Amakom, City Style Building (same floor with Ash FM), Phone: +233 24 481 6344, 4) HO: SSNIT Premises, 1st Floor, Phone: +233 54 070 6701, 5) DUNKWAW-ON-OFFIN: Aban Keseɛ, SSNIT Building, 1st Floor, Phone: +233 54 129 1727 / +233 26 686 2185, 6) CAPE COAST: SSNIT House, Third Floor, Phone: +233 50 391 996 / +233 55 305 4830, 7) TECHIMAN: Phone: +233 20 203 5875, 8) Additional regional locations. Each branch provides full pension services including account management, contributions, claims, consultations, and document verification. We combine physical branch accessibility with 24/7 digital services through our Member Portal, phone support, email, and WhatsApp.",
+    keywords: ["8 branches", "physical locations", "branch network", "nationwide coverage", "Greater Accra", "Takoradi", "Kumasi", "Ho", "Dunkwaw", "Cape Coast", "Techiman", "in-person services", "not online-only"],
+    route: "/contact"
   }
 ];
 
@@ -97,6 +105,10 @@ export const faqData = [
   {
     question: "How do I check my pension balance online?",
     answer: "Log in to the Member Portal using your account number and password. Your current balance and contribution history will be displayed on your dashboard."
+  },
+  {
+    question: "Does SPT have physical branch locations?",
+    answer: "YES, SPT has 8 physical branch locations across Ghana. We are NOT just an online-only service. Our branches provide in-person support, face-to-face consultations, document verification, and local customer service. Our branches are located in Greater Accra (main office), Takoradi, Kumasi, Ho, Dunkwaw-on-Offin, Cape Coast, Techiman, and additional regional locations. Each branch offers comprehensive pension services including account opening, contribution processing, benefit claims, pension planning consultations, and customer support. We combine physical branch accessibility with digital services for the best member experience."
   },
   {
     question: "What documents do I need for enrollment?",
