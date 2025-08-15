@@ -35,7 +35,7 @@ const nextConfig = {
       },
       {
         protocol: 'https',
-        hostname: 'localhost',
+        hostname: 'standardpensions.com',
         pathname: '/storage/**',
       },
     ],

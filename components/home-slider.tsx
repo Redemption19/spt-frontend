@@ -161,7 +161,7 @@ export function HomeSlider() {
               src={slide.image}
               alt={slide.title.replace(/\n/g, ' ')}
               fill
-              className="object-cover"
+              className="object-cover object-[center_20%]"
               priority={currentSlide === 0}
               sizes="100vw"
             />
@@ -335,4 +335,4 @@ export function HomeSlider() {
       </button>
     </section>
   )
-} 
+}
