@@ -1,0 +1,317 @@
+[
+  {
+    "id": "contrib_001",
+    "category": "contribution_strategies",
+    "title": "What's the minimum Tier 3 contribution that makes a meaningful difference?",
+    "content": "Start with ₵100 monthly - seemingly small but grows to ₵89,000 over 20 years with 12% returns. However, ₵300 monthly creates more significant impact: ₵267,000 over 20 years. The key is consistency over amount. Starting small builds habits; increasing gradually amplifies results without overwhelming your budget.",
+    "keywords": ["tier 3", "minimum contribution", "consistency", "compound growth", "habits", "budget"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_002",
+    "category": "contribution_strategies",
+    "title": "How do I optimize contribution timing to maximize compound growth benefits?",
+    "content": "Contribute early in each month rather than month-end to maximize daily compounding. Annual lump sums work best in January for full-year growth. Bonus payments benefit from immediate contribution rather than gradual spending. Every day your money isn't invested is a day of lost growth potential.",
+    "keywords": ["timing", "compound growth", "monthly", "annual", "bonus", "growth potential"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_003",
+    "category": "contribution_strategies",
+    "title": "What's the optimal percentage of income to contribute across all pension tiers?",
+    "content": "Target total pension contributions of 15-20% of gross income for comfortable retirement. Ghana's system provides: Tier 1 (13.5% mandatory), Tier 2 (5% employer), ideal Tier 3 (8-12% personal). This combination approaches international best practices for retirement income replacement while maintaining current lifestyle sustainability.",
+    "keywords": ["percentage", "income", "tier 1", "tier 2", "tier 3", "retirement", "lifestyle"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_004",
+    "category": "contribution_strategies",
+    "title": "How do salary increases create opportunities for contribution acceleration?",
+    "content": "Allocate 50% of salary increases to lifestyle enhancement, 50% to pension acceleration. This maintains lifestyle improvement momentum while significantly boosting retirement security. A ₵500 monthly salary increase could mean ₵250 additional pension contribution, growing to ₵186,000 over 20 years.",
+    "keywords": ["salary increase", "lifestyle", "acceleration", "retirement security", "momentum"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_005",
+    "category": "contribution_strategies",
+    "title": "Should I prioritize maximizing Tier 2 or Tier 3 contributions first?",
+    "content": "Tier 2 is mandatory (no choice), but maximize Tier 3 for tax benefits and control. Tier 3 contributions are tax-deductible up to 16.5% of gross income, providing immediate 25% \"return\" through tax savings plus long-term growth. Tier 3 also offers flexibility unavailable in Tier 2.",
+    "keywords": ["tier 2", "tier 3", "mandatory", "tax benefits", "flexibility", "control"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_006",
+    "category": "contribution_strategies",
+    "title": "How do catch-up contributions work for members starting pension planning late?",
+    "content": "Members over 50 can contribute up to 25% of gross income with full tax deductibility, versus 16.5% for younger members. This enhanced limit helps overcome lost time through higher contribution intensity. Combined with potentially higher earnings in peak career years, catch-up provisions enable meaningful retirement security despite late starts.",
+    "keywords": ["catch-up", "over 50", "tax deductibility", "late start", "retirement security"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_007",
+    "category": "contribution_strategies",
+    "title": "What contribution strategies work best for irregular income patterns?",
+    "content": "Establish minimum base contribution during low income periods to maintain momentum. Allocate 20-30% of windfall income (bonuses, commissions) to pension acceleration. Set up automatic contributions based on conservative income estimates, with manual top-ups during high-earning periods. Consistency matters more than perfect amounts.",
+    "keywords": ["irregular income", "windfall", "automatic", "momentum", "consistency"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_008",
+    "category": "contribution_strategies",
+    "title": "How do employer contributions coordinate with my personal pension strategy?",
+    "content": "Employer Tier 2 contributions (5% of basic salary) form your foundation. Personal Tier 3 contributions provide acceleration and control. Coordinate by ensuring total pension savings (employer + personal) reach 15-20% of gross income. Use employer contributions as base, personal contributions for optimization.",
+    "keywords": ["employer", "tier 2", "personal", "tier 3", "coordination", "optimization"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_009",
+    "category": "contribution_strategies",
+    "title": "What happens if I can't maintain my planned contribution level?",
+    "content": "Reduce rather than stop completely. Maintaining even minimal contributions preserves habits and account momentum. Temporary reductions during financial stress are normal and manageable. Resume higher levels when circumstances improve. The worst pension strategy is perfect contributions followed by complete stopping.",
+    "keywords": ["reduction", "habits", "momentum", "financial stress", "resume"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_010",
+    "category": "contribution_strategies",
+    "title": "How do I balance pension contributions with other financial priorities?",
+    "content": "Use percentage-based allocation: emergency fund (10%), debt repayment (15%), pension (15-20%), current needs (55-60%). Adjust percentages based on progress toward each goal. Pension planning complements rather than competes with other financial priorities when properly balanced and integrated.",
+    "keywords": ["balance", "emergency fund", "debt repayment", "priorities", "integration"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_011",
+    "category": "contribution_strategies",
+    "title": "How do I create a sustainable contribution escalation strategy?",
+    "content": "Implement automatic contribution increases: 1% of salary increase annually, 2% every promotion, 5% every 5 years. This gradual escalation feels painless while significantly boosting retirement security. Start with current sustainable level, then increase automatically with income growth. Small, consistent increases compound into substantial wealth over time.",
+    "keywords": ["escalation strategy", "automatic increases", "salary increase", "promotion", "sustainable", "compound"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_012",
+    "category": "contribution_strategies",
+    "title": "What's the optimal contribution frequency for maximum compound growth?",
+    "content": "Monthly contributions provide optimal balance of compound growth and budget management. Weekly contributions offer slightly better compounding but may complicate budgeting. Annual lump sums reduce compound growth potential. The key is consistency - regular monthly contributions beat irregular larger amounts due to time value of money.",
+    "keywords": ["contribution frequency", "monthly", "weekly", "annual", "compound growth", "time value"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_013",
+    "category": "contribution_strategies",
+    "title": "How do I coordinate contributions across multiple pension accounts?",
+    "content": "Focus on maximizing tax benefits first, then optimize for growth. Prioritize Tier 3 accounts with highest tax deductibility, then diversify across different investment strategies. Maintain consistent contribution levels across accounts rather than alternating between them. Regular rebalancing ensures optimal allocation across your pension portfolio.",
+    "keywords": ["multiple accounts", "tax benefits", "tier 3", "investment strategies", "rebalancing", "portfolio"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_014",
+    "category": "contribution_strategies",
+    "title": "What contribution strategies work best for self-employed individuals?",
+    "content": "Self-employed individuals benefit from: quarterly estimated contributions based on income, higher contribution limits (up to 25% of net earnings), and flexible contribution timing. Establish automatic transfers from business accounts, contribute windfall income immediately, and use tax planning to maximize contribution amounts.",
+    "keywords": ["self-employed", "quarterly", "higher limits", "flexible timing", "automatic transfers", "windfall"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_015",
+    "category": "contribution_strategies",
+    "title": "How do I adjust contributions during major life events?",
+    "content": "Major life events require contribution strategy adjustments: marriage (coordinate with spouse), children (maintain contributions despite expenses), career changes (adapt to new income levels), and health issues (balance medical costs with retirement planning). The key is maintaining momentum while adapting to new circumstances.",
+    "keywords": ["life events", "marriage", "children", "career changes", "health issues", "momentum"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_016",
+    "category": "contribution_strategies",
+    "title": "What's the impact of contribution timing on tax benefits?",
+    "content": "Contributions made early in the tax year provide longer tax-free growth and better compound benefits. End-of-year contributions still provide tax deductions but miss months of potential growth. Consider front-loading contributions when possible, especially for high-income earners. Tax benefits are immediate, but growth benefits compound over time.",
+    "keywords": ["contribution timing", "tax year", "tax-free growth", "compound benefits", "front-loading", "high-income"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_017",
+    "category": "contribution_strategies",
+    "title": "How do I optimize contributions for different retirement goals?",
+    "content": "Different retirement goals require different contribution strategies: early retirement (higher contributions, longer time horizon), lifestyle maintenance (balanced approach), legacy planning (maximize contributions for wealth transfer), and healthcare focus (higher contributions for medical expenses). Align contribution strategy with specific retirement objectives.",
+    "keywords": ["retirement goals", "early retirement", "lifestyle maintenance", "legacy planning", "healthcare", "objectives"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_018",
+    "category": "contribution_strategies",
+    "title": "What contribution strategies maximize employer matching benefits?",
+    "content": "Always contribute enough to receive full employer matching - this is free money. Understand your employer's matching formula and contribution limits. Some employers match Tier 3 contributions, providing additional incentive. Coordinate personal contributions with employer benefits to maximize total retirement savings.",
+    "keywords": ["employer matching", "free money", "matching formula", "contribution limits", "tier 3", "coordination"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_019",
+    "category": "contribution_strategies",
+    "title": "How do I create a contribution strategy for multiple income sources?",
+    "content": "For multiple income sources, establish contribution percentages for each source: primary employment (15-20%), side income (50-70%), investment income (30-50%), and business income (25-30%). This diversified approach ensures consistent retirement savings regardless of which income source fluctuates.",
+    "keywords": ["multiple income", "primary employment", "side income", "investment income", "business income", "diversified"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_020",
+    "category": "contribution_strategies",
+    "title": "What contribution strategies work best for high-income earners?",
+    "content": "High-income earners should maximize tax-deductible contributions (up to 16.5% of gross income), consider additional voluntary contributions beyond tax limits, and coordinate with other tax-advantaged accounts. Focus on contribution optimization rather than just amount, ensuring maximum tax benefits and growth potential.",
+    "keywords": ["high-income", "tax-deductible", "voluntary contributions", "tax limits", "tax-advantaged", "optimization"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_021",
+    "category": "contribution_strategies",
+    "title": "How do I maintain contributions during economic downturns?",
+    "content": "During economic downturns, maintain minimum contributions to preserve habits and momentum. Consider reducing contribution amounts rather than stopping completely. Focus on the long-term perspective - downturns often provide buying opportunities. Remember that consistent contributions during difficult times often provide the best long-term returns.",
+    "keywords": ["economic downturns", "minimum contributions", "habits", "momentum", "buying opportunities", "long-term returns"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_022",
+    "category": "contribution_strategies",
+    "title": "What contribution strategies optimize for inflation protection?",
+    "content": "To protect against inflation, increase contributions annually by at least the inflation rate, allocate higher percentages to growth-oriented investments, and consider inflation-adjusted contribution targets. Regular contribution increases ensure your retirement savings maintain purchasing power over time.",
+    "keywords": ["inflation protection", "annual increases", "growth-oriented", "inflation-adjusted", "purchasing power"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_023",
+    "category": "contribution_strategies",
+    "title": "How do I coordinate contributions with debt repayment strategies?",
+    "content": "Balance pension contributions with debt repayment based on interest rates: high-interest debt (credit cards) should be prioritized over contributions, moderate-interest debt (personal loans) should be balanced with contributions, and low-interest debt (mortgages) should not prevent maximum contributions. The key is optimizing total financial position.",
+    "keywords": ["debt repayment", "interest rates", "high-interest", "moderate-interest", "low-interest", "financial position"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_024",
+    "category": "contribution_strategies",
+    "title": "What contribution strategies work best for expatriates and international workers?",
+    "content": "Expatriates should consider: tax implications in both home and host countries, currency risk management, international pension portability, and coordination with home country pension systems. Consult with international tax advisors and consider maintaining contributions in stable currencies. International experience often provides higher income potential for increased contributions.",
+    "keywords": ["expatriates", "international workers", "tax implications", "currency risk", "portability", "stable currencies"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_025",
+    "category": "contribution_strategies",
+    "title": "How do I create a contribution strategy for business owners?",
+    "content": "Business owners should: establish separate business and personal pension accounts, maximize business-related contributions for tax benefits, coordinate with business cash flow cycles, and consider pension contributions as business investment in employee retention. Business success directly enables higher pension contributions.",
+    "keywords": ["business owners", "separate accounts", "business-related", "tax benefits", "cash flow", "employee retention"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_026",
+    "category": "contribution_strategies",
+    "title": "What contribution strategies optimize for early retirement goals?",
+    "content": "Early retirement requires: higher contribution rates (25-30% of income), longer investment time horizon, aggressive growth strategies, and early contribution start. Maximize tax-advantaged accounts, consider additional voluntary contributions, and focus on compound growth over extended periods. Early retirement is achievable with disciplined, high-level contributions.",
+    "keywords": ["early retirement", "higher rates", "time horizon", "aggressive growth", "tax-advantaged", "compound growth"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_027",
+    "category": "contribution_strategies",
+    "title": "How do I adjust contributions for different career stages?",
+    "content": "Career stages require different strategies: early career (establish habits, start small), mid-career (increase contributions with income growth), peak career (maximize contributions), and pre-retirement (optimize for income generation). Adapt contribution strategies to career progression and income potential at each stage.",
+    "keywords": ["career stages", "early career", "mid-career", "peak career", "pre-retirement", "career progression"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_028",
+    "category": "contribution_strategies",
+    "title": "What contribution strategies work best for seasonal workers?",
+    "content": "Seasonal workers should: establish consistent monthly contributions during peak seasons, maintain minimum contributions during off-seasons, use windfall income for pension acceleration, and coordinate with seasonal cash flow patterns. The key is maintaining momentum year-round despite income fluctuations.",
+    "keywords": ["seasonal workers", "peak seasons", "off-seasons", "windfall income", "cash flow patterns", "momentum"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_029",
+    "category": "contribution_strategies",
+    "title": "How do I coordinate contributions with other financial goals?",
+    "content": "Coordinate pension contributions with: emergency fund building, debt repayment, education funding, and major purchases. Use percentage-based allocation across all financial goals, ensuring pension planning doesn't compete with other priorities. Regular reviews and adjustments maintain balance across all financial objectives.",
+    "keywords": ["financial goals", "emergency fund", "debt repayment", "education funding", "major purchases", "percentage-based"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_030",
+    "category": "contribution_strategies",
+    "title": "What contribution strategies optimize for legacy planning?",
+    "content": "Legacy planning requires: maximizing contribution amounts, longer investment time horizons, growth-oriented strategies, and consideration of wealth transfer implications. Focus on building substantial pension wealth that can provide for future generations while maintaining personal retirement security.",
+    "keywords": ["legacy planning", "maximizing contributions", "time horizons", "growth-oriented", "wealth transfer", "future generations"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_031",
+    "category": "contribution_strategies",
+    "title": "How do I create a contribution strategy for healthcare-focused retirement?",
+    "content": "Healthcare-focused retirement requires: higher contribution rates to account for medical expenses, consideration of healthcare inflation rates, coordination with health insurance planning, and allocation to healthcare-specific investment options. Plan for healthcare costs that typically increase with age.",
+    "keywords": ["healthcare-focused", "higher rates", "medical expenses", "healthcare inflation", "health insurance", "age-related costs"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_032",
+    "category": "contribution_strategies",
+    "title": "What contribution strategies work best for risk-averse individuals?",
+    "content": "Risk-averse individuals should: focus on consistent, predictable contributions, prioritize capital preservation over growth, use conservative investment strategies, and maintain higher contribution rates to compensate for lower returns. Conservative approaches require higher contributions but provide greater peace of mind.",
+    "keywords": ["risk-averse", "consistent", "capital preservation", "conservative strategies", "higher rates", "peace of mind"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_033",
+    "category": "contribution_strategies",
+    "title": "How do I adjust contributions for different family situations?",
+    "content": "Family situations affect strategies: single individuals (higher personal contributions), married couples (coordinate spousal strategies), families with children (balance education and retirement), and multi-generational households (consider legacy planning). Adapt contribution strategies to family dynamics and responsibilities.",
+    "keywords": ["family situations", "single", "married couples", "children", "education", "multi-generational"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_034",
+    "category": "contribution_strategies",
+    "title": "What contribution strategies optimize for tax efficiency?",
+    "content": "Tax-efficient strategies include: maximizing tax-deductible contributions, timing contributions for optimal tax benefits, coordinating with other tax-advantaged accounts, and considering tax implications of withdrawal strategies. Focus on minimizing lifetime tax burden while maximizing retirement wealth.",
+    "keywords": ["tax efficiency", "tax-deductible", "timing", "tax-advantaged", "withdrawal strategies", "lifetime tax burden"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "contrib_035",
+    "category": "contribution_strategies",
+    "title": "How do I create a sustainable long-term contribution strategy?",
+    "content": "Sustainable long-term strategies require: realistic contribution levels, automatic escalation mechanisms, regular strategy reviews, and adaptability to changing circumstances. Focus on consistency over perfection, maintaining momentum through life changes, and building habits that last decades rather than months.",
+    "keywords": ["sustainable", "realistic levels", "automatic escalation", "strategy reviews", "adaptability", "consistency"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  }
+]

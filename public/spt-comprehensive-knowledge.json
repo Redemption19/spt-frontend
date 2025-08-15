@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "category": "company_overview",
+    "title": "About Standard Pensions Trust",
+    "content": "Standard Pensions Trust (SPT) is Ghana's leading pension administrator, offering comprehensive retirement planning solutions and pension schemes for individuals and businesses. We are a licensed pension fund administrator under the National Pensions Regulatory Authority (NPRA) and provide expert management of Tier 2 and Tier 3 pension schemes according to Ghana's three-tier pension system established by the National Pensions Act, 2008 (Act 766).",
+    "keywords": ["about", "company", "overview", "pension administrator", "ghana", "npra", "licensed"]
+  },
+  {
+    "id": 2,
+    "category": "pension_schemes",
+    "title": "Ghana's Three-Tier Pension System",
+    "content": "Ghana operates a three-tier pension system: ...",
+    "keywords": ["three-tier", "ssnit", "tier 1", "tier 2", "tier 3", "pension system", "ghana", "occupational", "voluntary"],
+    "route": "/schemes/"
+  },
+  {
+    "id": 3,
+    "category": "schemes",
+    "title": "Best Pension Master Trust Scheme (Tier 2)",
+    "content": "Our Best Pension Master Trust Scheme is a mandatory Tier 2 occupational pension scheme. Contribution: 5% of basic salary contributed by employer monthly. Benefits: Lump sum payment at retirement, reduced administrative costs through economies of scale, expert investment management, full regulatory compliance with NPRA. Eligibility: All formal sector employees whose employers have registered with the scheme. Administration: Professional fund management with transparent investment strategies and regular performance reporting.",
+    "keywords": ["master trust", "tier 2", "occupational", "5% contribution", "employer", "lump sum", "formal sector"]
+  },
+  {
+    "id": 4,
+    "category": "schemes",
+    "title": "Best Personal Pension Scheme (Tier 3)",
+    "content": "Our Best Personal Pension Scheme is a flexible Tier 3 voluntary pension plan. Contribution: Up to 16.5% of gross income, voluntary contributions. Tax Benefits: Contributions are tax-deductible, providing significant tax savings. Flexibility: Complete control over contribution amounts and frequency, portable between employers. Benefits: Enhanced retirement security, lump sum and annuity options, emergency access under specific conditions. Ideal for: Self-employed individuals, employees seeking additional retirement savings, anyone wanting tax-efficient savings.",
+    "keywords": ["personal pension", "tier 3", "voluntary", "16.5%", "tax benefits", "self-employed", "flexible", "deductible"]
+  },
+  {
+    "id": 5,
+    "category": "faq",
+    "title": "Frequently Asked Questions",
+    "content": "Find answers to common questions about pensions, claims, and more. How do I claim my Tier 2 benefits? ...",
+    "keywords": ["faq", "questions", "claims", "pension"],
+    "route": "/services/faq/"
+  },
+  {
+    "id": 7,
+    "category": "schemes",
+    "title": "Employer Sponsored Pension Schemes",
+    "content": "Our Employer Sponsored Schemes provide comprehensive trustee services for organizations implementing Tier 2 and Tier 3 pension benefits. Services: Complete scheme establishment, ongoing administration, regulatory compliance, employee education. Contribution Rates: Tier 2: 5% employer contribution, Tier 3: Up to 16.5% combined employer-employee contributions. Benefits for Employers: Enhanced employee retention, attractive recruitment tool, tax benefits, regulatory compliance. Benefits for Employees: Structured retirement savings, employer contributions, tax advantages, professional fund management.",
+    "keywords": ["employer sponsored", "trustee services", "scheme establishment", "employee retention", "recruitment", "compliance"]
+  },
+  {
+    "id": 8,
+    "category": "leadership",
+    "title": "Board of Directors - Leadership Team",
+    "content": "Mr. David Abeka Nelson - Managing Director: KPMG-trained Chartered Accountant with ACCA (2005) and ICA Ghana (2007) qualifications. Experience managing Balance Sheet with assets over $230 million, expert in financial management and data analytics. Prof. Emmanuel Osei Asiamah PhD - Chairman: Board Chairman with 12+ years business consulting experience, Accredited Financial Analyst, Chartered Accountant, first African professor in Educational Leadership and Business Management at Technology University of America. Mr. Kwadwo Danso-Dodoo Jnr - Member: Management Consultant and Chartered Accountant, Managing Director of Special Ice Limited, former MD of Sun Ridge and Aqua-In Limited, MBA in Finance from University of Ghana. Mr. Michael Parker - Member: 15+ years corporate finance and strategic planning experience, MBA in Finance, certified public accountant, expert in risk management and regulatory compliance. Makafui Afua Honya - Independent Member: MSc African Studies from Oxford University, strategy execution and performance management expert, former Head of Corporate Affairs & Strategy at Crystal Capital.",
+    "keywords": ["leadership", "directors", "david nelson", "emmanuel asiamah", "kwadwo danso", "michael parker", "makafui honya", "chartered accountant", "mba"]
+  },
+  {
+    "id": 9,
+    "category": "trustees",
+    "title": "Board of Trustees",
+    "content": "Best Pension Master Trust Scheme Trustees: Dr. Kwame Adjei - Board Chairman, Former Deputy Governor of Bank of Ghana, 30+ years financial regulation experience, PhD Economics, CFA and ACCA certified. Mrs. Akua Danso - Independent Trustee, Chartered Accountant and Risk Management Specialist, ACCA and FRM certified, expert in corporate governance. Best Personal Pension Scheme Trustees: Prof. Samuel Mensah - Independent Trustee, Professor of Economics and Finance at University of Ghana, PhD Economics, expert in pension systems and social security. Ms. Esi Oforiwaa - Member Representative Trustee, Labor Relations Expert with 15 years experience, LLB and MSc Human Resources, SHRM and CIPD certified.",
+    "keywords": ["trustees", "kwame adjei", "bank of ghana", "akua danso", "samuel mensah", "esi oforiwaa", "corporate governance", "labor relations"]
+  },
+  {
+    "id": 10,
+    "category": "enrollment",
+    "title": "Individual Enrollment Process",
+    "content": "Step 1: Choose Your Scheme - Select between Tier 3 Personal Pension or Provident Fund schemes based on employment status and needs. Step 2: Complete Enrollment Form - Download and fill Employee Enrollment Form with personal details, employment information, beneficiary details. Step 3: Submit Documentation - Provide required documents including Ghana Card, SSNIT number, proof of employment. Step 4: Account Setup - Receive account number and login credentials for Member Portal access. Step 5: Begin Contributions - Start making regular contributions according to chosen scheme parameters. Required Documents: Ghana Card or passport, SSNIT number, proof of employment, bank account details, beneficiary information.",
+    "keywords": ["individual enrollment", "employee enrollment", "documentation", "ghana card", "ssnit", "member portal", "contributions"]
+  },
+  {
+    "id": 11,
+    "category": "enrollment",
+    "title": "Employer Enrollment Process",
+    "content": "Step 1: Choose Pension Scheme - Select appropriate scheme for employees (Master Trust, Provident Fund, or custom Employer Sponsored). Step 2: Complete Employer Registration - Fill Employer Enrollment Form with company details, employee information, contribution structure. Step 3: NPRA Registration - Submit employer registration details to National Pensions Regulatory Authority for approval. Step 4: Employee Onboarding - Facilitate employee enrollment and education about pension benefits. Step 5: Contribution Management - Set up payroll deductions and monthly contribution transfers. Benefits: Enhanced employee retention, tax advantages, regulatory compliance, professional fund management, reduced administrative burden.",
+    "keywords": ["employer enrollment", "company registration", "npra registration", "employee onboarding", "payroll deductions", "retention"]
+  },
+  {
+    "id": 12,
+    "category": "claims",
+    "title": "Benefit Claims Process",
+    "content": "Tier 2 Benefit Claims: Complete Tier 2 Benefit Claim Form, provide proof of retirement age (60 years), employment history, Ghana Card, bank details. Processing time: 10-15 working days after approval. Tier 3 Benefit Claims: Submit Tier 3 Benefit Claim Form, meet withdrawal conditions (typically after 10 years or at retirement), provide required documentation. Personal Pension Claims: Complete Personal Pension Claim Form, satisfy termination or retirement conditions, submit employment termination letter. Beneficiary Claims: For deceased members, beneficiaries submit death certificate, proof of relationship, completed beneficiary claim forms for respective tiers. All claims require bank account verification and proper documentation for secure payment processing.",
+    "keywords": ["benefit claims", "tier 2 claims", "tier 3 claims", "retirement", "beneficiary claims", "death certificate", "withdrawal conditions"]
+  },
+  {
+    "id": 13,
+    "category": "member_services",
+    "title": "Member Portal and Digital Services",
+    "content": "Member Portal Features: 24/7 account access, real-time balance checking, contribution history tracking, statement downloads, personal detail updates, beneficiary management. Login Requirements: Member account number and secure password, optional two-factor authentication for enhanced security. Available Services: Fund performance monitoring, contribution planning tools, retirement projections, document downloads, online form submissions, secure messaging with customer service. Mobile Access: Responsive design for smartphone and tablet access, ensuring members can manage accounts anywhere. Security: Bank-level encryption, secure login protocols, regular security updates, data protection compliance.",
+    "keywords": ["member portal", "online access", "balance checking", "statements", "mobile access", "security", "digital services"]
+  },
+  {
+    "id": 14,
+    "category": "tax_benefits",
+    "title": "Tax Benefits and Incentives",
+    "content": "Tier 3 Tax Deductions: Contributions up to 16.5% of gross income are tax-deductible, providing significant annual tax savings. Employer Benefits: Employer contributions to pension schemes are tax-deductible business expenses, reducing corporate tax liability. Tax-Free Growth: Investment returns within pension funds grow tax-free until withdrawal, maximizing compound growth over time. Withdrawal Tax Treatment: Tax-free withdrawals after 10 years for formal sector employees, early withdrawal penalties may apply for premature access. Documentation: Annual tax certificates provided for filing with Ghana Revenue Authority, professional tax advice available for complex situations.",
+    "keywords": ["tax benefits", "tax deductions", "16.5%", "tax-free growth", "ghana revenue authority", "tax certificates", "corporate tax"]
+  },
+  {
+    "id": 15,
+    "category": "investment_management",
+    "title": "Investment Management and Returns",
+    "content": "Investment Strategy: Diversified portfolio management across multiple asset classes including government securities, corporate bonds, equities, and money market instruments. Fund Managers: Licensed professional fund managers with proven track records, regular performance monitoring and reporting. Risk Management: Conservative approach for Tier 2 schemes, balanced growth strategies for Tier 3 schemes, strict adherence to NPRA investment guidelines. Performance Reporting: Quarterly performance reports, annual audited statements, transparent fee structures, regular member updates on fund performance. Expected Returns: Historically competitive returns within regulatory limits, typically 8-12% annually depending on market conditions and asset allocation.",
+    "keywords": ["investment management", "diversified portfolio", "fund managers", "risk management", "performance reporting", "returns", "asset allocation"]
+  },
+  {
+    "id": 16,
+    "category": "contact_support",
+    "title": "Customer Service and Support",
+    "content": "Contact Methods: Phone support during business hours, email inquiries with 24-48 hour response time, WhatsApp chat for quick questions, in-person visits to office locations. Support Services: Account inquiries, enrollment assistance, claims processing support, technical help with Member Portal, general pension education and guidance. Business Hours: Monday-Friday 8:00 AM - 5:00 PM, limited weekend support for urgent matters. Emergency Support: 24/7 support for critical account security issues, dedicated hotline for urgent benefit claims, online self-service options available around the clock. Documentation: Comprehensive FAQ section, downloadable guides and brochures, video tutorials for common processes.",
+    "keywords": ["customer service", "phone support", "email", "whatsapp", "business hours", "emergency support", "faq", "tutorials"]
+  },
+  {
+    "id": 17,
+    "category": "pension_calculator",
+    "title": "Pension Calculator and Planning Tools",
+    "content": "Comprehensive Pension Calculator: Advanced tool calculating Tier 1 SSNIT, Tier 2 Occupational, and Tier 3 Voluntary pension projections. Input Parameters: Current age, retirement age, salary, contribution history, investment return assumptions, inflation expectations. Calculations Include: Pension rights percentage (37.5% for first 15 years + 1.125% per additional year, max 60%), early retirement penalties, fund growth projections, replacement ratios. Results Provided: Monthly pension estimates, lump sum projections, survivor benefits, invalidity benefits, total retirement income, readiness scores. Planning Features: Scenario modeling, contribution optimization suggestions, retirement timeline planning, inflation-adjusted projections, professional recommendations based on results.",
+    "keywords": ["pension calculator", "retirement planning", "pension rights", "early retirement", "replacement ratio", "survivor benefits", "scenario modeling"]
+  },
+  {
+    "id": 18,
+    "category": "regulatory_compliance",
+    "title": "Regulatory Framework and Compliance",
+    "content": "Regulatory Authority: Licensed and regulated by National Pensions Regulatory Authority (NPRA) under the National Pensions Act, 2008 (Act 766). Compliance Standards: Strict adherence to NPRA guidelines on investment limits, custodial requirements, reporting standards, member protection protocols. Governance Structure: Independent board oversight, professional trustees, regular audits, transparent reporting to regulators and members. Consumer Protection: Deposit protection schemes, regulatory oversight of fund management, standardized disclosure requirements, member grievance procedures. Regular Reporting: Quarterly regulatory filings, annual audited financial statements, regular compliance audits, public disclosure of fund performance and management.",
+    "keywords": ["npra", "regulatory compliance", "national pensions act", "governance", "consumer protection", "audits", "transparency"]
+  },
+  {
+    "id": 19,
+    "category": "forms_documents",
+    "title": "Forms and Documentation Requirements",
+    "content": "Employee Forms: Employee Enrollment Form for scheme registration, Tier 2 Benefit Claim Form, Tier 3 Benefit Claim Form, Personal Pension Claim Form, Change of Details Form, Beneficiary Nomination Form. Employer Forms: Employer Enrollment Form for company registration, Withdrawal Request Form for processing employee claims. Required Documents: Ghana Card or valid passport, SSNIT number, proof of employment, bank account details, beneficiary information, death certificates (for beneficiary claims). Form Submission: Online submission through website forms, PDF download for manual completion, in-person submission at office locations, email submission with digital signatures where accepted.",
+    "keywords": ["forms", "employee enrollment", "benefit claims", "employer enrollment", "ghana card", "ssnit number", "online submission"]
+  },
+  {
+    "id": 20,
+    "category": "frequently_asked_questions",
+    "title": "Common Questions and Answers",
+    "content": "Q: How do I claim my Tier 2 benefits? A: Download and complete Tier 2 Benefit Claim Form, submit with required documents including proof of retirement age and employment history. Q: When will I receive benefits after retirement? A: Benefits are typically processed within 10-15 working days after claim approval, payment made directly to registered bank account. Q: Can I contribute to both Tier 2 and Tier 3? A: Yes, Tier 2 is mandatory through employer, Tier 3 offers additional voluntary contributions for enhanced retirement security. Q: How do I check my pension balance? A: Log into Member Portal using your account number and password, view real-time balance and contribution history. Q: Who qualifies for Account Booster program? A: Available to all Tier 3 contributors maintaining regular monthly contributions for at least 6 months. Q: How do I update personal details? A: Update through Member Portal or submit Change of Details Form at office.",
+    "keywords": ["faq", "benefit claims", "processing time", "balance checking", "account booster", "personal details", "member portal"]
+  },
+
+  {
+    "id": 100,
+    "category": "faq",
+    "title": "How do I check my pension balance online?",
+    "content": "Log in to the Member Portal using your account number and password. Your current balance and contribution history will be displayed on your dashboard.",
+    "keywords": ["pension", "balance", "online", "member portal"],
+    "route": "/member-portal"
+  }
+] 

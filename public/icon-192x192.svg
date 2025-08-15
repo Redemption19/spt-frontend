@@ -1,0 +1,12 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="192" height="192" rx="24" fill="#000000"/>
+  <g transform="translate(48, 48)">
+    <rect width="96" height="96" rx="12" fill="#ffffff"/>
+    <g transform="translate(24, 24)">
+      <!-- SPT Logo representation -->
+      <circle cx="24" cy="24" r="20" stroke="#000000" stroke-width="3" fill="none"/>
+      <path d="M12 24 L24 12 L36 24 L24 36 Z" fill="#000000"/>
+      <text x="24" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="#000000">SPT</text>
+    </g>
+  </g>
+</svg>

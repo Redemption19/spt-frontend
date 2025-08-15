@@ -1,0 +1,33 @@
+# Robots.txt for SPT Pension Website
+
+User-agent: *
+Allow: /
+
+# Disallow admin and test pages
+Disallow: /admin/
+Disallow: /test-api/
+Disallow: /test-knowledge/
+Disallow: /api/
+
+# Disallow form processing endpoints
+Disallow: /forms/*/submit
+Disallow: /member-portal/login
+Disallow: /member-portal/setup
+Disallow: /member-portal/forgot-password
+
+# Allow important pages
+Allow: /about/
+Allow: /schemes/
+Allow: /services/
+Allow: /forms/
+Allow: /media/
+Allow: /contact
+Allow: /testimonials
+Allow: /pension-calculator
+Allow: /chat
+
+# Sitemap location
+Sitemap: https://www.standardpensions.com/sitemap.xml
+
+# Crawl delay (optional - adjust based on server capacity)
+Crawl-delay: 1

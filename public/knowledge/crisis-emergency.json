@@ -1,0 +1,92 @@
+[
+  {
+    "id": "crisis_001",
+    "category": "crisis_emergency",
+    "title": "How can I access emergency funds from my pension during natural disasters or family crises?",
+    "content": "Emergency access procedures include: understanding Tier 3 early withdrawal provisions for specific emergencies, maintaining required documentation for emergency claims, knowing expedited processing procedures during declared emergencies, coordinating with emergency fund resources before accessing pension funds, and understanding tax implications of emergency withdrawals.",
+    "keywords": ["emergency funds", "natural disasters", "family crises", "early withdrawal", "emergency claims", "tax implications"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "crisis_002",
+    "category": "crisis_emergency",
+    "title": "What happens to my pension during banking system crises or political instability?",
+    "content": "Crisis protection includes: pension fund assets held separately from banking system deposits, international diversification reducing local political risk, regulatory frameworks protecting member assets during institutional failures, alternative access methods during banking disruptions, and continuation of pension obligations regardless of political changes.",
+    "keywords": ["banking crises", "political instability", "separate assets", "international diversification", "regulatory frameworks", "pension obligations"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "crisis_003",
+    "category": "crisis_emergency",
+    "title": "How does pandemic-style economic disruption affect my pension strategy and what adaptations are needed?",
+    "content": "Pandemic response includes: maintaining contribution discipline despite income disruption, understanding that market volatility creates buying opportunities for long-term investors, coordinating pension planning with emergency fund usage, adapting contribution amounts rather than stopping completely, and focusing on long-term strategy despite short-term disruption.",
+    "keywords": ["pandemic", "economic disruption", "contribution discipline", "market volatility", "emergency funds", "long-term strategy"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "crisis_004",
+    "category": "crisis_emergency",
+    "title": "What emergency documentation should I maintain for pension access during crises?",
+    "content": "Emergency documentation includes: copies of identification documents stored securely outside home, beneficiary information copies with trusted family members, account numbers and contact information in accessible locations, medical documentation for health-related emergency withdrawals, and emergency contact lists for family notification.",
+    "keywords": ["emergency documentation", "identification documents", "beneficiary information", "account numbers", "medical documentation", "emergency contacts"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "crisis_005",
+    "category": "crisis_emergency",
+    "title": "How do I coordinate pension planning with overall family emergency preparedness?",
+    "content": "Emergency coordination includes: building emergency funds separate from pension assets, coordinating family emergency plans with pension access procedures, educating family members about pension emergency provisions, maintaining emergency communication plans with pension providers, and balancing pension preservation with emergency fund adequacy.",
+    "keywords": ["family emergency", "emergency funds", "pension access", "emergency provisions", "communication plans", "pension preservation"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "crisis_006",
+    "category": "crisis_emergency",
+    "title": "What role does pension planning play in community disaster resilience?",
+    "content": "Community resilience includes: individual pension security reducing burden on community resources during disasters, coordinated community education about emergency financial planning, support networks for pension-related emergency assistance, and community advocacy for pension system protection during crises.",
+    "keywords": ["community resilience", "pension security", "community resources", "emergency planning", "support networks", "pension protection"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "crisis_007",
+    "category": "crisis_emergency",
+    "title": "How should I modify pension contributions during extended economic hardship?",
+    "content": "Hardship modifications include: reducing contribution amounts rather than stopping completely to maintain momentum, prioritizing employer match opportunities even during financial stress, using graduated reduction rather than immediate cessation, setting restart dates for normal contributions, and maintaining minimum account activity.",
+    "keywords": ["economic hardship", "contribution reduction", "employer match", "graduated reduction", "restart dates", "account activity"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "crisis_008",
+    "category": "crisis_emergency",
+    "title": "What pension planning strategies prepare for potential currency devaluation or hyperinflation?",
+    "content": "Currency protection includes: international investment allocation within pension portfolios, understanding how pension funds hedge currency risk, maintaining some foreign currency exposure, focusing on real asset allocation during inflationary periods, and understanding that pension fund diversification provides inflation protection.",
+    "keywords": ["currency devaluation", "hyperinflation", "international investments", "currency hedging", "foreign currency", "real assets"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "crisis_009",
+    "category": "crisis_emergency",
+    "title": "How do I ensure pension benefit continuity if I need to relocate due to climate change or economic displacement?",
+    "content": "Relocation planning includes: understanding pension portability across regions, maintaining updated contact information with pension providers, coordinating pension access from new locations, understanding international pension benefit access, and ensuring family members know pension account information for emergency contact.",
+    "keywords": ["relocation", "climate change", "economic displacement", "pension portability", "contact information", "international access"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "crisis_010",
+    "category": "crisis_emergency",
+    "title": "What crisis communication plans should I establish with SPT for emergency situations?",
+    "content": "Crisis communication includes: establishing multiple contact methods with SPT including family member emergency contacts, understanding SPT emergency communication procedures, maintaining current contact information in pension records, establishing communication protocols with family members about pension emergency procedures, and knowing alternative communication methods during infrastructure disruption.",
+    "keywords": ["crisis communication", "contact methods", "emergency contacts", "communication procedures", "family protocols", "alternative methods"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  }
+]

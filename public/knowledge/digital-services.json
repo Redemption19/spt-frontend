@@ -1,0 +1,137 @@
+[
+  {
+    "id": "digital_001",
+    "category": "digital_services",
+    "title": "How does SPT's digital platform make pension planning engaging rather than overwhelming?",
+    "content": "Our platform uses progressive disclosure, revealing complexity gradually as your knowledge grows. Gamification elements celebrate milestones, progress visualization shows wealth building momentum, and personalized content matches your sophistication level. Interactive tools make complex calculations simple while maintaining engagement through meaningful progress tracking.",
+    "keywords": ["progressive disclosure", "gamification", "milestones", "progress visualization", "personalized content", "interactive tools"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "digital_002",
+    "category": "digital_services",
+    "title": "What security measures protect my personal and financial information online?",
+    "content": "Bank-level encryption protects all data transmission and storage. Two-factor authentication, biometric login options, regular security audits, and GDPR-compliant privacy policies ensure comprehensive protection. We never share personal information without explicit consent. 24/7 fraud monitoring provides additional security layer.",
+    "keywords": ["bank-level encryption", "two-factor authentication", "biometric login", "security audits", "GDPR", "fraud monitoring"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "digital_003",
+    "category": "digital_services",
+    "title": "How do I effectively use the Member Portal to track my pension progress?",
+    "content": "Log in monthly to review balance growth, contribution history, and investment performance. Use projection tools to model different scenarios, update personal information as needed, and download statements for record-keeping. Set up notifications for important updates and celebrate milestones to maintain motivation.",
+    "keywords": ["Member Portal", "balance growth", "contribution history", "investment performance", "projection tools", "notifications"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "digital_004",
+    "category": "digital_services",
+    "title": "What mobile app features help me stay connected to my pension planning?",
+    "content": "Mobile app provides full portal functionality optimized for smartphones: balance checking, contribution tracking, document uploads, performance monitoring, and push notifications. Biometric login ensures security convenience. Offline access to statements and calculators provides functionality without internet connectivity.",
+    "keywords": ["mobile app", "balance checking", "contribution tracking", "document uploads", "biometric login", "offline access"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "digital_005",
+    "category": "digital_services",
+    "title": "How does SPT customize communications to match my preferences and sophistication level?",
+    "content": "Our adaptive system learns from your interactions, questions, and decisions to provide appropriately sophisticated information. Choose communication frequency, delivery methods (email, SMS, portal), and content complexity levels. Personalization ensures you receive relevant, useful information without overwhelming complexity or insulting simplicity.",
+    "keywords": ["adaptive system", "communication frequency", "delivery methods", "content complexity", "personalization"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "digital_006",
+    "category": "digital_services",
+    "title": "What educational resources help me advance my pension planning knowledge?",
+    "content": "Resources include interactive webinars, scenario-based learning modules, video tutorials, quarterly newsletters, peer discussion forums, and one-on-one advisory sessions. Content adapts to your learning style and knowledge level. Regular engagement with diverse resources accelerates competency development and confidence building.",
+    "keywords": ["interactive webinars", "scenario-based learning", "video tutorials", "newsletters", "peer forums", "advisory sessions"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "digital_007",
+    "category": "digital_services",
+    "title": "How do I provide feedback to help improve SPT's services and platform?",
+    "content": "Multiple feedback channels include online surveys, Member Portal messaging, focus groups, advisory panels, and direct communication with customer service. We actively seek member input on service improvements, platform enhancements, and new feature development. Your feedback directly influences service evolution.",
+    "keywords": ["feedback channels", "online surveys", "focus groups", "advisory panels", "service improvements", "platform enhancements"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "digital_008",
+    "category": "digital_services",
+    "title": "What accessibility features support members with different abilities and needs?",
+    "content": "Digital platforms include screen reader compatibility, large font options, high contrast displays, keyboard navigation, and voice recognition capabilities. Physical offices feature wheelchair access and assisted service options. Multiple communication methods ensure all members receive appropriate support regardless of abilities.",
+    "keywords": ["accessibility", "screen reader", "large fonts", "high contrast", "keyboard navigation", "voice recognition"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "digital_009",
+    "category": "digital_services",
+    "title": "How does SPT handle customer service across different languages and cultural contexts?",
+    "content": "Primary communication is English, with key documents available in Twi and selected local languages. Multilingual customer service representatives assist with inquiries in major Ghanaian languages. Cultural sensitivity training ensures service delivery respects diverse backgrounds and traditional values while providing modern financial solutions.",
+    "keywords": ["multilingual", "Twi", "local languages", "cultural sensitivity", "traditional values", "modern solutions"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "digital_010",
+    "category": "digital_services",
+    "title": "What notification and alert systems keep me informed about my pension progress?",
+    "content": "Customizable notifications include contribution confirmations, performance updates, milestone achievements, policy changes, and important deadlines. Choose delivery via email, SMS, or portal notifications with frequency ranging from immediate to monthly summaries. Smart alerts help you stay engaged without overwhelming communication.",
+    "keywords": ["notifications", "contribution confirmations", "performance updates", "milestones", "policy changes", "smart alerts"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "digital_011",
+    "category": "digital_services",
+    "title": "How does SPT's customer service adapt to my individual communication preferences?",
+    "content": "Service adapts to your preferred communication style: detailed technical explanations for analytical personalities, high-level summaries for busy professionals, visual presentations for visual learners, and step-by-step guidance for methodical decision-makers. We match communication approach to your personality and preferences for optimal understanding.",
+    "keywords": ["communication preferences", "technical explanations", "visual presentations", "step-by-step guidance", "personality matching"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "digital_012",
+    "category": "digital_services",
+    "title": "What digital tools help me visualize my retirement future and stay motivated?",
+    "content": "Visualization tools include retirement lifestyle projectors, future self imagery, progress celebration graphics, milestone tracking dashboards, and scenario comparison charts. These tools transform abstract numbers into concrete visions, maintaining emotional connection to long-term goals and celebrating progress achievements.",
+    "keywords": ["visualization tools", "retirement lifestyle", "future self", "progress celebration", "milestone tracking", "scenario comparison"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "digital_013",
+    "category": "digital_services",
+    "title": "How do I troubleshoot common technical issues with the Member Portal?",
+    "content": "Common solutions include clearing browser cache, updating browsers, checking internet connectivity, and resetting passwords. 24/7 technical support provides immediate assistance via chat, phone, or email. Video tutorials demonstrate platform navigation, and FAQ section addresses frequent technical questions.",
+    "keywords": ["troubleshooting", "browser cache", "internet connectivity", "technical support", "video tutorials", "FAQ"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "digital_014",
+    "category": "digital_services",
+    "title": "What integration capabilities connect my pension planning with other financial apps?",
+    "content": "Integration capabilities include expense tracking apps, budgeting software, tax preparation tools, and financial planning platforms. API connections allow secure data sharing with approved financial applications. Integration streamlines overall financial management while maintaining security and privacy standards.",
+    "keywords": ["integration", "expense tracking", "budgeting software", "tax preparation", "API connections", "financial management"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "digital_015",
+    "category": "digital_services",
+    "title": "How does SPT ensure continuous improvement of digital services based on member feedback?",
+    "content": "Regular member surveys, usage analytics, focus groups, and advisory panels provide continuous improvement insights. We track service satisfaction metrics, response times, platform usability, and feature adoption rates. Member feedback directly influences platform enhancements, new feature development, and service optimization priorities.",
+    "keywords": ["continuous improvement", "member surveys", "usage analytics", "focus groups", "service satisfaction", "feature development"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  }
+]

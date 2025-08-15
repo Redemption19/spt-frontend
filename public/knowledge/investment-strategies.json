@@ -1,0 +1,182 @@
+[
+  {
+    "id": "invest_001",
+    "category": "investment_strategies",
+    "title": "How do I choose between conservative, balanced, and growth investment options?",
+    "content": "Your choice depends on time horizon and risk tolerance. Growth portfolios (80% equities) suit members under 45 with 15+ years to retirement. Balanced portfolios (60% equities) work for middle-aged members wanting moderate growth with stability. Conservative portfolios (30% equities) suit those within 5 years of retirement prioritizing capital preservation.",
+    "keywords": ["conservative", "balanced", "growth", "equities", "risk tolerance", "time horizon"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "invest_002",
+    "category": "investment_strategies",
+    "title": "What does it really mean when my pension balance drops during market downturns?",
+    "content": "Temporary balance drops are paper losses, not real losses unless you withdraw funds. Think of market drops as discount sales - your monthly contributions buy more shares at lower prices. Historical evidence shows patient investors benefit most from volatile periods through this \"dollar-cost averaging\" effect.",
+    "keywords": ["market downturns", "paper losses", "discount sales", "dollar-cost averaging", "volatility"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "invest_003",
+    "category": "investment_strategies",
+    "title": "How do I emotionally prepare for market volatility affecting my pension balance?",
+    "content": "Expect 3-5 significant market declines during your career, each typically recovering within 18-36 months. Prepare mentally by understanding that volatility creates opportunity rather than loss for long-term investors. Focus on contribution consistency rather than balance fluctuations. Volatility is the price we pay for superior long-term returns.",
+    "keywords": ["volatility", "market declines", "opportunity", "long-term", "contribution consistency"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "invest_004",
+    "category": "investment_strategies",
+    "title": "What role should international investments play in my pension portfolio?",
+    "content": "International exposure (15-25% of portfolio) provides currency diversification and access to global growth opportunities. This reduces dependence on Ghana's economy alone while capturing worldwide innovation and development. International investments help offset local market volatility and inflation through geographic diversification.",
+    "keywords": ["international", "diversification", "currency", "global growth", "volatility", "inflation"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "invest_005",
+    "category": "investment_strategies",
+    "title": "How often should I review and potentially adjust my investment allocation?",
+    "content": "Review allocation annually or after major life changes, but avoid frequent adjustments based on short-term market movements. Successful investing requires discipline to maintain long-term strategy despite temporary market noise. Emotional investment decisions typically reduce returns compared to patient, strategic approaches.",
+    "keywords": ["review", "allocation", "annual", "life changes", "discipline", "strategy"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "invest_006",
+    "category": "investment_strategies",
+    "title": "What investment knowledge do I need to make informed portfolio decisions?",
+    "content": "Understand these fundamentals: stocks offer higher long-term returns but more volatility; bonds provide stability but lower returns; diversification reduces risk without sacrificing returns; time horizon determines optimal risk level; and your personal risk tolerance affects sleep quality. Master these before making allocation decisions.",
+    "keywords": ["stocks", "bonds", "diversification", "risk", "time horizon", "tolerance"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "invest_007",
+    "category": "investment_strategies",
+    "title": "How does SPT's fund performance compare to other investment options available in Ghana?",
+    "content": "SPT consistently ranks in top quartile performance over 3-5 year periods, averaging 14.2% annually versus industry average of 12.1%. Our risk-adjusted returns (Sharpe ratio) exceed benchmarks by 15-20%. Performance data with detailed benchmarking is available in quarterly reports and Member Portal analytics.",
+    "keywords": ["performance", "benchmarks", "risk-adjusted returns", "quarterly reports", "analytics"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "invest_008",
+    "category": "investment_strategies",
+    "title": "What fees and costs should I understand about pension fund investments?",
+    "content": "Annual management fees range from 2.0-2.5% of fund value, covering investment management, administration, and custody services. No front-end loads or exit fees after 2 years. Fee transparency is complete with annual statements showing all charges. These fees are competitive and provide access to professional management unavailable to individual investors.",
+    "keywords": ["fees", "management", "administration", "custody", "transparency", "professional"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "invest_009",
+    "category": "investment_strategies",
+    "title": "How do investment returns compound over time to build significant wealth?",
+    "content": "Compound growth means earning returns on previous returns, creating exponential rather than linear growth. ₵500 monthly at 12% returns becomes ₵493,000 over 20 years - ₵373,000 more than contributions alone. The longer your time horizon, the more powerful compounding becomes in building retirement wealth.",
+    "keywords": ["compound growth", "exponential", "time horizon", "retirement wealth", "returns"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "invest_010",
+    "category": "investment_strategies",
+    "title": "What investment mistakes should I avoid as a pension plan member?",
+    "content": "Avoid emotional decisions during market volatility, frequent allocation changes based on short-term performance, trying to time markets, ignoring diversification principles, and choosing investments based on recent performance alone. Successful pension investing requires patience, discipline, and focus on long-term objectives rather than short-term market movements.",
+    "keywords": ["mistakes", "emotional decisions", "market timing", "diversification", "patience", "discipline"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "invest_011",
+    "category": "investment_strategies",
+    "title": "How do I create a diversified investment portfolio for my pension?",
+    "content": "Diversification reduces risk by spreading investments across different asset classes: government bonds (30-40%), corporate bonds (20-30%), equities (20-30%), and money market instruments (10-20%). This allocation balances growth potential with stability, ensuring your pension grows while protecting against market volatility.",
+    "keywords": ["diversified portfolio", "asset classes", "government bonds", "corporate bonds", "equities", "money market"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "invest_012",
+    "category": "investment_strategies",
+    "title": "What investment strategies work best for different age groups?",
+    "content": "Age-based strategies: 20s-30s (aggressive growth, 70-80% equities), 40s-50s (balanced approach, 50-60% equities), 50s-60s (conservative growth, 30-40% equities), and 60+ (capital preservation, 20-30% equities). Younger investors can afford higher risk for higher returns, while older investors prioritize capital protection.",
+    "keywords": ["age-based strategies", "aggressive growth", "balanced approach", "conservative growth", "capital preservation", "risk tolerance"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "invest_013",
+    "category": "investment_strategies",
+    "title": "How do I understand and manage investment risk in my pension?",
+    "content": "Investment risk management involves: understanding your risk tolerance, diversifying across asset classes, regularly rebalancing your portfolio, and maintaining a long-term perspective. Higher returns typically come with higher risk, so balance growth objectives with your comfort level and time horizon.",
+    "keywords": ["risk management", "risk tolerance", "diversification", "rebalancing", "long-term perspective", "growth objectives"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "invest_014",
+    "category": "investment_strategies",
+    "title": "What role do government bonds play in pension investment strategies?",
+    "content": "Government bonds provide stability and predictable returns, making them ideal for capital preservation and income generation. They typically offer lower returns than equities but higher safety. Allocate 30-40% of your pension to government bonds for stability, especially as you approach retirement age.",
+    "keywords": ["government bonds", "stability", "predictable returns", "capital preservation", "income generation", "retirement age"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "invest_015",
+    "category": "investment_strategies",
+    "title": "How do I evaluate and select investment funds for my pension?",
+    "content": "Evaluate funds based on: historical performance (5+ years), expense ratios (lower is better), fund manager track record, investment strategy alignment with your goals, and fund size/stability. Look for consistent performance across different market conditions rather than just high returns in bull markets.",
+    "keywords": ["fund evaluation", "historical performance", "expense ratios", "fund manager", "investment strategy", "market conditions"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "invest_016",
+    "category": "investment_strategies",
+    "title": "What investment strategies optimize for inflation protection?",
+    "content": "Inflation protection strategies include: investing in growth assets (equities), inflation-linked bonds, real estate investments, and commodities. These assets typically appreciate with inflation, preserving your purchasing power. Regular portfolio rebalancing ensures optimal inflation protection while maintaining diversification.",
+    "keywords": ["inflation protection", "growth assets", "equities", "inflation-linked bonds", "real estate", "commodities"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "invest_017",
+    "category": "investment_strategies",
+    "title": "How do I rebalance my pension investment portfolio?",
+    "content": "Portfolio rebalancing involves: reviewing your asset allocation quarterly, adjusting investments to maintain target percentages, selling overperforming assets to buy underperforming ones, and ensuring alignment with your risk tolerance and time horizon. Regular rebalancing maintains optimal risk-return balance.",
+    "keywords": ["portfolio rebalancing", "asset allocation", "target percentages", "overperforming", "underperforming", "risk-return balance"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "invest_018",
+    "category": "investment_strategies",
+    "title": "What investment strategies work best for conservative investors?",
+    "content": "Conservative strategies focus on: capital preservation (60-70% bonds), stable income generation (20-30% dividend-paying equities), and minimal volatility (10-20% growth assets). These strategies prioritize safety over growth, suitable for investors approaching retirement or with low risk tolerance.",
+    "keywords": ["conservative strategies", "capital preservation", "bonds", "income generation", "dividend-paying equities", "minimal volatility"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "invest_019",
+    "category": "investment_strategies",
+    "title": "How do I coordinate pension investments with other financial assets?",
+    "content": "Coordinate pension investments by: considering your total financial picture, avoiding over-concentration in any single asset class, balancing pension risk with other investments, and ensuring overall portfolio alignment with your financial goals. Your pension should complement, not duplicate, other investment strategies.",
+    "keywords": ["coordination", "total financial picture", "over-concentration", "risk balance", "portfolio alignment", "complement"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "invest_020",
+    "category": "investment_strategies",
+    "title": "What investment strategies optimize for long-term growth?",
+    "content": "Long-term growth strategies emphasize: higher equity allocations (60-80%), growth-oriented funds, regular contributions, compound growth benefits, and patience during market volatility. These strategies accept short-term risk for long-term growth potential, ideal for investors with 20+ year time horizons.",
+    "keywords": ["long-term growth", "equity allocations", "growth-oriented funds", "regular contributions", "compound growth", "market volatility"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  }
+]

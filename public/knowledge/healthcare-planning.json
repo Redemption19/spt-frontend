@@ -1,0 +1,137 @@
+[
+  {
+    "id": "healthcare_001",
+    "category": "healthcare_planning",
+    "title": "How do I plan pension withdrawals to coordinate with increasing healthcare costs in retirement?",
+    "content": "Healthcare costs typically accelerate with age, requiring strategic planning: allocate larger retirement fund portions to healthcare reserves, consider healthcare inflation rates in withdrawal calculations, coordinate pension withdrawals with health insurance cycles, and maintain emergency healthcare funds separate from regular retirement income.",
+    "keywords": ["healthcare costs", "pension withdrawals", "healthcare reserves", "healthcare inflation", "health insurance", "emergency funds"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "healthcare_002",
+    "category": "healthcare_planning",
+    "title": "What strategies integrate chronic disease management with retirement financial planning?",
+    "content": "Chronic disease planning requires: enhanced emergency fund allocation for medical expenses, earlier retirement timing considerations for health management, increased healthcare savings allocation, coordination with health insurance benefits, and potential disability income planning for progressive conditions.",
+    "keywords": ["chronic disease", "emergency funds", "retirement timing", "healthcare savings", "health insurance", "disability income"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "healthcare_003",
+    "category": "healthcare_planning",
+    "title": "How does disability insurance coordinate with my pension planning strategy?",
+    "content": "Disability insurance provides income replacement if health prevents working, while pension planning builds wealth for normal retirement. Coordinate by: ensuring disability coverage matches pension contribution capacity, understanding how disability benefits interact with pension accumulation, and planning for potential early pension access during disability.",
+    "keywords": ["disability insurance", "income replacement", "pension planning", "disability coverage", "pension accumulation", "early access"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "healthcare_004",
+    "category": "healthcare_planning",
+    "title": "What role should mental health considerations play in pension planning decisions?",
+    "content": "Mental health affects financial decision-making capacity and retirement needs. Consider: therapy and mental health support costs in retirement planning, stress impact of financial insecurity on mental health, decision-making support during mental health challenges, and pension planning as anxiety reduction tool through security building.",
+    "keywords": ["mental health", "decision-making capacity", "therapy costs", "financial insecurity", "decision support", "anxiety reduction"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "healthcare_005",
+    "category": "healthcare_planning",
+    "title": "How do I factor healthcare inflation into long-term retirement projections?",
+    "content": "Healthcare costs historically increase faster than general inflation. Plan by: using healthcare-specific inflation rates (typically 2-3% above general inflation), allocating larger fund portions to healthcare reserves, considering geographic healthcare cost differences, and building flexibility for unexpected medical expense increases.",
+    "keywords": ["healthcare inflation", "inflation rates", "healthcare reserves", "geographic differences", "medical expenses", "flexibility"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "healthcare_006",
+    "category": "healthcare_planning",
+    "title": "What pension strategies work for members managing chronic conditions affecting work capacity?",
+    "content": "Chronic conditions may require: earlier retirement planning due to potential work capacity limitations, enhanced emergency fund allocation for medical management, coordination with disability insurance for income protection, and conservative withdrawal strategies preserving funds for extended retirement periods.",
+    "keywords": ["chronic conditions", "work capacity", "earlier retirement", "emergency funds", "disability insurance", "conservative withdrawals"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "healthcare_007",
+    "category": "healthcare_planning",
+    "title": "How do I coordinate pension planning with health savings account strategies?",
+    "content": "Health savings coordination includes: maximizing tax-advantaged health savings while building pension wealth, using health savings for immediate medical costs while preserving pension for retirement income, coordinating withdrawal timing between accounts, and understanding tax implications of different account types.",
+    "keywords": ["health savings", "tax-advantaged", "pension wealth", "medical costs", "withdrawal timing", "tax implications"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "healthcare_008",
+    "category": "healthcare_planning",
+    "title": "What role does preventive healthcare investment play in retirement financial planning?",
+    "content": "Preventive healthcare reduces long-term medical costs and extends healthy working years. Invest in: regular medical screenings to catch problems early, healthy lifestyle choices reducing future medical expenses, dental and vision care preventing expensive future treatments, and fitness activities maintaining work capacity longer.",
+    "keywords": ["preventive healthcare", "medical costs", "healthy working years", "medical screenings", "lifestyle choices", "fitness activities"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "healthcare_009",
+    "category": "healthcare_planning",
+    "title": "How should potential long-term care needs influence pension planning strategies?",
+    "content": "Long-term care is expensive and often not covered by regular health insurance. Plan through: dedicating retirement fund portions specifically for care costs, considering long-term care insurance options, understanding family care capacity and preferences, and building flexibility for various care scenarios.",
+    "keywords": ["long-term care", "health insurance", "retirement funds", "care insurance", "family capacity", "care scenarios"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "healthcare_010",
+    "category": "healthcare_planning",
+    "title": "What strategies help coordinate pension planning with family medical responsibilities?",
+    "content": "Family medical responsibilities may require: enhanced emergency fund allocation for family healthcare crises, coordination with family members for shared healthcare costs, planning for potential caregiver role impacts on work capacity, and balancing personal retirement security with family healthcare support.",
+    "keywords": ["family medical", "emergency funds", "healthcare crises", "shared costs", "caregiver roles", "work capacity"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "healthcare_011",
+    "category": "healthcare_planning",
+    "title": "How do I plan for medical tourism costs in retirement using pension resources?",
+    "content": "Medical tourism for specialized or cost-effective treatment requires: foreign currency allocation in retirement planning, research into destination healthcare costs and quality, coordination with international health insurance, and emergency fund allocation for unexpected overseas medical needs.",
+    "keywords": ["medical tourism", "foreign currency", "healthcare costs", "healthcare quality", "international insurance", "overseas medical"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "healthcare_012",
+    "category": "healthcare_planning",
+    "title": "What pension planning considerations apply to members with family history of expensive medical conditions?",
+    "content": "Family medical history suggests potential future costs requiring: enhanced healthcare savings allocation, earlier long-term care planning, genetic counseling cost consideration, preventive care investment, and conservative pension withdrawal strategies preserving funds for potential extended medical needs.",
+    "keywords": ["family history", "medical conditions", "healthcare savings", "long-term care", "genetic counseling", "preventive care"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "healthcare_013",
+    "category": "healthcare_planning",
+    "title": "How does medication cost planning integrate with pension withdrawal strategies?",
+    "content": "Prescription costs often increase with age and may not be fully covered by insurance. Plan through: medication cost research for chronic conditions, coordination with health insurance prescription benefits, generic medication preference consideration, and emergency fund allocation for unexpected prescription needs.",
+    "keywords": ["medication costs", "prescription costs", "health insurance", "generic medications", "emergency funds", "prescription needs"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "healthcare_014",
+    "category": "healthcare_planning",
+    "title": "What role should health insurance coordination play in pension planning decisions?",
+    "content": "Health insurance coordination includes: understanding coverage gaps that pension funds must fill, timing retirement with health insurance availability, coordinating pension withdrawals with insurance premium payments, and planning for potential insurance cost increases in retirement.",
+    "keywords": ["health insurance", "coverage gaps", "retirement timing", "insurance availability", "premium payments", "cost increases"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "healthcare_015",
+    "category": "healthcare_planning",
+    "title": "How do I balance current health investment with future pension accumulation?",
+    "content": "Balance requires: investing in preventive health measures that reduce future costs while building pension wealth, understanding that health investment enhances work capacity and earning potential, coordinating current healthcare spending with retirement healthcare planning, and recognizing health as pension preservation strategy.",
+    "keywords": ["health investment", "preventive measures", "pension wealth", "work capacity", "earning potential", "pension preservation"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  }
+]

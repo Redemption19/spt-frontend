@@ -1,0 +1,137 @@
+[
+  {
+    "id": "cyber_001",
+    "category": "cybersecurity",
+    "title": "How do I protect my pension accounts from online fraud and cyberattacks?",
+    "content": "Cybersecurity protection includes: using strong, unique passwords for pension accounts, enabling two-factor authentication when available, avoiding pension account access on public computers or unsecured networks, monitoring account statements regularly for unauthorized activity, and reporting suspicious communications immediately.",
+    "keywords": ["cybersecurity", "online fraud", "strong passwords", "two-factor authentication", "public computers", "unauthorized activity"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "cyber_002",
+    "category": "cybersecurity",
+    "title": "What should I do if I'm not comfortable with digital pension management platforms?",
+    "content": "Support for digital hesitancy includes: in-person training sessions for platform use, simplified mobile app interfaces designed for basic phones, phone-based customer service for non-digital interactions, paper statement options for record keeping, and family member assistance coordination for digital tasks.",
+    "keywords": ["digital hesitancy", "in-person training", "simplified interfaces", "phone support", "paper statements", "family assistance"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "cyber_003",
+    "category": "cybersecurity",
+    "title": "How do I ensure my family can access my digital pension accounts if something happens to me?",
+    "content": "Digital estate planning requires: sharing account credentials with trusted family members in secure manner, updating beneficiary information regularly, providing written instructions for account access, coordinating with overall estate planning documents, and ensuring family knows location of account information.",
+    "keywords": ["digital estate planning", "account credentials", "beneficiary information", "written instructions", "estate planning", "account information"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "cyber_004",
+    "category": "cybersecurity",
+    "title": "What are the warning signs of pension-related phishing and scam communications?",
+    "content": "Phishing warning signs include: unsolicited emails requesting account information, urgent messages claiming account problems requiring immediate action, poor grammar or spelling in official communications, requests for passwords or PINs via email or phone, and links directing to suspicious websites.",
+    "keywords": ["phishing", "scam communications", "unsolicited emails", "urgent messages", "poor grammar", "suspicious links"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "cyber_005",
+    "category": "cybersecurity",
+    "title": "How do I safely manage pension account passwords and login information?",
+    "content": "Password security includes: using unique passwords for pension accounts different from other accounts, storing passwords securely using password managers or secure written records, changing passwords regularly or if security breaches occur, never sharing passwords via email or phone, and using biometric login when available.",
+    "keywords": ["password security", "unique passwords", "password managers", "regular changes", "password sharing", "biometric login"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "cyber_006",
+    "category": "cybersecurity",
+    "title": "What digital tools help me track pension progress while maintaining security?",
+    "content": "Secure tracking tools include: official SPT mobile apps with verified security features, encrypted personal finance software with pension account integration, secure cloud storage for pension documents, and official SPT Member Portal rather than third-party platforms.",
+    "keywords": ["digital tools", "pension progress", "official apps", "encrypted software", "secure storage", "Member Portal"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "cyber_007",
+    "category": "cybersecurity",
+    "title": "How do I verify legitimate communications from SPT versus fraudulent messages?",
+    "content": "Verify communications through: contacting SPT directly using official phone numbers rather than responding to suspicious messages, checking SPT website for security alerts about known scams, verifying sender email addresses match official SPT domains, and being suspicious of urgent requests for personal information.",
+    "keywords": ["legitimate communications", "fraudulent messages", "official phone numbers", "security alerts", "email verification", "urgent requests"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "cyber_008",
+    "category": "cybersecurity",
+    "title": "What backup plans should I have if digital pension platforms become unavailable?",
+    "content": "Backup plans include: maintaining paper records of account information and statements, knowing phone numbers for customer service assistance, having multiple family members trained on account access, understanding alternative communication methods with SPT, and keeping written beneficiary information current.",
+    "keywords": ["backup plans", "paper records", "customer service", "family training", "alternative communication", "beneficiary information"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "cyber_009",
+    "category": "cybersecurity",
+    "title": "How does SPT protect my personal and financial data from cyber threats?",
+    "content": "SPT protection includes: bank-level encryption for all data transmission and storage, regular security audits and updates, multi-factor authentication options, 24/7 fraud monitoring systems, staff training on cybersecurity protocols, and immediate breach notification procedures for members.",
+    "keywords": ["data protection", "bank-level encryption", "security audits", "multi-factor authentication", "fraud monitoring", "breach notification"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "cyber_010",
+    "category": "cybersecurity",
+    "title": "What should I do if I suspect my pension account has been compromised?",
+    "content": "Immediate response includes: contacting SPT fraud hotline immediately, changing all account passwords, monitoring account statements for unauthorized activity, filing police reports if financial loss occurred, and working with SPT to secure account and reverse unauthorized transactions.",
+    "keywords": ["account compromise", "fraud hotline", "password changes", "unauthorized activity", "police reports", "unauthorized transactions"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "cyber_011",
+    "category": "cybersecurity",
+    "title": "How can older members overcome technology anxiety to access digital pension services?",
+    "content": "Overcome technology anxiety through: starting with simple features and gradually expanding use, seeking help from tech-savvy family members or friends, attending SPT digital literacy training sessions, using simplified interfaces designed for seniors, and remembering that digital access provides better account monitoring.",
+    "keywords": ["technology anxiety", "simple features", "family help", "digital literacy", "simplified interfaces", "account monitoring"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "cyber_012",
+    "category": "cybersecurity",
+    "title": "What privacy settings should I use for pension-related social media discussions?",
+    "content": "Social media privacy includes: never sharing specific account balances or personal financial information, using privacy settings to limit audience for financial discussions, being cautious about financial planning discussions in public forums, avoiding photos of financial documents, and understanding that social media posts are often permanent.",
+    "keywords": ["social media privacy", "account balances", "financial information", "privacy settings", "public forums", "financial documents"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "cyber_013",
+    "category": "cybersecurity",
+    "title": "How do I stay updated on new cyber security threats affecting pension accounts?",
+    "content": "Stay updated through: subscribing to SPT security alerts and newsletters, following reputable cybersecurity news sources, attending financial security education seminars, learning from family members about new scam types, and maintaining healthy skepticism about unsolicited financial communications.",
+    "keywords": ["cyber security threats", "security alerts", "cybersecurity news", "security seminars", "scam types", "unsolicited communications"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "cyber_014",
+    "category": "cybersecurity",
+    "title": "What role should family members play in helping with digital pension management?",
+    "content": "Family support includes: teaching older relatives about digital security basics, helping set up secure password management, assisting with initial platform navigation, monitoring for potential scam communications, and providing backup access in emergency situations while respecting privacy boundaries.",
+    "keywords": ["family support", "digital security", "password management", "platform navigation", "scam monitoring", "backup access"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "cyber_015",
+    "category": "cybersecurity",
+    "title": "How do I balance convenience of digital access with security concerns?",
+    "content": "Balance convenience and security through: using secure networks and devices for pension account access, enabling security features even if they add extra steps, regularly monitoring accounts rather than setting and forgetting, keeping software and apps updated, and prioritizing security over convenience for financial accounts.",
+    "keywords": ["convenience", "security concerns", "secure networks", "security features", "account monitoring", "software updates"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  }
+]

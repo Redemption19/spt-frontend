@@ -1,0 +1,137 @@
+[
+  {
+    "id": "benefit_001",
+    "category": "benefit_claims",
+    "title": "What's the optimal strategy for claiming benefits at retirement to maximize income?",
+    "content": "Optimal strategy depends on health, spouse situation, and other income sources. Consider: taking 25% lump sum for debt elimination, purchasing annuity for guaranteed income, or programmed withdrawals for flexibility. Coordinate timing with other retirement income sources to minimize taxes and maximize total retirement security.",
+    "keywords": ["retirement", "benefit claims", "lump sum", "annuity", "programmed withdrawals", "tax optimization"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "benefit_002",
+    "category": "benefit_claims",
+    "title": "How do I prepare emotionally for the transition from saving to spending my pension?",
+    "content": "The psychological shift from accumulation to withdrawal can be challenging. Prepare by gradually visualizing retirement lifestyle, understanding that spending accumulated wealth is the purpose of saving, and recognizing that well-planned withdrawals can last decades. Consider working with counselors specialized in retirement transitions.",
+    "keywords": ["psychological transition", "retirement spending", "accumulation", "withdrawal", "emotional preparation"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "benefit_003",
+    "category": "benefit_claims",
+    "title": "At what age should I start planning my benefit withdrawal strategy?",
+    "content": "Begin withdrawal strategy planning at age 50 to allow 10-15 years for optimization. This timeline allows coordination with other retirement income sources, tax planning, health considerations, and lifestyle adjustments. Early planning prevents rushed decisions and enables optimal benefit maximization strategies.",
+    "keywords": ["withdrawal planning", "age 50", "tax planning", "health considerations", "lifestyle adjustments"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "benefit_004",
+    "category": "benefit_claims",
+    "title": "What are the tax implications of different benefit withdrawal options?",
+    "content": "Benefits withdrawn after age 60 are generally tax-free. Lump sum withdrawals may trigger tax obligations above certain thresholds. Annuity income typically receives favorable tax treatment. Early withdrawals before age 60 may incur income tax penalties. Consult tax advisors for personalized optimization strategies.",
+    "keywords": ["tax implications", "age 60", "lump sum", "annuity", "early withdrawals", "penalties"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "benefit_005",
+    "category": "benefit_claims",
+    "title": "How do I coordinate SPT benefits with SSNIT and other retirement income sources?",
+    "content": "Optimize total retirement income by timing benefit claims strategically. SSNIT provides base income, SPT benefits add security layer, personal savings offer flexibility. Consider health status, spouse needs, and estate planning goals when coordinating multiple income streams for maximum lifetime benefit.",
+    "keywords": ["SSNIT coordination", "multiple income streams", "health status", "spouse needs", "estate planning"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "benefit_006",
+    "category": "benefit_claims",
+    "title": "What survivor benefit options protect my spouse and family?",
+    "content": "Married members should consider joint life annuity options providing continued income to surviving spouse, albeit at reduced amount. Proper beneficiary designation ensures Tier 3 benefits transfer to heirs. Life insurance coordination provides additional family protection. Estate planning ensures seamless benefit transfer.",
+    "keywords": ["survivor benefits", "joint life annuity", "beneficiary designation", "life insurance", "estate planning"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "benefit_007",
+    "category": "benefit_claims",
+    "title": "How do early retirement goals affect optimal benefit claiming strategies?",
+    "content": "Early retirement before age 60 may incur benefit reduction penalties but could be worthwhile with sufficient accumulated assets. Consider partial early withdrawal from Tier 3 while allowing remaining funds to grow. Bridge strategies using other assets until penalty-free age can optimize total lifetime benefits.",
+    "keywords": ["early retirement", "benefit reduction", "partial withdrawal", "bridge strategies", "penalty-free age"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "benefit_008",
+    "category": "benefit_claims",
+    "title": "What happens if I continue working after claiming pension benefits?",
+    "content": "Claiming benefits doesn't prohibit continued employment, but you cannot contribute to the same schemes after claiming. New employment may require fresh enrollment for continued accumulation. Consider part-time work options that allow benefit receipt while maintaining some earned income and professional engagement.",
+    "keywords": ["continued employment", "contribution restrictions", "fresh enrollment", "part-time work", "earned income"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "benefit_009",
+    "category": "benefit_claims",
+    "title": "How do I ensure my benefit claims process smoothly and quickly?",
+    "content": "Prepare documentation early: gather required forms, update personal information, verify beneficiary details, and organize supporting documents. Submit complete applications well before needed benefit dates. Maintain regular communication with SPT throughout the process. Proper preparation typically enables 10-15 day processing times.",
+    "keywords": ["documentation", "forms", "beneficiary details", "communication", "processing times"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "benefit_010",
+    "category": "benefit_claims",
+    "title": "What role does health status play in benefit claiming decisions?",
+    "content": "Poor health may favor lump sum options over annuities if life expectancy is reduced. Good health with family longevity history may favor annuity options for lifetime income security. Health considerations should integrate with spouse needs, estate planning goals, and overall retirement income strategy.",
+    "keywords": ["health status", "life expectancy", "lump sum", "annuities", "spouse needs", "estate planning"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "benefit_011",
+    "category": "benefit_claims",
+    "title": "How do I plan for healthcare costs in retirement using pension benefits?",
+    "content": "Healthcare costs typically increase with age, requiring dedicated planning. Consider setting aside portion of lump sum benefits for healthcare reserves, purchasing health insurance, or selecting withdrawal strategies providing inflation protection for medical expenses. Healthcare planning is crucial for retirement security.",
+    "keywords": ["healthcare costs", "healthcare reserves", "health insurance", "inflation protection", "medical expenses"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "benefit_012",
+    "category": "benefit_claims",
+    "title": "What estate planning considerations affect optimal benefit strategies?",
+    "content": "Estate planning affects beneficiary designations, withdrawal timing, and legacy goals. Coordinate pension benefits with wills, trusts, and other estate documents. Consider family needs, tax implications, and charitable giving goals. Regular estate plan updates ensure pension benefits align with overall legacy objectives.",
+    "keywords": ["estate planning", "beneficiary designations", "wills", "trusts", "charitable giving", "legacy goals"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "benefit_013",
+    "category": "benefit_claims",
+    "title": "How do I protect against inflation eroding my retirement income over time?",
+    "content": "Inflation protection strategies include selecting growth-oriented investments before retirement, choosing inflation-adjusted annuity options, maintaining some equity exposure in retirement, and considering cost-of-living areas. Plan for 3-4% annual inflation over retirement period when calculating income needs.",
+    "keywords": ["inflation protection", "growth investments", "inflation-adjusted annuities", "equity exposure", "cost-of-living"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "benefit_014",
+    "category": "benefit_claims",
+    "title": "What benefit options exist if I become disabled before retirement age?",
+    "content": "Disability benefits include accumulated contributions plus investment returns, potential disability insurance payouts, and contribution waiver provisions. Medical certification of permanent incapacity is required. Early planning for disability scenarios ensures optimal benefit access if health challenges occur before normal retirement age.",
+    "keywords": ["disability benefits", "accumulated contributions", "disability insurance", "medical certification", "permanent incapacity"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "benefit_015",
+    "category": "benefit_claims",
+    "title": "How do I appeal benefit claim decisions if I disagree with SPT's determination?",
+    "content": "Internal appeals can be lodged within 30 days with additional supporting documentation. External appeals proceed through NPRA if internal resolution fails. Document reasons for disagreement clearly, provide supporting evidence, and consider professional assistance for complex cases. Most disputes resolve through communication and clarification.",
+    "keywords": ["appeals", "30 days", "supporting documentation", "NPRA", "professional assistance", "disputes"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "regulatory_001",
+    "category": "regulatory_compliance",
+    "title": "How does NPRA oversight protect my pension funds from mismanagement or fraud?",
+    "content": "NPRA requires segregated member fund custody, mandatory insurance coverage, minimum capital requirements, and regular audits. Ring-fencing provisions legally protect your assets from administrator financial difficulties. Independent custodian banks hold assets separately from SPT's corporate funds, ensuring benefit security regardless of company circumstances.",
+    "keywords": ["NPRA oversight", "segregated funds", "insurance coverage", "capital requirements", "audits", "ring-fencing"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "regulatory_002",
+    "category": "regulatory_compliance",
+    "title": "What happens to my pension if SPT faces financial difficulties or closure?",
+    "content": "Your pension assets are held in separate trust accounts, legally protected from SPT's corporate liabilities. NPRA regulations require complete separation of member funds from company assets. In unlikely closure scenarios, benefits transfer to alternative administrators without loss. Member protection takes absolute priority over corporate interests.",
+    "keywords": ["financial difficulties", "closure", "separate trust accounts", "legal protection", "alternative administrators", "member protection"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "regulatory_003",
+    "category": "regulatory_compliance",
+    "title": "How do regulatory changes typically affect existing member benefits and rights?",
+    "content": "Regulatory changes generally enhance member protection rather than reduce benefits. When changes affect contribution limits, investment rules, or benefit provisions, grandfathering provisions often protect existing arrangements. SPT communicates all regulatory impacts clearly and helps members optimize strategies within new frameworks.",
+    "keywords": ["regulatory changes", "member protection", "grandfathering", "contribution limits", "investment rules", "benefit provisions"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "regulatory_004",
+    "category": "regulatory_compliance",
+    "title": "What transparency requirements ensure I can monitor SPT's compliance and performance?",
+    "content": "Mandatory disclosures include quarterly performance reports, annual audited financial statements, detailed fee structures, investment policies, and governance arrangements. NPRA requires public filing of regulatory compliance reports. Members have legal rights to information access, with penalties for non-disclosure ensuring transparency.",
+    "keywords": ["transparency", "quarterly reports", "audited statements", "fee structures", "investment policies", "governance"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "regulatory_005",
+    "category": "regulatory_compliance",
+    "title": "How does SPT's governance structure ensure decisions prioritize member interests?",
+    "content": "Independent board directors provide oversight independence from management. Audit committees, investment committees, and risk management protocols ensure checks and balances. Fiduciary duty requirements legally mandate member interest prioritization over company profits. NPRA supervision provides additional oversight layer.",
+    "keywords": ["governance", "independent directors", "audit committees", "investment committees", "fiduciary duty", "NPRA supervision"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "regulatory_006",
+    "category": "regulatory_compliance",
+    "title": "What complaint and dispute resolution processes protect my rights as a member?",
+    "content": "Internal complaint procedures provide first-level resolution within 30 days. External appeals proceed through NPRA ombudsman services for independent review. Legal recourse through courts remains available for serious disputes. Complaint tracking and resolution monitoring ensure fair treatment and systematic improvement.",
+    "keywords": ["complaints", "dispute resolution", "30 days", "NPRA ombudsman", "legal recourse", "fair treatment"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "regulatory_007",
+    "category": "regulatory_compliance",
+    "title": "How do international regulatory standards influence SPT's operations and member protection?",
+    "content": "SPT incorporates best practices from International Organisation of Pension Supervisors (IOPS) and OECD guidelines while maintaining full Ghana regulatory compliance. International standards enhance risk management, governance practices, and member protection beyond minimum local requirements, providing additional security layers.",
+    "keywords": ["international standards", "IOPS", "OECD guidelines", "risk management", "governance practices", "security layers"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "regulatory_008",
+    "category": "regulatory_compliance",
+    "title": "What penalties and enforcement mechanisms ensure SPT maintains regulatory compliance?",
+    "content": "NPRA penalties range from warnings and corrective directives to fines, license suspension, or revocation for serious violations. Member compensation requirements apply for compliance failures causing losses. SPT maintains exemplary compliance record with comprehensive monitoring systems preventing violations.",
+    "keywords": ["penalties", "enforcement", "warnings", "fines", "license suspension", "member compensation"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "regulatory_009",
+    "category": "regulatory_compliance",
+    "title": "How does regulatory capital adequacy protect my interests during economic stress?",
+    "content": "SPT maintains capital well above regulatory minimums, providing buffers against operational losses and ensuring business continuity. Capital adequacy calculations include risk-weighted assets, operational risk provisions, and stress testing scenarios. Strong capitalization protects member services during economic downturns.",
+    "keywords": ["capital adequacy", "regulatory minimums", "operational losses", "business continuity", "stress testing", "economic downturns"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "regulatory_010",
+    "category": "regulatory_compliance",
+    "title": "What member rights are legally protected under Ghana's pension regulatory framework?",
+    "content": "Protected rights include benefit security, transparent information access, fair treatment, transfer rights between providers, and complaint procedures. Regulations guarantee contribution crediting, investment return entitlement, and benefit payment obligations. NPRA enforcement mechanisms actively protect these rights through oversight and penalties.",
+    "keywords": ["member rights", "benefit security", "transparent access", "fair treatment", "transfer rights", "complaint procedures"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,1624 @@
+[
+  {
+    "id": 1,
+    "category": "company_overview",
+    "title": "About Standard Pensions Trust",
+    "content": "Standard Pensions Trust (SPT) is Ghana's leading pension administrator, offering comprehensive retirement planning solutions and pension schemes for individuals and businesses. We are a licensed pension fund administrator under the National Pensions Regulatory Authority (NPRA) and provide expert management of Tier 2 and Tier 3 pension schemes according to Ghana's three-tier pension system established by the National Pensions Act, 2008 (Act 766).",
+    "keywords": [
+      "about",
+      "company",
+      "overview",
+      "pension administrator",
+      "ghana",
+      "npra",
+      "licensed"
+    ],
+    "route": ""
+  },
+  {
+    "id": 2,
+    "category": "pension_schemes",
+    "title": "Ghana's Three-Tier Pension System",
+    "content": "Ghana operates a three-tier pension system: ...",
+    "keywords": [
+      "three-tier",
+      "ssnit",
+      "tier 1",
+      "tier 2",
+      "tier 3",
+      "pension system",
+      "ghana",
+      "occupational",
+      "voluntary"
+    ],
+    "route": "/schemes/"
+  },
+  {
+    "id": 3,
+    "category": "schemes",
+    "title": "Best Pension Master Trust Scheme (Tier 2)",
+    "content": "Our Best Pension Master Trust Scheme is a mandatory Tier 2 occupational pension scheme. Contribution: 5% of basic salary contributed by employer monthly. Benefits: Lump sum payment at retirement, reduced administrative costs through economies of scale, expert investment management, full regulatory compliance with NPRA. Eligibility: All formal sector employees whose employers have registered with the scheme. Administration: Professional fund management with transparent investment strategies and regular performance reporting.",
+    "keywords": [
+      "master trust",
+      "tier 2",
+      "occupational",
+      "5% contribution",
+      "employer",
+      "lump sum",
+      "formal sector"
+    ],
+    "route": ""
+  },
+  {
+    "id": 4,
+    "category": "schemes",
+    "title": "Best Personal Pension Scheme (Tier 3)",
+    "content": "Our Best Personal Pension Scheme is a flexible Tier 3 voluntary pension plan. Contribution: Up to 16.5% of gross income, voluntary contributions. Tax Benefits: Contributions are tax-deductible, providing significant tax savings. Flexibility: Complete control over contribution amounts and frequency, portable between employers. Benefits: Enhanced retirement security, lump sum and annuity options, emergency access under specific conditions. Ideal for: Self-employed individuals, employees seeking additional retirement savings, anyone wanting tax-efficient savings.",
+    "keywords": [
+      "personal pension",
+      "tier 3",
+      "voluntary",
+      "16.5%",
+      "tax benefits",
+      "self-employed",
+      "flexible",
+      "deductible"
+    ],
+    "route": ""
+  },
+  {
+    "id": 5,
+    "category": "faq",
+    "title": "Frequently Asked Questions",
+    "content": "Find answers to common questions about pensions, claims, and more. How do I claim my Tier 2 benefits? ...",
+    "keywords": [
+      "faq",
+      "questions",
+      "claims",
+      "pension"
+    ],
+    "route": "/services/faq/"
+  },
+  {
+    "id": 6,
+    "category": "schemes",
+    "title": "Employer Sponsored Pension Schemes",
+    "content": "Our Employer Sponsored Schemes provide comprehensive trustee services for organizations implementing Tier 2 and Tier 3 pension benefits. Services: Complete scheme establishment, ongoing administration, regulatory compliance, employee education. Contribution Rates: Tier 2: 5% employer contribution, Tier 3: Up to 16.5% combined employer-employee contributions. Benefits for Employers: Enhanced employee retention, attractive recruitment tool, tax benefits, regulatory compliance. Benefits for Employees: Structured retirement savings, employer contributions, tax advantages, professional fund management.",
+    "keywords": [
+      "employer sponsored",
+      "trustee services",
+      "scheme establishment",
+      "employee retention",
+      "recruitment",
+      "compliance"
+    ],
+    "route": ""
+  },
+  {
+    "id": 7,
+    "category": "leadership",
+    "title": "Board of Directors - Leadership Team",
+    "content": "Mr. David Abeka Nelson - Managing Director: KPMG-trained Chartered Accountant with ACCA (2005) and ICA Ghana (2007) qualifications. Experience managing Balance Sheet with assets over $230 million, expert in financial management and data analytics. Prof. Emmanuel Osei Asiamah PhD - Chairman: Board Chairman with 12+ years business consulting experience, Accredited Financial Analyst, Chartered Accountant, first African professor in Educational Leadership and Business Management at Technology University of America. Mr. Kwadwo Danso-Dodoo Jnr - Member: Management Consultant and Chartered Accountant, Managing Director of Special Ice Limited, former MD of Sun Ridge and Aqua-In Limited, MBA in Finance from University of Ghana. Mr. Michael Parker - Member: 15+ years corporate finance and strategic planning experience, MBA in Finance, certified public accountant, expert in risk management and regulatory compliance. Makafui Afua Honya - Independent Member: MSc African Studies from Oxford University, strategy execution and performance management expert, former Head of Corporate Affairs & Strategy at Crystal Capital.",
+    "keywords": [
+      "leadership",
+      "directors",
+      "david nelson",
+      "emmanuel asiamah",
+      "kwadwo danso",
+      "michael parker",
+      "makafui honya",
+      "chartered accountant",
+      "mba"
+    ],
+    "route": ""
+  },
+  {
+    "id": 8,
+    "category": "trustees",
+    "title": "Board of Trustees",
+    "content": "Best Pension Master Trust Scheme Trustees: Dr. Kwame Adjei - Board Chairman, Former Deputy Governor of Bank of Ghana, 30+ years financial regulation experience, PhD Economics, CFA and ACCA certified. Mrs. Akua Danso - Independent Trustee, Chartered Accountant and Risk Management Specialist, ACCA and FRM certified, expert in corporate governance. Best Personal Pension Scheme Trustees: Prof. Samuel Mensah - Independent Trustee, Professor of Economics and Finance at University of Ghana, PhD Economics, expert in pension systems and social security. Ms. Esi Oforiwaa - Member Representative Trustee, Labor Relations Expert with 15 years experience, LLB and MSc Human Resources, SHRM and CIPD certified.",
+    "keywords": [
+      "trustees",
+      "kwame adjei",
+      "bank of ghana",
+      "akua danso",
+      "samuel mensah",
+      "esi oforiwaa",
+      "corporate governance",
+      "labor relations"
+    ],
+    "route": ""
+  },
+  {
+    "id": 9,
+    "category": "enrollment",
+    "title": "Individual Enrollment Process",
+    "content": "Step 1: Choose Your Scheme - Select between Tier 3 Personal Pension or Provident Fund schemes based on employment status and needs. Step 2: Complete Enrollment Form - Download and fill Employee Enrollment Form with personal details, employment information, beneficiary details. Step 3: Submit Documentation - Provide required documents including Ghana Card, SSNIT number, proof of employment. Step 4: Account Setup - Receive account number and login credentials for Member Portal access. Step 5: Begin Contributions - Start making regular contributions according to chosen scheme parameters. Required Documents: Ghana Card or passport, SSNIT number, proof of employment, bank account details, beneficiary information.",
+    "keywords": [
+      "individual enrollment",
+      "employee enrollment",
+      "documentation",
+      "ghana card",
+      "ssnit",
+      "member portal",
+      "contributions"
+    ],
+    "route": ""
+  },
+  {
+    "id": 10,
+    "category": "enrollment",
+    "title": "Employer Enrollment Process",
+    "content": "Step 1: Choose Pension Scheme - Select appropriate scheme for employees (Master Trust, Provident Fund, or custom Employer Sponsored). Step 2: Complete Employer Registration - Fill Employer Enrollment Form with company details, employee information, contribution structure. Step 3: NPRA Registration - Submit employer registration details to National Pensions Regulatory Authority for approval. Step 4: Employee Onboarding - Facilitate employee enrollment and education about pension benefits. Step 5: Contribution Management - Set up payroll deductions and monthly contribution transfers. Benefits: Enhanced employee retention, tax advantages, regulatory compliance, professional fund management, reduced administrative burden.",
+    "keywords": [
+      "employer enrollment",
+      "company registration",
+      "npra registration",
+      "employee onboarding",
+      "payroll deductions",
+      "retention"
+    ],
+    "route": ""
+  },
+  {
+    "id": 11,
+    "category": "claims",
+    "title": "Benefit Claims Process",
+    "content": "Tier 2 Benefit Claims: Complete Tier 2 Benefit Claim Form, provide proof of retirement age (60 years), employment history, Ghana Card, bank details. Processing time: 10-15 working days after approval. Tier 3 Benefit Claims: Submit Tier 3 Benefit Claim Form, meet withdrawal conditions (typically after 10 years or at retirement), provide required documentation. Personal Pension Claims: Complete Personal Pension Claim Form, satisfy termination or retirement conditions, submit employment termination letter. Beneficiary Claims: For deceased members, beneficiaries submit death certificate, proof of relationship, completed beneficiary claim forms for respective tiers. All claims require bank account verification and proper documentation for secure payment processing.",
+    "keywords": [
+      "benefit claims",
+      "tier 2 claims",
+      "tier 3 claims",
+      "retirement",
+      "beneficiary claims",
+      "death certificate",
+      "withdrawal conditions"
+    ],
+    "route": ""
+  },
+  {
+    "id": 12,
+    "category": "member_services",
+    "title": "Member Portal and Digital Services",
+    "content": "Member Portal Features: 24/7 account access, real-time balance checking, contribution history tracking, statement downloads, personal detail updates, beneficiary management. Login Requirements: Member account number and secure password, optional two-factor authentication for enhanced security. Available Services: Fund performance monitoring, contribution planning tools, retirement projections, document downloads, online form submissions, secure messaging with customer service. Mobile Access: Responsive design for smartphone and tablet access, ensuring members can manage accounts anywhere. Security: Bank-level encryption, secure login protocols, regular security updates, data protection compliance.",
+    "keywords": [
+      "member portal",
+      "online access",
+      "balance checking",
+      "statements",
+      "mobile access",
+      "security",
+      "digital services"
+    ],
+    "route": ""
+  },
+  {
+    "id": 13,
+    "category": "tax_benefits",
+    "title": "Tax Benefits and Incentives",
+    "content": "Tier 3 Tax Deductions: Contributions up to 16.5% of gross income are tax-deductible, providing significant annual tax savings. Employer Benefits: Employer contributions to pension schemes are tax-deductible business expenses, reducing corporate tax liability. Tax-Free Growth: Investment returns within pension funds grow tax-free until withdrawal, maximizing compound growth over time. Withdrawal Tax Treatment: Tax-free withdrawals after 10 years for formal sector employees, early withdrawal penalties may apply for premature access. Documentation: Annual tax certificates provided for filing with Ghana Revenue Authority, professional tax advice available for complex situations.",
+    "keywords": [
+      "tax benefits",
+      "tax deductions",
+      "16.5%",
+      "tax-free growth",
+      "ghana revenue authority",
+      "tax certificates",
+      "corporate tax"
+    ],
+    "route": ""
+  },
+  {
+    "id": 14,
+    "category": "investment_management",
+    "title": "Investment Management and Returns",
+    "content": "Investment Strategy: Diversified portfolio management across multiple asset classes including government securities, corporate bonds, equities, and money market instruments. Fund Managers: Licensed professional fund managers with proven track records, regular performance monitoring and reporting. Risk Management: Conservative approach for Tier 2 schemes, balanced growth strategies for Tier 3 schemes, strict adherence to NPRA investment guidelines. Performance Reporting: Quarterly performance reports, annual audited statements, transparent fee structures, regular member updates on fund performance. Expected Returns: Historically competitive returns within regulatory limits, typically 8-12% annually depending on market conditions and asset allocation.",
+    "keywords": [
+      "investment management",
+      "diversified portfolio",
+      "fund managers",
+      "risk management",
+      "performance reporting",
+      "returns",
+      "asset allocation"
+    ],
+    "route": ""
+  },
+  {
+    "id": 15,
+    "category": "contact_support",
+    "title": "Customer Service and Support",
+    "content": "Contact Methods: Phone support during business hours, email inquiries with 24-48 hour response time, WhatsApp chat for quick questions, in-person visits to office locations. Support Services: Account inquiries, enrollment assistance, claims processing support, technical help with Member Portal, general pension education and guidance. Business Hours: Monday-Friday 8:00 AM - 5:00 PM, limited weekend support for urgent matters. Emergency Support: 24/7 support for critical account security issues, dedicated hotline for urgent benefit claims, online self-service options available around the clock. Documentation: Comprehensive FAQ section, downloadable guides and brochures, video tutorials for common processes.",
+    "keywords": [
+      "customer service",
+      "phone support",
+      "email",
+      "whatsapp",
+      "business hours",
+      "emergency support",
+      "faq",
+      "tutorials"
+    ],
+    "route": ""
+  },
+  {
+    "id": 16,
+    "category": "pension_calculator",
+    "title": "Pension Calculator and Planning Tools",
+    "content": "Comprehensive Pension Calculator: Advanced tool calculating Tier 1 SSNIT, Tier 2 Occupational, and Tier 3 Voluntary pension projections. Input Parameters: Current age, retirement age, salary, contribution history, investment return assumptions, inflation expectations. Calculations Include: Pension rights percentage (37.5% for first 15 years + 1.125% per additional year, max 60%), early retirement penalties, fund growth projections, replacement ratios. Results Provided: Monthly pension estimates, lump sum projections, survivor benefits, invalidity benefits, total retirement income, readiness scores. Planning Features: Scenario modeling, contribution optimization suggestions, retirement timeline planning, inflation-adjusted projections, professional recommendations based on results.",
+    "keywords": [
+      "pension calculator",
+      "retirement planning",
+      "pension rights",
+      "early retirement",
+      "replacement ratio",
+      "survivor benefits",
+      "scenario modeling"
+    ],
+    "route": ""
+  },
+  {
+    "id": 17,
+    "category": "regulatory_compliance",
+    "title": "Regulatory Framework and Compliance",
+    "content": "Regulatory Authority: Licensed and regulated by National Pensions Regulatory Authority (NPRA) under the National Pensions Act, 2008 (Act 766). Compliance Standards: Strict adherence to NPRA guidelines on investment limits, custodial requirements, reporting standards, member protection protocols. Governance Structure: Independent board oversight, professional trustees, regular audits, transparent reporting to regulators and members. Consumer Protection: Deposit protection schemes, regulatory oversight of fund management, standardized disclosure requirements, member grievance procedures. Regular Reporting: Quarterly regulatory filings, annual audited financial statements, regular compliance audits, public disclosure of fund performance and management.",
+    "keywords": [
+      "npra",
+      "regulatory compliance",
+      "national pensions act",
+      "governance",
+      "consumer protection",
+      "audits",
+      "transparency"
+    ],
+    "route": ""
+  },
+  {
+    "id": 18,
+    "category": "forms_documents",
+    "title": "Forms and Documentation Requirements",
+    "content": "Employee Forms: Employee Enrollment Form for scheme registration, Tier 2 Benefit Claim Form, Tier 3 Benefit Claim Form, Personal Pension Claim Form, Change of Details Form, Beneficiary Nomination Form. Employer Forms: Employer Enrollment Form for company registration, Withdrawal Request Form for processing employee claims. Required Documents: Ghana Card or valid passport, SSNIT number, proof of employment, bank account details, beneficiary information, death certificates (for beneficiary claims). Form Submission: Online submission through website forms, PDF download for manual completion, in-person submission at office locations, email submission with digital signatures where accepted.",
+    "keywords": [
+      "forms",
+      "employee enrollment",
+      "benefit claims",
+      "employer enrollment",
+      "ghana card",
+      "ssnit number",
+      "online submission"
+    ],
+    "route": ""
+  },
+  {
+    "id": 19,
+    "category": "frequently_asked_questions",
+    "title": "Common Questions and Answers",
+    "content": "Q: How do I claim my Tier 2 benefits? A: Download and complete Tier 2 Benefit Claim Form, submit with required documents including proof of retirement age and employment history. Q: When will I receive benefits after retirement? A: Benefits are typically processed within 10-15 working days after claim approval, payment made directly to registered bank account. Q: Can I contribute to both Tier 2 and Tier 3? A: Yes, Tier 2 is mandatory through employer, Tier 3 offers additional voluntary contributions for enhanced retirement security. Q: How do I check my pension balance? A: Log into Member Portal using your account number and password, view real-time balance and contribution history. Q: Who qualifies for Account Booster program? A: Available to all Tier 3 contributors maintaining regular monthly contributions for at least 6 months. Q: How do I update personal details? A: Update through Member Portal or submit Change of Details Form at office.",
+    "keywords": [
+      "faq",
+      "benefit claims",
+      "processing time",
+      "balance checking",
+      "account booster",
+      "personal details",
+      "member portal"
+    ],
+    "route": ""
+  },
+  {
+    "id": 20,
+    "category": "faq",
+    "title": "How do I check my pension balance online?",
+    "content": "Log in to the Member Portal using your account number and password. Your current balance and contribution history will be displayed on your dashboard.",
+    "keywords": [
+      "pension",
+      "balance",
+      "online",
+      "member portal"
+    ],
+    "route": "/member-portal"
+  },
+  {
+    "id": 21,
+    "category": "general",
+    "title": "@/components/ui/button @/components/testimonial-section @/components/blog-card @/components/ui/NewsletterSignup",
+    "content": "@/components/ui/button @/components/testimonial-section @/components/blog-card @/components/ui/NewsletterSignup",
+    "keywords": [
+      "undefined",
+      "componentsuibutton",
+      "componentstestimonialsection",
+      "componentsblogcard",
+      "componentsuinewslettersignup"
+    ],
+    "route": "/"
+  },
+  {
+    "id": 22,
+    "category": "general",
+    "title": "@radix-ui/react-select @radix-ui/react-radio-group @/lib/testimonials-data @/components/testimonial-card ",
+    "content": "@radix-ui/react-select @radix-ui/react-radio-group @/lib/testimonials-data @/components/testimonial-card ../../components/ui/TestimonialFiltersClient",
+    "keywords": [
+      "undefined",
+      "radixuireactselect",
+      "radixuireactradiogroup",
+      "libtestimonialsdata",
+      "componentstestimonialcard",
+      "componentsuitestimonialfiltersclient"
+    ],
+    "route": "//testimonials"
+  },
+  {
+    "id": 23,
+    "category": "general",
+    "title": "@/components/ui/button @/components/survey/SurveyForm Survey Feedback | Standard Pensions Trust Help us improve our services by providing your valuable feedback",
+    "content": "@/components/ui/button @/components/survey/SurveyForm Survey Feedback | Standard Pensions Trust Help us improve our services by providing your valuable feedback.",
+    "keywords": [
+      "undefined",
+      "componentsuibutton",
+      "componentssurveysurveyform",
+      "survey",
+      "feedback",
+      "standard",
+      "pensions",
+      "trust"
+    ],
+    "route": "//services/survey-feedback"
+  },
+  {
+    "id": 24,
+    "category": "general",
+    "title": "@/components/ui/button Submit requests, download forms, and manage your pension information easily and securely",
+    "content": "@/components/ui/button Submit requests, download forms, and manage your pension information easily and securely. Employer Enrolment Form For employers registering their company pension scheme /forms/employer-enrollment.pdf /forms/employer-enrollment Employee Enrolment Form For individual employees joining a pension scheme /forms/employee-enrollment.pdf /forms/employee-enrollment Tier 2 Benefit Claim Form For claiming Tier 2 pension benefits /forms/tier-2-claim.pdf /forms/tier-2-benefit-claim Tier 2 Beneficiary Claim Form For beneficiaries claiming Tier 2 benefits /forms/tier-2-beneficiary-claim.pdf /forms/tier-2-beneficiary-claim Tier 3 Benefit Claim Form For claiming Tier 3 pension benefits /forms/tier-3-claim.pdf /forms/tier-3-benefit-claim Tier 3 Beneficiary Claim Form For beneficiaries claiming Tier 3 benefits /forms/tier-3-beneficiary-claim.pdf /forms/tier-3-beneficiary-claim Personal Pension Claim Form For claiming personal pension benefits /forms/personal-pension-claim.pdf /forms/personal-pension-claim",
+    "keywords": [
+      "undefined",
+      "componentsuibutton",
+      "submit",
+      "requests",
+      "download",
+      "forms",
+      "manage",
+      "your"
+    ],
+    "route": "//services/self-service-center"
+  },
+  {
+    "id": 25,
+    "category": "faq",
+    "title": "@/components/ui/button @/components/ui/input @/components/ui/accordion Frequently Asked Questions Find answers to common questions about pensions, claims, and more",
+    "content": "@/components/ui/button @/components/ui/input @/components/ui/accordion Frequently Asked Questions Find answers to common questions about pensions, claims, and more. How do I claim my Tier 2 benefits? To claim your Tier 2 benefits, download and complete the Tier 2 Benefit Claim Form from our Self-Service Centre. Submit the form along with required documents including proof of retirement age and employment history. When will I receive my benefit after retirement? Once your claim is approved, benefits are typically processed within 10-15 working days. Payment will be made directly to your registered bank account. Can I contribute to both Tier 2 and Tier 3? Yes, you can contribute to both Tier 2 and Tier 3 schemes simultaneously. Tier 2 is mandatory through your employer, while Tier 3 offers additional voluntary contributions. Who qualifies for the Account Booster program? The Account Booster program is available to all Tier 3 contributors who maintain regular monthly contributions for at least 6 months. How do I check my pension balance online? Log in to the Member Portal using your PAN and password. Your current balance and contribution history will be displayed on your dashboard. How do I update my personal details? You can update your personal information through the Member Portal or by submitting a change request form at our office.",
+    "keywords": [
+      "undefined",
+      "componentsuibutton",
+      "componentsuiinput",
+      "componentsuiaccordion",
+      "frequently",
+      "asked",
+      "questions",
+      "find"
+    ],
+    "route": "//services/faq"
+  },
+  {
+    "id": 26,
+    "category": "general",
+    "title": "@/components/ui/button Enroll in a Pension Plan Secure your future in just a few steps",
+    "content": "@/components/ui/button Enroll in a Pension Plan Secure your future in just a few steps. Learn how to enroll in our pension schemes as an individual or employer.",
+    "keywords": [
+      "undefined",
+      "componentsuibutton",
+      "enroll",
+      "pension",
+      "plan",
+      "secure",
+      "your",
+      "future"
+    ],
+    "route": "//services/enrollment"
+  },
+  {
+    "id": 27,
+    "category": "general",
+    "title": "Best Pensions Master Trust Scheme A mandatory Tier 2 scheme providing 5% contribution of basic salary for retirement security",
+    "content": "Best Pensions Master Trust Scheme A mandatory Tier 2 scheme providing 5% contribution of basic salary for retirement security. /schemes/master-trust from-primary/20 via-transparent to-accent/20 Best Personal Pensions Scheme A flexible Tier 3 long-term investment scheme with tax benefits for enhanced pension. /schemes/personal-pension from-accent/20 via-transparent to-primary/20 DOSH Personal Pensions Scheme The Combo - A specialized personal pension scheme combining traditional benefits with modern flexibility. /schemes/dosh-pension from-primary/20 via-accent/20 to-transparent Best Provident Fund Scheme A fully funded and privately managed Tier 3 provident fund scheme with tax benefits. /schemes/provident-fund from-accent/20 via-primary/20 to-transparent Employer Sponsored Schemes Comprehensive trustee services for 2nd & 3rd Tier pensions with full establishment ownership. /schemes/employer-sponsored from-primary/20 to-accent/20",
+    "keywords": [
+      "undefined",
+      "best",
+      "pensions",
+      "master",
+      "trust",
+      "scheme",
+      "mandatory",
+      "tier"
+    ],
+    "route": "//schemes"
+  },
+  {
+    "id": 28,
+    "category": "general",
+    "title": "@/components/ui/button Provident Fund Scheme (Tier 3) | Standard Pensions Trust Learn about the Provident Fund Scheme (Tier 3) offered by Standard Pensions Trust",
+    "content": "@/components/ui/button Provident Fund Scheme (Tier 3) | Standard Pensions Trust Learn about the Provident Fund Scheme (Tier 3) offered by Standard Pensions Trust. s National Pensions Act, 2008 (Act 766). It serves as a supplementary retirement savings plan, allowing both employers and employees in the formal sector to contribute additional funds beyond the mandatory Tier 1 and Tier 2 schemes. The scheme is administered by licensed corporate trustees, such as Standard Pensions Trust, and is designed to enhance retirement benefits and provide financial flexibility. {/* Contribution Limits & Tax Benefits */} Contribution Limits & Tax Benefits {/* Card 1: Tax Reliefs */} Tax Reliefs Contributions up to 16.5% of an employee",
+    "keywords": [
+      "undefined",
+      "componentsuibutton",
+      "provident",
+      "fund",
+      "scheme",
+      "tier",
+      "standard",
+      "pensions"
+    ],
+    "route": "//schemes/provident-fund"
+  },
+  {
+    "id": 29,
+    "category": "general",
+    "title": "@/components/ui/button Personal Pension Scheme (Tier 3) | Standard Pensions Trust Learn about the Personal Pension Scheme (Tier 3) offered by Standard Pensions Trust",
+    "content": "@/components/ui/button Personal Pension Scheme (Tier 3) | Standard Pensions Trust Learn about the Personal Pension Scheme (Tier 3) offered by Standard Pensions Trust.",
+    "keywords": [
+      "undefined",
+      "componentsuibutton",
+      "personal",
+      "pension",
+      "scheme",
+      "tier",
+      "standard",
+      "pensions"
+    ],
+    "route": "//schemes/personal-pension"
+  },
+  {
+    "id": 30,
+    "category": "general",
+    "title": "@/components/ui/button Tier 2 – Master Trust Pension | Standard Pensions Trust Learn about the Tier 2 Master Trust Pension scheme offered by Standard Pensions Trust",
+    "content": "@/components/ui/button Tier 2 – Master Trust Pension | Standard Pensions Trust Learn about the Tier 2 Master Trust Pension scheme offered by Standard Pensions Trust. s 2008 Pension Act—part of a three-tier system aimed at enhancing retirement security. It targets formal-sector employees, requiring contributions from both employee and employer, and is administered by licensed commercial trustees, such as Standard Pensions Trust. {/* Contribution Structure */} Contribution Structure 5% of your basic salary is deducted monthly and allocated to Tier 2. This is in addition to your employer re automatically enrolled by your employer if they",
+    "keywords": [
+      "undefined",
+      "componentsuibutton",
+      "tier",
+      "master",
+      "trust",
+      "pension",
+      "standard",
+      "pensions"
+    ],
+    "route": "//schemes/master-trust"
+  },
+  {
+    "id": 31,
+    "category": "general",
+    "title": "@/components/ui/button Employer Sponsored Pension Schemes | Standard Pensions Trust Learn about the Employer Sponsored Pension Schemes offered by Standard Pensions Trust",
+    "content": "@/components/ui/button Employer Sponsored Pension Schemes | Standard Pensions Trust Learn about the Employer Sponsored Pension Schemes offered by Standard Pensions Trust. s basic salary, with the option for additional voluntary contributions. {/* Item 2: Tier 3 Contributions */} Tier 3 Contributions: Employers and employees can contribute a combined total of up to 16.5% of the employee s basic salary are tax-deductible, providing significant tax savings for both employers and employees. {/* Benefit 3: Financial Security for Employees */} Financial Security for Employees Employees benefit from structured retirement savings, ensuring financial stability in their post-employment years. {/* Benefit 4: Regulatory Compliance */} Regulatory Compliance Employers ensure adherence to the National Pensions Act, mitigating legal risks and penalties. {/* Benefit 5: Customizable Plans */} Customizable Plans Schemes can be tailored to meet the unique needs of the organization and its workforce. {/* Empty cell to complete the 2x3 grid */} {/* Scheme Overview Table */} Scheme Overview Feature Details Contribution Rates Employer and employee contributions as agreed upon; Tier 2: 5% (employee), Tier 3: Up to 16.5% (voluntary) Tax Reliefs Contributions up to 16.5% of basic salary are tax-deductible Withdrawal Conditions Tax-free withdrawals after 10 years for formal sector employees; early withdrawals permitted under specific conditions Loan Facilities Access to secured loans at competitive interest rates using accumulated funds as collateral Professional Management Managed by NPRA-licensed trustees and fund managers Digital Services Online portals and mobile access for account management Portability Funds are transferable when changing employment {/* Call to Action */} Ready to discuss an Employer Sponsored Scheme for your organization? Contact us today to learn more about how we can tailor a pension solution to meet your company",
+    "keywords": [
+      "undefined",
+      "componentsuibutton",
+      "employer",
+      "sponsored",
+      "pension",
+      "schemes",
+      "standard",
+      "pensions"
+    ],
+    "route": "//schemes/employer-sponsored"
+  },
+  {
+    "id": 32,
+    "category": "general",
+    "title": "@/components/pension-calculator @radix-ui/react-icons Calculate your estimated pension benefits at retirement based on your current salary, age, and contribution levels",
+    "content": "@/components/pension-calculator @radix-ui/react-icons Calculate your estimated pension benefits at retirement based on your current salary, age, and contribution levels.",
+    "keywords": [
+      "undefined",
+      "componentspensioncalculator",
+      "radixuireacticons",
+      "calculate",
+      "your",
+      "estimated",
+      "pension",
+      "benefits"
+    ],
+    "route": "//pension-calculator"
+  },
+  {
+    "id": 33,
+    "category": "general",
+    "title": "@/components/ui/button Access your pension account, check balances, update information, and manage your retirement planning through our secure member portal",
+    "content": "@/components/ui/button Access your pension account, check balances, update information, and manage your retirement planning through our secure member portal.",
+    "keywords": [
+      "undefined",
+      "componentsuibutton",
+      "access",
+      "your",
+      "pension",
+      "account",
+      "check",
+      "balances"
+    ],
+    "route": "//member-portal"
+  },
+  {
+    "id": 34,
+    "category": "general",
+    "title": "@hookform/resolvers/zod @/components/ui/button @/components/ui/input @/components/ui/alert @/components/ui/dialog SSNIT number is required Please enter a valid phone number Please enter a valid email address Gain valuable insights into your account fund performance to support smarter retirement decisions",
+    "content": "@hookform/resolvers/zod @/components/ui/button @/components/ui/input @/components/ui/alert @/components/ui/dialog SSNIT number is required Please enter a valid phone number Please enter a valid email address Gain valuable insights into your account fund performance to support smarter retirement decisions. Easily keep your details up to date through our streamlined portal. Create additional accounts for tax advantages and accelerate your savings. Two-Factor Authentication Add an extra layer of security with optional two-factor authentication. Instant Member Statement 24/7 access to your statements—quick, easy, and reliable.",
+    "keywords": [
+      "undefined",
+      "hookformresolverszod",
+      "componentsuibutton",
+      "componentsuiinput",
+      "componentsuialert",
+      "componentsuidialog",
+      "ssnit",
+      "number"
+    ],
+    "route": "//member-portal/setup"
+  },
+  {
+    "id": 35,
+    "category": "general",
+    "title": "@hookform/resolvers/zod @/components/ui/button @/components/ui/input Account number is required Password must be at least 8 characters",
+    "content": "@hookform/resolvers/zod @/components/ui/button @/components/ui/input Account number is required Password must be at least 8 characters",
+    "keywords": [
+      "undefined",
+      "hookformresolverszod",
+      "componentsuibutton",
+      "componentsuiinput",
+      "account",
+      "number",
+      "required",
+      "password"
+    ],
+    "route": "//member-portal/login"
+  },
+  {
+    "id": 36,
+    "category": "general",
+    "title": "@/components/ui/dialog Gallery | Standard Pensions Trust View our image gallery showcasing events, facilities, and moments at Standard Pensions Trust",
+    "content": "@/components/ui/dialog Gallery | Standard Pensions Trust View our image gallery showcasing events, facilities, and moments at Standard Pensions Trust. https://images.pexels.com/photos/10173004/pexels-photo-10173004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 Office interior with team members https://images.pexels.com/photos/13936647/pexels-photo-13936647.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 Team meeting in a modern conference room https://images.pexels.com/photos/8353793/pexels-photo-8353793.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 Financial documents and calculations https://images.pexels.com/photos/3769021/pexels-photo-3769021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 Professional portrait of a team member https://images.pexels.com/photos/7063777/pexels-photo-7063777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 Person reviewing documents https://images.pexels.com/photos/10173004/pexels-photo-10173004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 Another view of office interior",
+    "keywords": [
+      "undefined",
+      "componentsuidialog",
+      "gallery",
+      "standard",
+      "pensions",
+      "trust",
+      "view",
+      "image"
+    ],
+    "route": "//media/gallery"
+  },
+  {
+    "id": 37,
+    "category": "general",
+    "title": "@/components/ui/input @/components/ui/select @/components/ui/button @/components/ui/badge",
+    "content": "@/components/ui/input @/components/ui/select @/components/ui/button @/components/ui/badge",
+    "keywords": [
+      "undefined",
+      "componentsuiinput",
+      "componentsuiselect",
+      "componentsuibutton",
+      "componentsuibadge"
+    ],
+    "route": "//media/events"
+  },
+  {
+    "id": 38,
+    "category": "general",
+    "title": "@/components/events/EventRegistrationForm @/components/events/EventCountdown @/components/ui/button @/components/ui/badge @/components/ui/separator Annual Retirement Planning Seminar /images/event-banner-1",
+    "content": "@/components/events/EventRegistrationForm @/components/events/EventCountdown @/components/ui/button @/components/ui/badge @/components/ui/separator Annual Retirement Planning Seminar /images/event-banner-1.jpg Join us for our annual seminar on retirement planning. Learn about different pension schemes, investment strategies, and how to secure your financial future. 10:00 AM: Introduction to Retirement Planning 10:30 AM: Exploring Pension Options 11:15 AM: Investment Strategies for Retirement Expert in retirement finance. /images/speaker-jane.jpg Certified Financial Advisor. Very informative session! Learned a lot about my pension options. https://zoom.us/j/1234567890 Client Workshop on Pension Benefits Conference Room A, 123 Financial St /images/event-banner-2.jpg A hands-on workshop for our clients to understand their pension benefits in detail. Bring your questions! 02:00 PM: Overview of Client Benefits 02:45 PM: How to Access and Manage Your Pension 03:30 PM: Interactive Q&A Client Relations Manager. /images/speaker-emily.jpg https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1dlatitude!2dlongitude!3d...!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zM consciously replace with actual map embed URL!5e0!3m2!1sen!2sus!4vinsertTimestampHere!5m2!1sen!2sus Workshop was very helpful. Webinar: Understanding Tier 2 Pensions Virtual (Microsoft Teams) This webinar will cover the specifics of Tier 2 pension plans, eligibility, contributions, and benefits. 11:00 AM: Introduction to Tier 2 Pensions 11:30 AM: Eligibility and Contributions 11:45 AM: Benefits and Payouts Archive: 2022 Annual General Meeting Summary of the 2022 Annual General Meeting. HH:MM AM/PM - HH:MM AM/PM ${dateStr} ${startTime} ${dateStr} ${endTime} ${formatYear(startDate.getFullYear())}${formatComponent(startDate.getMonth() + 1)}${formatComponent(startDate.getDate())}T${formatComponent(startDate.getHours())}${formatComponent(startDate.getMinutes())}${formatComponent(startDate.getSeconds())} ${formatYear(endDate.getFullYear())}${formatComponent(endDate.getMonth() + 1)}${formatComponent(endDate.getDate())}T${formatComponent(endDate.getHours())}${formatComponent(endDate.getMinutes())}${formatComponent(endDate.getSeconds())} Error formatting date for calendar: https://calendar.google.com/calendar/render?action=TEMPLATE ${dates.start}/${dates.end} ${baseUrl}&text=${text}&dates=${datesParam}&details=${details}&location=${location} https://outlook.live.com/owa/?path=/calendar/action/compose&rru=addevent ${baseUrl}&subject=${subject}&startdt=${startdt}&enddt=${enddt}&body=${body}&location=${location} DTSTART:${dates.start} SUMMARY:${event.title} DESCRIPTION:${event.description.replace(/\\n/g, '\\\\n') + (event.agenda ? '\\\\n\\\\nAgenda:\\\\n' + event.agenda.join('\\\\n').replace(/\\n/g, '\\\\n') : '') + (event.speakers ? '\\\\n\\\\nSpeakers:\\\\n' + event.speakers.map(s => s.name + (s.bio ? : '')).join('\\\\n').replace(/\\n/g, '\\\\n') : '')} LOCATION:${event.venue.replace(/\\n/g, '\\\\n')} data:text/calendar;charset=utf8,${encodeURIComponent(calendarContent)} ${event.date}T${event.time.split(' - ')[0]}",
+    "keywords": [
+      "undefined",
+      "componentseventseventregistrationform",
+      "componentseventseventcountdown",
+      "componentsuibutton",
+      "componentsuibadge",
+      "componentsuiseparator",
+      "annual",
+      "retirement"
+    ],
+    "route": "//media/events/[slug]"
+  },
+  {
+    "id": 39,
+    "category": "general",
+    "title": "@/components/ui/button Download our form to open a new pension account",
+    "content": "@/components/ui/button Download our form to open a new pension account. Withdrawal Request Form Request a withdrawal from your pension scheme. Beneficiary Nomination Form Nominate or update your beneficiaries for your pension. Change of Details Form Update your personal details on file with us. Tier 2 (Occupational Pension Scheme) Brochure Detailed information about our mandatory occupational pension scheme. Tier 3 (Personal Pension Scheme) Brochure Explore the benefits and features of our voluntary personal pension scheme. Voluntary Contributions Brochure Learn about making additional voluntary contributions to your pension. Review our financial statements and performance for 2024. Review our financial statements and performance for 2023. Review our financial statements and performance for 2022.",
+    "keywords": [
+      "undefined",
+      "componentsuibutton",
+      "download",
+      "form",
+      "open",
+      "pension",
+      "account",
+      "withdrawal"
+    ],
+    "route": "//media/downloads"
+  },
+  {
+    "id": 40,
+    "category": "general",
+    "title": "",
+    "content": "../../../components/blog-card ../../../lib/constants ../../../lib/schemas/blog-schema",
+    "keywords": [
+      "undefined",
+      "componentsblogcard",
+      "libconstants",
+      "libschemasblogschema"
+    ],
+    "route": "//media/blog"
+  },
+  {
+    "id": 41,
+    "category": "general",
+    "title": "",
+    "content": "../../../../components/share-buttons ../../../../lib/constants ../../../../components/ui/NewsletterSignup ../../../../components/blog-card ../../../../components/ui/card ../../../../components/ui/button ../../../../components/ui/badge ../../../../components/ui/avatar ../../../../lib/schemas/blog-schema",
+    "keywords": [
+      "undefined",
+      "componentssharebuttons",
+      "libconstants",
+      "componentsuinewslettersignup",
+      "componentsblogcard",
+      "componentsuicard",
+      "componentsuibutton",
+      "componentsuibadge"
+    ],
+    "route": "//media/blog/[slug]"
+  },
+  {
+    "id": 42,
+    "category": "general",
+    "title": "@hookform/resolvers/zod @/components/ui/button @/components/ui/input @/components/ui/calendar @/components/ui/checkbox",
+    "content": "@hookform/resolvers/zod @/components/ui/button @/components/ui/input @/components/ui/calendar @/components/ui/checkbox",
+    "keywords": [
+      "undefined",
+      "hookformresolverszod",
+      "componentsuibutton",
+      "componentsuiinput",
+      "componentsuicalendar",
+      "componentsuicheckbox"
+    ],
+    "route": "//forms/tier-3-benefit-claim"
+  },
+  {
+    "id": 43,
+    "category": "general",
+    "title": "@hookform/resolvers/zod @/components/ui/button @/components/ui/input @/components/ui/select @/components/ui/checkbox @/components/ui/textarea @/components/ui/separator Contributor name is required SSNIT number is required Scheme member ID is required Please enter a valid date Ghana Card ID is required Please enter a valid phone number Please enter a valid email address GPS address is required Name on account is required Bank name is required Account number is required Branch name is required Declaration is required Please enter a valid email address Please enter a valid date Please enter a valid email address",
+    "content": "@hookform/resolvers/zod @/components/ui/button @/components/ui/input @/components/ui/select @/components/ui/checkbox @/components/ui/textarea @/components/ui/separator Contributor name is required SSNIT number is required Scheme member ID is required Please enter a valid date Ghana Card ID is required Please enter a valid phone number Please enter a valid email address GPS address is required Name on account is required Bank name is required Account number is required Branch name is required Declaration is required Please enter a valid email address Please enter a valid date Please enter a valid email address",
+    "keywords": [
+      "undefined",
+      "hookformresolverszod",
+      "componentsuibutton",
+      "componentsuiinput",
+      "componentsuiselect",
+      "componentsuicheckbox",
+      "componentsuitextarea",
+      "componentsuiseparator"
+    ],
+    "route": "//forms/tier-2-benefit-claim"
+  },
+  {
+    "id": 44,
+    "category": "general",
+    "title": "@hookform/resolvers/zod @/components/ui/button @/components/ui/input @/components/ui/checkbox Member number must be at least 5 characters First name must be at least 2 characters Last name must be at least 2 characters Please enter a valid date Please specify relationship to deceased First name must be at least 2 characters Last name must be at least 2 characters Please enter a valid date National ID must be at least 6 characters Please enter a valid email address Please enter a valid phone number Please enter a complete address Death certificate must be attached Proof of relationship must be attached Bank name must be at least 2 characters Account number must be at least 5 characters Branch code must be at least 4 characters You must accept the declaration",
+    "content": "@hookform/resolvers/zod @/components/ui/button @/components/ui/input @/components/ui/checkbox Member number must be at least 5 characters First name must be at least 2 characters Last name must be at least 2 characters Please enter a valid date Please specify relationship to deceased First name must be at least 2 characters Last name must be at least 2 characters Please enter a valid date National ID must be at least 6 characters Please enter a valid email address Please enter a valid phone number Please enter a complete address Death certificate must be attached Proof of relationship must be attached Bank name must be at least 2 characters Account number must be at least 5 characters Branch code must be at least 4 characters You must accept the declaration",
+    "keywords": [
+      "undefined",
+      "hookformresolverszod",
+      "componentsuibutton",
+      "componentsuiinput",
+      "componentsuicheckbox",
+      "member",
+      "number",
+      "must"
+    ],
+    "route": "//forms/tier-2-beneficiary-claim"
+  },
+  {
+    "id": 45,
+    "category": "general",
+    "title": "@hookform/resolvers/zod @/components/ui/input @/components/ui/button @/components/ui/calendar @/components/ui/popover @/components/ui/checkbox @/components/ui/textarea @/components/ui/select Member number is required First name is required Last name is required Date of birth is required National ID is required Invalid email address Phone number must be at least 10 digits Postal code is required Employment end date is required Last employer is required Termination reason is required Bank name is required Account number is required Account holder name is required Pension type is required Monthly contribution is required You must accept the declaration",
+    "content": "@hookform/resolvers/zod @/components/ui/input @/components/ui/button @/components/ui/calendar @/components/ui/popover @/components/ui/checkbox @/components/ui/textarea @/components/ui/select Member number is required First name is required Last name is required Date of birth is required National ID is required Invalid email address Phone number must be at least 10 digits Postal code is required Employment end date is required Last employer is required Termination reason is required Bank name is required Account number is required Account holder name is required Pension type is required Monthly contribution is required You must accept the declaration",
+    "keywords": [
+      "undefined",
+      "hookformresolverszod",
+      "componentsuiinput",
+      "componentsuibutton",
+      "componentsuicalendar",
+      "componentsuipopover",
+      "componentsuicheckbox",
+      "componentsuitextarea"
+    ],
+    "route": "//forms/personal-pension-claim"
+  },
+  {
+    "id": 46,
+    "category": "general",
+    "title": "@hookform/resolvers/zod @/components/ui/button @/components/ui/separator @/components/ui/input @/components/ui/select @/components/ui/checkbox @/components/ui/textarea @/components/ui/popover @/components/ui/calendar @/lib/schemas/employer-enrollment-schema Form submitted successfully! Submit Enrollment Application",
+    "content": "@hookform/resolvers/zod @/components/ui/button @/components/ui/separator @/components/ui/input @/components/ui/select @/components/ui/checkbox @/components/ui/textarea @/components/ui/popover @/components/ui/calendar @/lib/schemas/employer-enrollment-schema Form submitted successfully! Submit Enrollment Application",
+    "keywords": [
+      "undefined",
+      "hookformresolverszod",
+      "componentsuibutton",
+      "componentsuiseparator",
+      "componentsuiinput",
+      "componentsuiselect",
+      "componentsuicheckbox",
+      "componentsuitextarea"
+    ],
+    "route": "//forms/employer-enrollment"
+  },
+  {
+    "id": 47,
+    "category": "general",
+    "title": "@hookform/resolvers/zod @/components/ui/button @/components/ui/input @/components/ui/select @/components/ui/checkbox @/components/ui/textarea @/components/ui/calendar @/components/ui/popover Scheme name is required Scheme type is required Surname must be at least 2 characters Other name(s) must be at least 2 characters Ghana Card number is required Date of birth is required SSNIT number is required Please enter a valid telephone number Please enter a valid email address Employer name must be at least 2 characters Date of employment is required Postal address is required Residence address is required Nationality is required GPS address is required Occupation is required Marital status is required Next of kin name is required Relationship is required Please enter a valid phone number Invalid email address Please enter a complete address Beneficiary name is required Relationship is required Date of birth is required National ID must be at least 6 characters Please enter a valid phone number Invalid email address Please enter a complete address Share percentage must be between 0 and 100 At least one beneficiary is required s Declaration declaration: z",
+    "content": "@hookform/resolvers/zod @/components/ui/button @/components/ui/input @/components/ui/select @/components/ui/checkbox @/components/ui/textarea @/components/ui/calendar @/components/ui/popover Scheme name is required Scheme type is required Surname must be at least 2 characters Other name(s) must be at least 2 characters Ghana Card number is required Date of birth is required SSNIT number is required Please enter a valid telephone number Please enter a valid email address Employer name must be at least 2 characters Date of employment is required Postal address is required Residence address is required Nationality is required GPS address is required Occupation is required Marital status is required Next of kin name is required Relationship is required Please enter a valid phone number Invalid email address Please enter a complete address Beneficiary name is required Relationship is required Date of birth is required National ID must be at least 6 characters Please enter a valid phone number Invalid email address Please enter a complete address Share percentage must be between 0 and 100 At least one beneficiary is required s Declaration declaration: z.boolean().refine(val => val === true, { message: \"You must accept the declaration\", }), declarationName: z.string().min(1, \"Declaration name is required\"), declarationDate: z.date({ required_error: \"Declaration date is required\", }), // Office Use Section officeComments: z.string().optional(), processingDate: z.date().optional(), approvalStatus: z.enum([\"pending\", \"approved\", \"rejected\"]).optional(), }) export default function EmployeeEnrollmentForm() { const form = useForm >({ resolver: zodResolver(formSchema), defaultValues: { schemeName: \"\", schemeType: \"\", title: \"\", surname: \"\", otherNames: \"\", ghanaCardNo: \"\", ssnitNo: \"\", telNo: \"\", email: \"\", gender: \"\", employerName: \"\", postalAddress: \"\", residenceAddress: \"\", nationality: \"\", hometown: \"\", region: \"\", gpsAddress: \"\", otherIdCard: \"\", idCardNo: \"\", occupation: \"\", maritalStatus: \"\", salary: \"\", beneficiaries: [ { name: \"\", relationship: \"\", dateOfBirth: undefined, nationalId: \"\", phone: \"\", email: \"\", address: \"\", sharePercentage: 100, }, ], declaration: false, declarationName: \"\", }, }) const { fields, append, remove } = useFieldArray({ name: \"beneficiaries\", control: form.control, }) function onSubmit(values: z.infer ) { console.log(values) } return ( Employee Enrollment Form Please fill out all required information to enroll in the pension scheme. {/* Scheme Details */} Scheme Details ( Scheme Name Best Master Trust Best Provident Fund Best Pension Scheme )} /> ( Scheme Type Tier 2 Tier 3 )} /> {/* Personal Information Section */} Personal Particulars {/* Left Column */} ( Title Mr. Mrs. Miss Dr. Prof. )} /> ( Surname )} /> ( Other Name(s) )} /> ( Ghana Card No. )} /> ( Date of Birth {field.value ? format(field.value, \"dd/MM/yyyy\") : Pick a date } date > new Date() || date )} /> ( SSNIT No. )} /> ( Tel No. )} /> ( Email )} /> ( Gender Male Female )} /> ( Name of Employer )} /> ( Date of Employment {field.value ? format(field.value, \"dd/MM/yyyy\") : Pick a date } date > new Date()} initialFocus /> )} /> {/* Right Column */} ( Postal Address )} /> ( Residence Address )} /> ( Nationality )} /> ( Hometown )} /> ( Region Greater Accra Ashanti Western Eastern Central Northern Upper East Upper West Volta Bono Bono East Ahafo Savannah North East Oti Western North )} /> ( GPS Address )} /> ( Other ID Card Passport Driver&apos;s License Voter&apos;s ID )} /> ( ID Card No. )} /> ( Occupation )} /> ( Marital Status Single Married Divorced Widowed )} /> ( Salary (GH₵) )} /> {/* Next of Kin Details Section */} Next of Kin Details ( Full Name )} /> ( Relationship )} /> ( Phone Number )} /> ( Email (Optional) )} /> ( Address )} /> {/* Beneficiary Details Section */} Beneficiary Details append({ name: \"\", relationship: \"\", dateOfBirth: new Date(), nationalId: \"\", phone: \"\", email: \"\", address: \"\", sharePercentage: 0, })} > Add Beneficiary {fields.map((field, index) => ( Beneficiary {index + 1} {index > 0 && ( remove(index)} > )} ( Full Name )} /> ( Relationship )} /> ( Date of Birth {field.value ? format(field.value, \"PPP\") : Pick a date } date > new Date() || date )} /> ( National ID )} /> ( Phone Number )} /> ( Email (Optional) )} /> ( Share Percentage field.onChange(Number(e.target.value))} /> )} /> ( Address )} /> ))} {/* Member",
+    "keywords": [
+      "undefined",
+      "hookformresolverszod",
+      "componentsuibutton",
+      "componentsuiinput",
+      "componentsuiselect",
+      "componentsuicheckbox",
+      "componentsuitextarea",
+      "componentsuicalendar"
+    ],
+    "route": "//forms/employee-enrollment"
+  },
+  {
+    "id": 48,
+    "category": "general",
+    "title": "@/components/contact-form @/components/ui/NewsletterSignup Contact Standard Pensions Trust for inquiries about our pension schemes, retirement planning services, or to schedule a consultation",
+    "content": "@/components/contact-form @/components/ui/NewsletterSignup Contact Standard Pensions Trust for inquiries about our pension schemes, retirement planning services, or to schedule a consultation.",
+    "keywords": [
+      "undefined",
+      "componentscontactform",
+      "componentsuinewslettersignup",
+      "contact",
+      "standard",
+      "pensions",
+      "trust",
+      "inquiries"
+    ],
+    "route": "//contact"
+  },
+  {
+    "id": 49,
+    "category": "general",
+    "title": "Chat with SPT Assistant Get instant answers to your pension-related questions",
+    "content": "Chat with SPT Assistant Get instant answers to your pension-related questions",
+    "keywords": [
+      "undefined",
+      "chat",
+      "with",
+      "assistant",
+      "instant",
+      "answers",
+      "your",
+      "pensionrelated"
+    ],
+    "route": "//chat"
+  },
+  {
+    "id": 50,
+    "category": "general",
+    "title": "@/components/ui/button Learn about Standard Pensions Trust, our mission, vision, and values that drive our commitment to securing your financial future",
+    "content": "@/components/ui/button Learn about Standard Pensions Trust, our mission, vision, and values that drive our commitment to securing your financial future.",
+    "keywords": [
+      "undefined",
+      "componentsuibutton",
+      "learn",
+      "about",
+      "standard",
+      "pensions",
+      "trust",
+      "mission"
+    ],
+    "route": "//about"
+  },
+  {
+    "id": 51,
+    "category": "general",
+    "title": "Explore the history and growth of Standard Pensions Trust from our founding to the present day",
+    "content": "Explore the history and growth of Standard Pensions Trust from our founding to the present day.",
+    "keywords": [
+      "undefined",
+      "explore",
+      "history",
+      "growth",
+      "standard",
+      "pensions",
+      "trust",
+      "from"
+    ],
+    "route": "//about/timeline"
+  },
+  {
+    "id": 52,
+    "category": "general",
+    "title": "@/components/ui/button ${member",
+    "content": "@/components/ui/button ${member.bio.substring(0, 250)}...",
+    "keywords": [
+      "undefined",
+      "componentsuibutton",
+      "memberbiosubstring0"
+    ],
+    "route": "//about/leadership"
+  },
+  {
+    "id": 53,
+    "category": "general",
+    "title": "@/components/ui/button Careers | Standard Pensions Trust Explore career opportunities and join the Standard Pensions Trust team",
+    "content": "@/components/ui/button Careers | Standard Pensions Trust Explore career opportunities and join the Standard Pensions Trust team. Senior Frontend Developer We are looking for a highly skilled Senior Frontend Developer to lead the development of our user-facing applications. You will be responsible for implementing visual and interactive elements that users interact with through their web browser. Pension Administrator Join our operations team as a Pension Administrator. You will be responsible for managing client accounts, processing contributions, and handling pension benefit claims. We are seeking an Investment Analyst to support our investment team. You will be involved in market research, financial modeling, and portfolio performance analysis. Customer Service Representative A dynamic individual to join our Customer Service team. You will be the first point of contact for our members, providing information and resolving inquiries. t Find Your Role? Submit a general application, and we",
+    "keywords": [
+      "undefined",
+      "componentsuibutton",
+      "careers",
+      "standard",
+      "pensions",
+      "trust",
+      "explore",
+      "career"
+    ],
+    "route": "//about/careers"
+  },
+  {
+    "id": 54,
+    "category": "general",
+    "title": "@/components/theme-provider @/components/layout/header @/components/layout/footer @/components/whatsapp-button Standard Pensions Trust | Ghana\\ , }, description: s leading pension administrator, offering comprehensive retirement planning solutions and pension schemes for individuals and businesses",
+    "content": "@/components/theme-provider @/components/layout/header @/components/layout/footer @/components/whatsapp-button Standard Pensions Trust | Ghana\\ , }, description: s leading pension administrator, offering comprehensive retirement planning solutions and pension schemes for individuals and businesses. Standard Pensions Trust Standard Pensions Trust https://standardpensionstrust.com Standard Pensions Trust | Ghana\\ s leading pension administrator, offering comprehensive retirement planning solutions and pension schemes for individuals and businesses. Standard Pensions Trust Standard Pensions Trust | Ghana\\ s leading pension administrator, offering comprehensive retirement planning solutions and pension schemes for individuals and businesses.",
+    "keywords": [
+      "undefined",
+      "componentsthemeprovider",
+      "componentslayoutheader",
+      "componentslayoutfooter",
+      "componentswhatsappbutton",
+      "standard",
+      "pensions",
+      "trust"
+    ],
+    "route": "/"
+  },
+  {
+    "id": 55,
+    "category": "general",
+    "title": "Tier 3 Benefit Claim Form Submit your claim for Tier 3 pension benefits",
+    "content": "Tier 3 Benefit Claim Form Submit your claim for Tier 3 pension benefits",
+    "keywords": [
+      "undefined",
+      "tier",
+      "benefit",
+      "claim",
+      "form",
+      "submit",
+      "your",
+      "pension"
+    ],
+    "route": "//forms/tier-3-benefit-claim"
+  },
+  {
+    "id": 56,
+    "category": "general",
+    "title": "Tier 3 Beneficiary Claim Form Submit your claim for Tier 3 pension benefits as a beneficiary",
+    "content": "Tier 3 Beneficiary Claim Form Submit your claim for Tier 3 pension benefits as a beneficiary",
+    "keywords": [
+      "undefined",
+      "tier",
+      "beneficiary",
+      "claim",
+      "form",
+      "submit",
+      "your",
+      "pension"
+    ],
+    "route": "//forms/tier-3-beneficiary-claim"
+  },
+  {
+    "id": 57,
+    "category": "general",
+    "title": "Tier 2 Benefit Claim Form Submit your claim for Tier 2 pension benefits",
+    "content": "Tier 2 Benefit Claim Form Submit your claim for Tier 2 pension benefits",
+    "keywords": [
+      "undefined",
+      "tier",
+      "benefit",
+      "claim",
+      "form",
+      "submit",
+      "your",
+      "pension"
+    ],
+    "route": "//forms/tier-2-benefit-claim"
+  },
+  {
+    "id": 58,
+    "category": "general",
+    "title": "Tier 2 Beneficiary Claim Form Submit your claim for Tier 2 pension benefits as a beneficiary of a deceased member",
+    "content": "Tier 2 Beneficiary Claim Form Submit your claim for Tier 2 pension benefits as a beneficiary of a deceased member",
+    "keywords": [
+      "undefined",
+      "tier",
+      "beneficiary",
+      "claim",
+      "form",
+      "submit",
+      "your",
+      "pension"
+    ],
+    "route": "//forms/tier-2-beneficiary-claim"
+  },
+  {
+    "id": 59,
+    "category": "general",
+    "title": "Personal Pension Claim Form Submit your claim for personal pension benefits",
+    "content": "Personal Pension Claim Form Submit your claim for personal pension benefits",
+    "keywords": [
+      "undefined",
+      "personal",
+      "pension",
+      "claim",
+      "form",
+      "submit",
+      "your",
+      "benefits"
+    ],
+    "route": "//forms/personal-pension-claim"
+  },
+  {
+    "id": 60,
+    "category": "general",
+    "title": "Employer Enrollment Form Register your company pension scheme",
+    "content": "Employer Enrollment Form Register your company pension scheme",
+    "keywords": [
+      "undefined",
+      "employer",
+      "enrollment",
+      "form",
+      "register",
+      "your",
+      "company",
+      "pension"
+    ],
+    "route": "//forms/employer-enrollment"
+  },
+  {
+    "id": 61,
+    "category": "general",
+    "title": "Employee Enrollment Form Online form for enrolling in the pension scheme",
+    "content": "Employee Enrollment Form Online form for enrolling in the pension scheme",
+    "keywords": [
+      "undefined",
+      "employee",
+      "enrollment",
+      "form",
+      "online",
+      "enrolling",
+      "pension",
+      "scheme"
+    ],
+    "route": "//forms/employee-enrollment"
+  },
+  {
+    "id": 62,
+    "category": "general",
+    "title": "@radix-ui/react-icons @/lib/utils/knowledge-base Error initializing knowledge base: ${textarea",
+    "content": "@radix-ui/react-icons @/lib/utils/knowledge-base Error initializing knowledge base: ${textarea.scrollHeight}px Here is relevant information from the SPT Pension Trust website: ${relevantInfo.map(item => ).join('\\n---\\n')} Please use the above information to provide an accurate and specific answer. Request failed with status ${response.status}: ${text} Server returned non-JSON response Invalid response format from server Unknown error occurred Error: ${errorMessage}. Please check the browser console for more details.",
+    "keywords": [
+      "undefined",
+      "radixuireacticons",
+      "libutilsknowledgebase",
+      "error",
+      "initializing",
+      "knowledge",
+      "base",
+      "textareascrollheightpx"
+    ],
+    "route": "//components/Chat.tsx"
+  },
+  {
+    "id": 63,
+    "category": "general",
+    "title": "@/components/ui/button @/components/ui/dialog @/app/components/Chat https://api",
+    "content": "@/components/ui/button @/components/ui/dialog @/app/components/Chat https://api.whatsapp.com/send/?phone=${encodedNumber}&type=phone_number&app_absent=0",
+    "keywords": [
+      "undefined",
+      "componentsuibutton",
+      "componentsuidialog",
+      "appcomponentschat",
+      "httpsapiwhatsappcomsendphoneencodednumbertypephonenumberappabsent0"
+    ],
+    "route": "/components/whatsapp-button.tsx"
+  },
+  {
+    "id": 64,
+    "category": "general",
+    "title": "@/components/ui/button @/components/ui/dropdown-menu",
+    "content": "@/components/ui/button @/components/ui/dropdown-menu",
+    "keywords": [
+      "undefined",
+      "componentsuibutton",
+      "componentsuidropdownmenu"
+    ],
+    "route": "/components/theme-toggle.tsx"
+  },
+  {
+    "id": 65,
+    "category": "general",
+    "title": "@/components/ui/button https://player",
+    "content": "@/components/ui/button https://player.vimeo.com/video/824804225?background=1&autoplay=1&loop=1&byline=0&title=0 https://images.pexels.com/photos/7688336/pexels-photo-7688336.jpeg CEO, Accra Tech Solutions Standard Pensions Trust has been instrumental in helping us secure our employees' future. Their expertise in pension management and dedication to customer service is unmatched. I highly recommend their services to any business looking for reliable pension solutions.",
+    "keywords": [
+      "undefined",
+      "componentsuibutton",
+      "httpsplayervimeocomvideo824804225background1autoplay1loop1byline0title0",
+      "httpsimagespexelscomphotos7688336pexelsphoto7688336jpeg",
+      "accra",
+      "tech",
+      "solutions",
+      "standard"
+    ],
+    "route": "/components/testimonial-section.tsx"
+  },
+  {
+    "id": 66,
+    "category": "general",
+    "title": "@/components/ui/button @/components/ui/dialog @/lib/testimonials-data",
+    "content": "@/components/ui/button @/components/ui/dialog @/lib/testimonials-data",
+    "keywords": [
+      "undefined",
+      "componentsuibutton",
+      "componentsuidialog",
+      "libtestimonialsdata"
+    ],
+    "route": "/components/testimonial-card.tsx"
+  },
+  {
+    "id": 67,
+    "category": "general",
+    "title": "@/components/ui/button https://twitter",
+    "content": "@/components/ui/button https://twitter.com/intent/tweet?text=${encodeURIComponent(title)}&url=${encodeURIComponent(url)} https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)} https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(url)}",
+    "keywords": [
+      "undefined",
+      "componentsuibutton",
+      "httpstwittercomintenttweettextencodeuricomponenttitleurlencodeuricomponenturl",
+      "httpswwwfacebookcomsharersharerphpuencodeuricomponenturl",
+      "httpswwwlinkedincomsharingshareoffsiteurlencodeuricomponenturl"
+    ],
+    "route": "/components/share-buttons.tsx"
+  },
+  {
+    "id": 68,
+    "category": "general",
+    "title": "@/components/ui/slider @/components/ui/label @/components/ui/input @/components/ui/button @/components/ui/alert @radix-ui/react-icons ${name}: ${(percent * 100)",
+    "content": "@/components/ui/slider @/components/ui/label @/components/ui/input @/components/ui/button @/components/ui/alert @radix-ui/react-icons ${name}: ${(percent * 100).toFixed(0)}%",
+    "keywords": [
+      "undefined",
+      "componentsuislider",
+      "componentsuilabel",
+      "componentsuiinput",
+      "componentsuibutton",
+      "componentsuialert",
+      "radixuireacticons",
+      "name"
+    ],
+    "route": "/components/pension-calculator.tsx"
+  },
+  {
+    "id": 69,
+    "category": "general",
+    "title": "@hookform/resolvers/zod @/components/ui/button @/components/ui/input @/components/ui/textarea @/components/ui/select Name must be at least 2 characters",
+    "content": "@hookform/resolvers/zod @/components/ui/button @/components/ui/input @/components/ui/textarea @/components/ui/select Name must be at least 2 characters. Please enter a valid email address. Phone number must be at least 10 digits. Please select a subject. Message must be at least 10 characters. Message sent successfully Thank you for contacting us. We'll respond to your inquiry soon.",
+    "keywords": [
+      "undefined",
+      "hookformresolverszod",
+      "componentsuibutton",
+      "componentsuiinput",
+      "componentsuitextarea",
+      "componentsuiselect",
+      "name",
+      "must"
+    ],
+    "route": "/components/contact-form.tsx"
+  },
+  {
+    "id": 70,
+    "category": "general",
+    "title": "@/lib/schemas/blog-schema @/components/ui/button @/components/ui/badge",
+    "content": "@/lib/schemas/blog-schema @/components/ui/button @/components/ui/badge",
+    "keywords": [
+      "undefined",
+      "libschemasblogschema",
+      "componentsuibutton",
+      "componentsuibadge"
+    ],
+    "route": "/components/blog-card.tsx"
+  },
+  {
+    "id": 71,
+    "category": "general",
+    "title": "@radix-ui/react-toggle-group class-variance-authority @/components/ui/toggle",
+    "content": "@radix-ui/react-toggle-group class-variance-authority @/components/ui/toggle",
+    "keywords": [
+      "undefined",
+      "radixuireacttogglegroup",
+      "classvarianceauthority",
+      "componentsuitoggle"
+    ],
+    "route": "/components/ui/toggle-group.tsx"
+  },
+  {
+    "id": 72,
+    "category": "general",
+    "title": "@radix-ui/react-toast class-variance-authority group pointer-events-auto relative flex w-full items-center justify-between space-x-4 overflow-hidden rounded-md border p-6 pr-8 shadow-lg transition-all data-[swipe=cancel]:translate-x-0 data-[swipe=end]:translate-x-[var(--radix-toast-swipe-end-x)] data-[swipe=move]:translate-x-[var(--radix-toast-swipe-move-x)] data-[swipe=move]:transition-none data-[state=open]:animate-in data-[state=closed]:animate-out data-[swipe=end]:animate-out data-[state=closed]:fade-out-80 data-[state=closed]:slide-out-to-right-full data-[state=open]:slide-in-from-top-full data-[state=open]:sm:slide-in-from-bottom-full",
+    "content": "@radix-ui/react-toast class-variance-authority group pointer-events-auto relative flex w-full items-center justify-between space-x-4 overflow-hidden rounded-md border p-6 pr-8 shadow-lg transition-all data-[swipe=cancel]:translate-x-0 data-[swipe=end]:translate-x-[var(--radix-toast-swipe-end-x)] data-[swipe=move]:translate-x-[var(--radix-toast-swipe-move-x)] data-[swipe=move]:transition-none data-[state=open]:animate-in data-[state=closed]:animate-out data-[swipe=end]:animate-out data-[state=closed]:fade-out-80 data-[state=closed]:slide-out-to-right-full data-[state=open]:slide-in-from-top-full data-[state=open]:sm:slide-in-from-bottom-full",
+    "keywords": [
+      "undefined",
+      "radixuireacttoast",
+      "classvarianceauthority",
+      "group",
+      "pointereventsauto",
+      "relative",
+      "flex",
+      "wfull"
+    ],
+    "route": "/components/ui/toast.tsx"
+  },
+  {
+    "id": 73,
+    "category": "general",
+    "title": "@radix-ui/react-select @radix-ui/react-radio-group @/components/ui/select @/components/ui/radio-group @/components/ui/label @/lib/testimonials-data ${window",
+    "content": "@radix-ui/react-select @radix-ui/react-radio-group @/components/ui/select @/components/ui/radio-group @/components/ui/label @/lib/testimonials-data ${window.location.pathname}${query} ${window.location.pathname}${query}",
+    "keywords": [
+      "undefined",
+      "radixuireactselect",
+      "radixuireactradiogroup",
+      "componentsuiselect",
+      "componentsuiradiogroup",
+      "componentsuilabel",
+      "libtestimonialsdata",
+      "windowlocationpathnamequery"
+    ],
+    "route": "/components/ui/TestimonialFiltersClient.tsx"
+  },
+  {
+    "id": 74,
+    "category": "general",
+    "title": "@radix-ui/react-dialog class-variance-authority inset-x-0 top-0 border-b data-[state=closed]:slide-out-to-top data-[state=open]:slide-in-from-top inset-x-0 bottom-0 border-t data-[state=closed]:slide-out-to-bottom data-[state=open]:slide-in-from-bottom inset-y-0 left-0 h-full w-3/4 border-r data-[state=closed]:slide-out-to-left data-[state=open]:slide-in-from-left sm:max-w-sm inset-y-0 right-0 h-full w-3/4 border-l data-[state=closed]:slide-out-to-right data-[state=open]:slide-in-from-right sm:max-w-sm",
+    "content": "@radix-ui/react-dialog class-variance-authority inset-x-0 top-0 border-b data-[state=closed]:slide-out-to-top data-[state=open]:slide-in-from-top inset-x-0 bottom-0 border-t data-[state=closed]:slide-out-to-bottom data-[state=open]:slide-in-from-bottom inset-y-0 left-0 h-full w-3/4 border-r data-[state=closed]:slide-out-to-left data-[state=open]:slide-in-from-left sm:max-w-sm inset-y-0 right-0 h-full w-3/4 border-l data-[state=closed]:slide-out-to-right data-[state=open]:slide-in-from-right sm:max-w-sm",
+    "keywords": [
+      "undefined",
+      "radixuireactdialog",
+      "classvarianceauthority",
+      "insetx0",
+      "top0",
+      "borderb",
+      "datastateclosedslideouttotop",
+      "datastateopenslideinfromtop"
+    ],
+    "route": "/components/ui/sheet.tsx"
+  },
+  {
+    "id": 75,
+    "category": "general",
+    "title": "@radix-ui/react-navigation-menu class-variance-authority",
+    "content": "@radix-ui/react-navigation-menu class-variance-authority",
+    "keywords": [
+      "undefined",
+      "radixuireactnavigationmenu",
+      "classvarianceauthority"
+    ],
+    "route": "/components/ui/navigation-menu.tsx"
+  },
+  {
+    "id": 76,
+    "category": "general",
+    "title": "@radix-ui/react-label class-variance-authority text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70",
+    "content": "@radix-ui/react-label class-variance-authority text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70",
+    "keywords": [
+      "undefined",
+      "radixuireactlabel",
+      "classvarianceauthority",
+      "textsm",
+      "fontmedium",
+      "leadingnone",
+      "peerdisabledcursornotallowed",
+      "peerdisabledopacity70"
+    ],
+    "route": "/components/ui/label.tsx"
+  },
+  {
+    "id": 77,
+    "category": "general",
+    "title": "@radix-ui/react-label @/components/ui/label useFormField should be used within ${id}-form-item-description ${id}-form-item-message",
+    "content": "@radix-ui/react-label @/components/ui/label useFormField should be used within ${id}-form-item-description ${id}-form-item-message",
+    "keywords": [
+      "undefined",
+      "radixuireactlabel",
+      "componentsuilabel",
+      "useformfield",
+      "should",
+      "used",
+      "within",
+      "idformitemdescription"
+    ],
+    "route": "/components/ui/form.tsx"
+  },
+  {
+    "id": 78,
+    "category": "general",
+    "title": "useChart must be used within a chart-${id || uniqueId",
+    "content": "useChart must be used within a chart-${id || uniqueId.replace(/:/g, '')} ${prefix} [data-chart=${id}] { ${colorConfig .map(([key, itemConfig]) => { const color = itemConfig.theme?.[theme as keyof typeof itemConfig.theme] || itemConfig.color; return color ? : null; }) .join('\\n')} } ${labelKey || item.dataKey || item.name || 'value'} ${nameKey || item.name || item.dataKey || 'value'} , indicator === )} > {formatter && item?.value !== undefined && item.name ? ( formatter(item.value, item.name, item, index, item.payload) ) : ( {itemConfig?.icon ? ( ) : ( !hideIndicator && ( ) )} {nestLabel ? tooltipLabel : null} {itemConfig?.label || item.name} {item.value && ( {item.value.toLocaleString()} )} )} ); })} ); } ); ChartTooltipContent.displayName = , nameKey }, ref ) => { const { config } = useChart(); if (!payload?.length) { return null; } return ( {payload.map((item) => { const key = `${nameKey || item.dataKey || }`; const itemConfig = getPayloadConfigFromPayload(config, item, key); return ( svg]:h-3 [&>svg]:w-3 [&>svg]:text-muted-foreground",
+    "keywords": [
+      "undefined",
+      "usechart",
+      "must",
+      "used",
+      "within",
+      "chartid",
+      "uniqueidreplaceg",
+      "prefix"
+    ],
+    "route": "/components/ui/chart.tsx"
+  },
+  {
+    "id": 79,
+    "category": "general",
+    "title": "@/components/ui/button useCarousel must be used within a",
+    "content": "@/components/ui/button useCarousel must be used within a",
+    "keywords": [
+      "undefined",
+      "componentsuibutton",
+      "usecarousel",
+      "must",
+      "used",
+      "within"
+    ],
+    "route": "/components/ui/carousel.tsx"
+  },
+  {
+    "id": 80,
+    "category": "general",
+    "title": "class-variance-authority inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary underline-offset-4 hover:underline",
+    "content": "class-variance-authority inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary underline-offset-4 hover:underline",
+    "keywords": [
+      "undefined",
+      "classvarianceauthority",
+      "inlineflex",
+      "itemscenter",
+      "justifycenter",
+      "whitespacenowrap",
+      "roundedmd",
+      "textsm"
+    ],
+    "route": "/components/ui/button.tsx"
+  },
+  {
+    "id": 81,
+    "category": "general",
+    "title": "class-variance-authority relative w-full rounded-lg border p-4 [&>svg~*]:pl-7 [&>svg+div]:translate-y-[-3px] [&>svg]:absolute [&>svg]:left-4 [&>svg]:top-4 [&>svg]:text-foreground border-destructive/50 text-destructive dark:border-destructive [&>svg]:text-destructive border-yellow-500/50 text-yellow-500 dark:border-yellow-500 [&>svg]:text-yellow-500",
+    "content": "class-variance-authority relative w-full rounded-lg border p-4 [&>svg~*]:pl-7 [&>svg+div]:translate-y-[-3px] [&>svg]:absolute [&>svg]:left-4 [&>svg]:top-4 [&>svg]:text-foreground border-destructive/50 text-destructive dark:border-destructive [&>svg]:text-destructive border-yellow-500/50 text-yellow-500 dark:border-yellow-500 [&>svg]:text-yellow-500",
+    "keywords": [
+      "undefined",
+      "classvarianceauthority",
+      "relative",
+      "wfull",
+      "roundedlg",
+      "border",
+      "svgpl7",
+      "svgdivtranslatey3px"
+    ],
+    "route": "/components/ui/alert.tsx"
+  },
+  {
+    "id": 82,
+    "category": "general",
+    "title": "@radix-ui/react-alert-dialog @/components/ui/button",
+    "content": "@radix-ui/react-alert-dialog @/components/ui/button",
+    "keywords": [
+      "undefined",
+      "radixuireactalertdialog",
+      "componentsuibutton"
+    ],
+    "route": "/components/ui/alert-dialog.tsx"
+  },
+  {
+    "id": 83,
+    "category": "general",
+    "title": "@hookform/resolvers/zod @/components/ui/button @/components/ui/input @/components/ui/textarea @/components/ui/radio-group @/components/ui/select @/components/ui/checkbox @/components/ui/slider @/components/ui/tooltip Please select a rating Please provide feedback with at least 10 characters Please keep your feedback under 1000 characters Please select a recommendation score Invalid email address Please select a rating Please rate the usability Please rate the navigation Please rate your satisfaction with the features Please rate the performance Please select at least one feature Please provide feedback with at least 10 characters Please keep your feedback under 1000 characters Invalid email address Please select a rating Please rate our response time Please rate our staff's knowledge Please rate our staff's politeness Please rate how well we resolved your issue Please provide feedback with at least 10 characters Please keep your feedback under 1000 characters Invalid email address Please select a category Please provide your suggestion with at least 10 characters Please keep your suggestion under 1000 characters Invalid email address Failed to submit survey Error submitting survey: How would you rate your overall experience? Rate your overall satisfaction with our services Investment Performance Educational Resources h-4 w-4 sm:h-5 sm:w-5 mt-0",
+    "content": "@hookform/resolvers/zod @/components/ui/button @/components/ui/input @/components/ui/textarea @/components/ui/radio-group @/components/ui/select @/components/ui/checkbox @/components/ui/slider @/components/ui/tooltip Please select a rating Please provide feedback with at least 10 characters Please keep your feedback under 1000 characters Please select a recommendation score Invalid email address Please select a rating Please rate the usability Please rate the navigation Please rate your satisfaction with the features Please rate the performance Please select at least one feature Please provide feedback with at least 10 characters Please keep your feedback under 1000 characters Invalid email address Please select a rating Please rate our response time Please rate our staff's knowledge Please rate our staff's politeness Please rate how well we resolved your issue Please provide feedback with at least 10 characters Please keep your feedback under 1000 characters Invalid email address Please select a category Please provide your suggestion with at least 10 characters Please keep your suggestion under 1000 characters Invalid email address Failed to submit survey Error submitting survey: How would you rate your overall experience? Rate your overall satisfaction with our services Investment Performance Educational Resources h-4 w-4 sm:h-5 sm:w-5 mt-0.5 sm:mt-0 How likely are you to recommend us? Which department are you providing feedback about? What area needs the most improvement? Do you have a specific issue you'd like to report? Select this if you encountered a specific problem Please describe the issue Provide details about the issue you experienced... Be as specific as possible including dates, times, and steps to reproduce How would you rate the ease of use of our member portal? Consider how easy it is to find information and complete tasks How would you rate the navigation and menu structure? Consider how intuitive the site organization is How satisfied are you with the available features? Consider whether the portal has all the functionality you need How would you rate the portal's performance and reliability? Consider loading times, errors, and crashes Personal Details Update Beneficiary Management Retirement Projections h-4 w-4 sm:h-5 sm:w-5 mt-0.5 sm:mt-0 What type of device do you usually use to access the portal? Which browser do you typically use? Are there any features you'd like to see added? Please describe any features you think would improve our member portal... Tell us what new capabilities would make the portal more useful Have you experienced any technical issues? Please describe any technical problems you've encountered... Include details like error messages, pages affected, and steps to reproduce How would you rate our response time? Consider how quickly we addressed your inquiry How would you rate our staff's knowledge? Consider how well our staff understood and addressed your question How would you rate our staff's courtesy? Consider the professionalism and politeness of our staff How satisfied were you with the resolution? Consider whether your issue was completely resolved How did you contact customer service? What was the nature of your inquiry? Was your issue completely resolved? Let us know if your issue was satisfactorily resolved Education & Resources How would you prioritize this suggestion? High - Critical improvement Medium - Important improvement Help us understand the importance of this suggestion What timeframe would you expect for implementation? Short-term (1-3 months) Mid-term (3-6 months) Long-term (6+ months) Please describe your suggestion in detail... Be as specific as possible about what you'd like to see implemented Please describe how this suggestion could improve our services... Explain the value this would bring to you and other members Please share any other thoughts or suggestions with us... Your detailed feedback helps us improve our services",
+    "keywords": [
+      "undefined",
+      "hookformresolverszod",
+      "componentsuibutton",
+      "componentsuiinput",
+      "componentsuitextarea",
+      "componentsuiradiogroup",
+      "componentsuiselect",
+      "componentsuicheckbox"
+    ],
+    "route": "/components/survey/SurveyForm.tsx"
+  },
+  {
+    "id": 84,
+    "category": "general",
+    "title": "@/components/theme-toggle @/components/ui/navigation-menu @/components/ui/button @/components/ui/navigation-menu",
+    "content": "@/components/theme-toggle @/components/ui/navigation-menu @/components/ui/button @/components/ui/navigation-menu",
+    "keywords": [
+      "undefined",
+      "componentsthemetoggle",
+      "componentsuinavigationmenu",
+      "componentsuibutton"
+    ],
+    "route": "/components/layout/main-header.tsx"
+  },
+  {
+    "id": 85,
+    "category": "general",
+    "title": "@/components/ui/input @/components/ui/label @/components/ui/button @/components/ui/checkbox Registering for event Registration form submitted",
+    "content": "@/components/ui/input @/components/ui/label @/components/ui/button @/components/ui/checkbox Registering for event Registration form submitted. Check console for data. Enter your email address Enter your phone number",
+    "keywords": [
+      "undefined",
+      "componentsuiinput",
+      "componentsuilabel",
+      "componentsuibutton",
+      "componentsuicheckbox",
+      "registering",
+      "event",
+      "registration"
+    ],
+    "route": "/components/events/EventRegistrationForm.tsx"
+  },
+  {
+    "id": 86,
+    "category": "faq",
+    "title": "How do I reset my Member Portal password?",
+    "content": "To reset your Member Portal password, click the 'Forgot Password?' link on the login page. Enter your registered email or PAN, and follow the instructions sent to your email to create a new password.",
+    "keywords": ["reset", "password", "member portal", "forgot", "login"],
+    "route": "/member-portal"
+  },
+  {
+    "id": 87,
+    "category": "faq",
+    "title": "What documents are required for Tier 3 benefit claims?",
+    "content": "For Tier 3 benefit claims, you need: 1. Completed Tier 3 Benefit Claim Form, 2. Ghana Card or valid passport, 3. Proof of employment or self-employment, 4. Bank account details, 5. Any additional documents specified on the form.",
+    "keywords": ["tier 3", "benefit", "claim", "documents", "requirements"],
+    "route": "/forms/tier-3-benefit-claim"
+  },
+  {
+    "id": 88,
+    "category": "howto",
+    "title": "How to check your pension contribution history",
+    "content": "Log in to the Member Portal. Go to 'Account Overview' and select 'Contribution History' to view all your past contributions, dates, and amounts.",
+    "keywords": ["contribution", "history", "check", "account", "member portal"],
+    "route": "/member-portal"
+  },
+  {
+    "id": 89,
+    "category": "faq",
+    "title": "What is the processing time for benefit claims?",
+    "content": "Benefit claims are typically processed within 10-15 working days after all required documents are submitted and approved. You will be notified by email or SMS once your claim is processed.",
+    "keywords": ["processing time", "benefit", "claim", "days", "approval"],
+    "route": "/services/form-status"
+  },
+  {
+    "id": 90,
+    "category": "support",
+    "title": "How to contact support for urgent issues",
+    "content": "For urgent pension-related issues, call our support hotline at 0302-123-456, email support@standardpensiontrust.com, or use the live chat on our website during business hours (Mon-Fri, 8am-5pm).",
+    "keywords": ["support", "contact", "urgent", "help", "hotline"],
+    "route": "/contact"
+  },
+  {
+    "id": 91,
+    "category": "howto",
+    "title": "How to use the pension calculator",
+    "content": "Visit the Pension Calculator page. Enter your age, salary, and contribution details for Tiers 1, 2, and 3. The calculator will estimate your retirement benefits and show a breakdown for each tier.",
+    "keywords": ["calculator", "pension", "estimate", "retirement", "tiers"],
+    "route": "/pension-calculator"
+  },
+  {
+    "id": 92,
+    "category": "tax",
+    "title": "Tax benefits of voluntary Tier 3 contributions",
+    "content": "Contributions up to 16.5% of your gross income to Tier 3 pension schemes are tax-deductible. This reduces your annual tax liability and helps you save more for retirement.",
+    "keywords": ["tax", "tier 3", "voluntary", "deductible", "contributions"],
+    "route": "/schemes/personal-pension"
+  },
+  {
+    "id": 93,
+    "category": "howto",
+    "title": "How to update your beneficiary information",
+    "content": "To update your beneficiary, log in to the Member Portal, go to 'Account Settings', and select 'Update Beneficiary'. Alternatively, submit a Change of Beneficiary Form at our office.",
+    "keywords": ["beneficiary", "update", "change", "account", "form"],
+    "route": "/member-portal"
+  },
+  {
+    "id": 94,
+    "category": "faq",
+    "title": "Can I transfer my pension from another provider to SPT?",
+    "content": "Yes, you can transfer your pension from another provider to Standard Pensions Trust. Contact our support team for guidance on the transfer process and required documentation.",
+    "keywords": ["transfer", "pension", "provider", "spt", "move"],
+    "route": "/contact"
+  },
+  {
+    "id": 95,
+    "category": "faq",
+    "title": "Who qualifies for the Account Booster program?",
+    "content": "The Account Booster program is available to all Tier 3 contributors who maintain regular monthly contributions for at least 6 months.",
+    "keywords": ["account booster", "tier 3", "contributor", "program", "qualify"],
+    "route": "/services/faq"
+  },
+  {
+    "id": 96,
+    "category": "basics",
+    "title": "What is Pension?",
+    "content": "In Ghana, a pension is essentially a regular income you receive after you retire from active employment. Think of it as a financial safety net, built up from contributions made during your working life by both you and often your employer. Its purpose is to provide you with a stable income when you're no longer earning a salary, ensuring a degree of financial security in your later years.",
+    "keywords": ["pension", "retirement", "income", "ghana", "security"],
+    "route": ""
+  },
+  {
+    "id": 97,
+    "category": "basics",
+    "title": "3-Tier Pension System",
+    "content": "Ghana operates a 3-Tier Pension System, established by the National Pensions Act, 2008 (Act 766), as amended by Act 883. Here's a breakdown:\n\nTier 1 (Mandatory Basic National Social Security Scheme): This is managed by the Social Security and National Insurance Trust (SSNIT). It's a mandatory, unfunded, defined-benefit scheme, meaning your benefits are pre-determined, and current contributions pay for current retirees. It primarily covers basic income replacement.\n\nTier 2 (Mandatory Occupational/Work-Based Scheme): This is a mandatory, privately managed, defined-contributory scheme. Employers are required to contribute to this on behalf of their employees. These contributions are invested, and your final benefit depends on the total contributions and investment returns.\n\nTier 3 (Voluntary Provident Fund & Personal Pension Schemes): This is a voluntary, privately managed, defined-contributory scheme. It's designed for both formal and informal sector workers who wish to make additional contributions to supplement their Tier 1 and Tier 2 benefits. It offers more flexibility and can be accessed earlier under certain conditions.",
+    "keywords": ["3-tier", "pension", "system", "ghana", "ssnit", "tier 1", "tier 2", "tier 3"],
+    "route": ""
+  },
+  {
+    "id": 98,
+    "category": "management",
+    "title": "Who Manages Your Pension?",
+    "content": "Your pension is managed by different entities depending on the tier:\n\nTier 1: Managed by the Social Security and National Insurance Trust (SSNIT).\n\nTier 2 & Tier 3: Managed by licensed Pension Fund Managers (PFMs) and overseen by Custodians. The PFMs invest your contributions, while Custodians hold the assets securely. All these entities are regulated by the National Pensions Regulatory Authority (NPRA).",
+    "keywords": ["pension", "management", "ssnit", "pfm", "custodian", "npra"],
+    "route": ""
+  },
+  {
+    "id": 99,
+    "category": "contributions",
+    "title": "How Much is Deducted?",
+    "content": "Currently, for formal sector employees:\n\nTotal Contribution: 18.5% of your basic monthly salary.\n\nEmployer's Contribution: 13% of your basic salary.\n\nEmployee's Contribution: 5.5% of your basic salary.\n\nThis 18.5% is then distributed as follows:\n\n13.5% goes to SSNIT (Tier 1).\n\n5% goes to your Tier 2 Pension Scheme, managed by a private Pension Fund Manager.\n\nFor Tier 3, contributions are voluntary and determined by the individual contributor.",
+    "keywords": ["contribution", "deduction", "salary", "employer", "employee", "tier 1", "tier 2", "tier 3"],
+    "route": ""
+  },
+  {
+    "id": 100,
+    "category": "tier3",
+    "title": "Understanding Tier 3",
+    "content": "Tier 3 is your flexible, voluntary top-up. It's a privately managed scheme that allows you to contribute beyond the mandatory Tiers 1 and 2. It's particularly beneficial for:\n\nSelf-employed individuals: Who don't have mandatory employer contributions.\n\nInformal sector workers: Like market traders, artisans, etc.\n\nFormal sector workers: Who want to save more for a more comfortable retirement or for specific long-term goals.\n\nTier 3 schemes often offer different investment options and can potentially be accessed before retirement for specific purposes, depending on the scheme rules and NPRA guidelines.",
+    "keywords": ["tier 3", "voluntary", "self-employed", "informal sector", "formal sector", "investment"],
+    "route": ""
+  },
+  {
+    "id": 101,
+    "category": "withdrawal",
+    "title": "Can I Access My Pension Early?",
+    "content": "Tier 1 (SSNIT): Generally, no, unless you meet specific criteria for invalidity benefits or emigration (under strict conditions). The primary access is at the statutory retirement age.\n\nTier 2: Access is typically at the statutory retirement age. However, if you are no longer employed (e.g., unemployed for a certain period, or emigrating), you might be able to access a portion of your contributions, subject to NPRA regulations.\n\nTier 3: Yes, this is where Tier 3 offers flexibility. Depending on the scheme, you can usually access a portion of your funds after a certain lock-in period (e.g., 5-10 years) for specific purposes, or even withdraw the full amount before retirement under specific conditions (e.g., critical illness, emigration, etc.). The exact rules vary by scheme and are regulated by NPRA.",
+    "keywords": ["withdrawal", "early access", "tier 1", "tier 2", "tier 3", "npra"],
+    "route": ""
+  },
+  {
+    "id": 102,
+    "category": "myths",
+    "title": "Common Myths About Pensions",
+    "content": "Here are a few common myths about pensions in Ghana:\n\nMyth: 'My SSNIT contributions are enough for a comfortable retirement.'\nReality: While SSNIT provides a basic income, it's often not enough to maintain your pre-retirement lifestyle. That's why Tiers 2 and 3 are crucial for supplementing your retirement income.\n\nMyth: 'Pensions are only for formal sector workers.'\nReality: The 3-Tier system, especially Tier 3, is designed to include informal sector workers and the self-employed, encouraging everyone to save for retirement.\n\nMyth: 'My pension money just sits there, it's not growing.'\nReality: Your Tier 2 and 3 contributions are invested by Pension Fund Managers, aiming to grow your savings over time through various investment instruments.\n\nMyth: 'It's too late to start saving for retirement.'\nReality: While earlier is better, it's never truly too late to start. Even small, consistent contributions can make a significant difference over time due to compound interest.",
+    "keywords": ["myths", "pension", "ghana", "ssnit", "tier 2", "tier 3", "investment", "retirement"],
+    "route": ""
+  },
+  {
+    "id": 103,
+    "category": "tracking",
+    "title": "How to Track Your Contributions",
+    "content": "SSNIT (Tier 1): You can track your contributions by visiting any SSNIT branch, using their online portal (SSNIT Portal), or through their mobile app (SSNIT Mobile App). You'll need your SSNIT number and potentially a valid ID.\n\nTier 2 & Tier 3: Your Pension Fund Manager is obligated to send you regular statements (usually quarterly or annually) detailing your contributions, investment performance, and account balance. You can also contact your PFM directly or check if they have an online portal or app for tracking.",
+    "keywords": ["track", "contributions", "ssnit", "pfm", "statement", "portal", "app"],
+    "route": ""
+  },
+  {
+    "id": 104,
+    "category": "jobchange",
+    "title": "Changing Jobs? What Happens?",
+    "content": "If you change jobs in Ghana:\n\nTier 1 (SSNIT): Your SSNIT contributions continue seamlessly with your new employer, provided they are also contributing to SSNIT. Your SSNIT number remains the same.\n\nTier 2: Your contributions will continue with the Pension Fund Manager your new employer has chosen. If your new employer uses a different PFM, your previous contributions remain with your old PFM until you consolidate them (if permitted) or until retirement. You will typically have a separate Tier 2 account for each employer's scheme.\n\nTier 3: Since Tier 3 is voluntary and personal, it remains unaffected by job changes. You continue contributing to your chosen Tier 3 scheme irrespective of your employment status.",
+    "keywords": ["job change", "ssnit", "tier 2", "tier 3", "employer", "pfm"],
+    "route": ""
+  },
+  {
+    "id": 105,
+    "category": "trustees",
+    "title": "Meet Your Trustees",
+    "content": "In the context of the 3-Tier Pension System, particularly for Tier 2 and Tier 3 schemes, Trustees play a crucial oversight role. They are fiduciaries appointed to protect the interests of the scheme members (you!). Their responsibilities include:\n\nEnsuring the scheme is managed in accordance with its rules and the pension laws.\n\nAppointing and monitoring the performance of the Pension Fund Managers and Custodians.\n\nReviewing financial reports and ensuring the sound financial health of the scheme.\n\nCommunicating with members.",
+    "keywords": ["trustees", "oversight", "tier 2", "tier 3", "fiduciary", "scheme"],
+    "route": ""
+  },
+  {
+    "id": 106,
+    "category": "mistakes",
+    "title": "Top 5 Pension Mistakes to Avoid",
+    "content": "Not Starting Early Enough: The power of compound interest is immense. Delaying contributions means missing out on significant growth potential.\n\nNot Understanding Your Scheme: Many people don't know which PFMs manage their Tier 2, or what their investment options are. Be informed!\n\nRelying Solely on SSNIT: While essential, SSNIT alone may not be sufficient for a comfortable retirement. Supplement with Tier 2 and consider Tier 3.\n\nNot Tracking Contributions: Regularly check your statements from SSNIT and your PFMs to ensure contributions are being made correctly.\n\nWithdrawing Early (if not necessary): While Tier 3 offers flexibility, early withdrawals from any tier (if permitted) can significantly reduce your retirement nest egg. Consider the long-term impact.",
+    "keywords": ["mistakes", "pension", "compound interest", "ssnit", "tier 2", "tier 3", "tracking", "withdrawal"],
+    "route": ""
+  },
+  {
+    "id": 107,
+    "category": "npra",
+    "title": "Understanding NPRA",
+    "content": "The National Pensions Regulatory Authority (NPRA) is the statutory body established by the National Pensions Act, 2008 (Act 766), to regulate and supervise the 3-Tier Pension Scheme in Ghana. Their key roles include:\n\nLicensing and supervising pension scheme service providers (PFMs, Custodians, Trustees).\n\nFormulating and enforcing regulations for the pension industry.\n\nProtecting the interest of pension scheme members.\n\nEnsuring the efficient administration of the pension system.\n\nEducating the public on pension matters.",
+    "keywords": ["npra", "regulation", "supervision", "pension", "ghana", "act 766"],
+    "route": ""
+  },
+  {
+    "id": 108,
+    "category": "basics",
+    "title": "What is a Pension Scheme?",
+    "content": "A pension scheme (or plan) is a structured arrangement designed to provide income to individuals during their retirement. In Ghana, this encompasses the entire framework of the 3-Tier system, including the rules, regulations, contribution methods, investment strategies, and benefit payment procedures that govern how your retirement savings are collected, managed, and eventually disbursed.",
+    "keywords": ["pension scheme", "plan", "retirement", "ghana", "3-tier"],
+    "route": ""
+  },
+  {
+    "id": 109,
+    "category": "types",
+    "title": "Types of Pension Schemes",
+    "content": "In Ghana's 3-Tier system, the main types are:\n\nDefined Benefit (DB) Schemes: Like SSNIT (Tier 1). Your retirement benefit is pre-determined, usually based on your salary and years of service. The risk of investment performance is largely borne by the scheme administrator.\n\nDefined Contribution (DC) Schemes: Like Tier 2 and Tier 3 schemes. Your retirement benefit depends on the total contributions made by you and/or your employer, plus the investment returns generated over time. The investment risk is borne by the individual member.\n\nProvident Funds: Often a type of DC scheme, particularly relevant to Tier 3. They are lump-sum payment schemes where the accumulated contributions and investment returns are paid out as a single sum upon retirement or specified conditions.\n\nPersonal Pension Schemes: Also a type of DC scheme under Tier 3, specifically designed for individuals (especially the self-employed and informal sector) to make voluntary contributions.",
+    "keywords": ["types", "pension", "defined benefit", "defined contribution", "provident fund", "personal pension"],
+    "route": ""
+  },
+  {
+    "id": 110,
+    "category": "saving",
+    "title": "Why Save Early?",
+    "content": "Saving early for your pension is paramount due to:\n\nCompound Interest: Your money earns interest, and then that interest also earns interest. The longer your money is invested, the more time it has to grow exponentially. Even small, consistent contributions made early can accumulate to a substantial amount over decades.\n\nInflation: The purchasing power of money decreases over time. Saving early helps your investments grow ahead of inflation, preserving your future purchasing power.\n\nLonger Accumulation Period: More time means less pressure to save large amounts periodically. You can contribute smaller sums consistently, achieving the same or even better results than larger, later contributions.",
+    "keywords": ["saving", "early", "compound interest", "inflation", "accumulation"],
+    "route": ""
+  },
+  {
+    "id": 111,
+    "category": "employer",
+    "title": "Employer's Role in Pension",
+    "content": "For formal sector employees, the employer plays a critical role:\n\nMandatory Contributions: Employers are legally obligated to deduct employee contributions (5.5%) and add their own portion (13%) from the basic salary.\n\nRemitting Contributions: They are responsible for promptly remitting these contributions to SSNIT (13.5%) and the chosen Tier 2 Pension Fund Manager (5%).\n\nScheme Selection (Tier 2): Employers select the private Pension Fund Manager for their employees' Tier 2 scheme.\n\nCompliance: Employers must comply with the National Pensions Act and NPRA regulations.",
+    "keywords": ["employer", "pension", "contribution", "remittance", "compliance", "tier 2"],
+    "route": ""
+  },
+  {
+    "id": 112,
+    "category": "tax",
+    "title": "Tax Benefits",
+    "content": "Pension contributions in Ghana generally enjoy significant tax benefits:\n\nTax Deductibility: Contributions made by both employees and employers to approved pension schemes (Tiers 1, 2, and 3) are typically tax-deductible up to certain limits. This means your taxable income is reduced by the amount contributed.\n\nTax-Exempt Growth: Investment returns generated within approved pension schemes are generally tax-exempt until withdrawal.\n\nTax-Free Benefits (under conditions): Benefits received from approved pension schemes at retirement (or under specific conditions) are often tax-free, provided certain criteria (e.g., age, contribution period) are met.",
+    "keywords": ["tax", "benefits", "deductibility", "tax-exempt", "tax-free", "pension"],
+    "route": ""
+  },
+  {
+    "id": 113,
+    "category": "compound",
+    "title": "Compound Interest",
+    "content": "Compound interest is the magic behind long-term savings growth. It's the interest you earn not only on your initial principal but also on the accumulated interest from previous periods.\n\nExample: If you save GHS 100 and earn 10% interest, you'll have GHS 110 after one year. In the second year, you'll earn 10% on GHS 110, not just GHS 100, so you get GHS 11 more, making it GHS 121. This snowball effect makes early and consistent saving incredibly powerful for retirement planning.",
+    "keywords": ["compound interest", "savings", "growth", "example", "retirement"],
+    "route": ""
+  },
+  {
+    "id": 114,
+    "category": "voluntary",
+    "title": "Voluntary Contributions",
+    "content": "Voluntary contributions refer to any additional payments you make into a pension scheme beyond the mandatory deductions. In Ghana, these primarily apply to Tier 3 schemes. They allow individuals, especially the self-employed, informal sector workers, or even formal sector employees who want to boost their retirement savings, to contribute at their own pace and chosen amount. These contributions also enjoy tax benefits and are managed by licensed private pension fund managers.",
+    "keywords": ["voluntary", "contributions", "tier 3", "self-employed", "informal sector", "tax"],
+    "route": ""
+  },
+  {
+    "id": 115,
+    "category": "statements",
+    "title": "Pension Statements",
+    "content": "A pension statement is a periodic report (e.g., quarterly, annually) provided by your pension fund administrator (SSNIT or your private Pension Fund Manager). It details:\n\nYour total contributions (employee and employer portions).\n\nThe investment returns earned on your contributions.\n\nYour current account balance.\n\nAny fees deducted.\n\nA summary of your scheme's performance.\n\nRegularly reviewing your pension statements is crucial for tracking your retirement savings and ensuring accuracy.",
+    "keywords": ["pension statement", "report", "contributions", "returns", "balance", "fees", "performance"],
+    "route": ""
+  },
+  {
+    "id": 116,
+    "category": "inflation",
+    "title": "Pension and Inflation",
+    "content": "Inflation erodes the purchasing power of money over time. If your pension savings don't grow at a rate higher than inflation, your retirement income will be able to buy less in the future.\n\nImpact: A fixed pension amount might seem sufficient today, but its real value diminishes with inflation.\n\nMitigation: Pension Fund Managers invest your contributions in various assets (equities, bonds, real estate) to generate returns that ideally outpace inflation, preserving and growing the real value of your retirement savings. This is why having investments in your Tier 2 and Tier 3 schemes is vital, as they aim to generate real returns.",
+    "keywords": ["inflation", "pension", "purchasing power", "returns", "investment", "tier 2", "tier 3"],
+    "route": ""
+  },
+  {
+    "id": 117,
+    "category": "fundmanager",
+    "title": "Top 3 Things to Ask Your Fund Manager",
+    "content": "When interacting with your Pension Fund Manager for Tier 2 or Tier 3, here are the top 3 things you should definitely ask:\n\n'What is my current account balance, and can I get a detailed statement of my contributions and investment performance?'\nWhy: This helps you track your savings, ensure all contributions are accounted for, and understand how your money is growing.\n\n'What are the investment strategies for my scheme, and what are the associated fees and charges?'\nWhy: Understanding where and how your money is being invested gives you insight into the potential risks and returns. Knowing the fees ensures transparency and helps you assess the net growth of your funds.\n\n'What are the procedures and requirements for accessing my funds, both at retirement and under any early withdrawal conditions (especially for Tier 3)?'\nWhy: This clarifies the process for claiming your benefits when the time comes and helps you understand the specific rules for any potential early access to your Tier 3 funds, including lock-in periods and permissible reasons.",
+    "keywords": ["fund manager", "questions", "account balance", "investment", "fees", "withdrawal", "tier 2", "tier 3"],
+    "route": ""
+  }
+]
