@@ -161,7 +161,7 @@ export function HomeSlider() {
               src={slide.image}
               alt={slide.title.replace(/\n/g, ' ')}
               fill
-              className="object-cover object-[center_20%]"
+              className="object-cover object-[center_5%]"
               priority={currentSlide === 0}
               sizes="100vw"
             />
