@@ -228,45 +228,69 @@ export const leadershipTeam = [
 // Timeline Events
 export const timelineEvents = [
   {
-    year: '2008',
-    title: 'Foundation',
-    description: 'Standard Pensions Trust was established with a mission to transform retirement planning in Ghana.',
-  },
-  {
-    year: '2010',
-    title: 'First Master Trust',
-    description: 'Launched our flagship Master Trust scheme, bringing affordable pension solutions to SMEs across Ghana.',
-  },
-  {
-    year: '2013',
-    title: 'Digital Transformation',
-    description: 'Introduced our first online portal, allowing members to check balances and update information remotely.',
-  },
-  {
     year: '2015',
-    title: 'Expanded Reach',
-    description: 'Opened regional offices in Kumasi, Takoradi, and Tamale to serve members across the country.',
+    title: 'Best Pensions Incorporation',
+    description: 'Incorporation of Best as a corporate pensions trustee, marking the beginning of our strategic expansion journey.',
+    date: 'March 26, 2015',
+    type: 'incorporation',
+    color: 'blue'
   },
   {
-    year: '2018',
-    title: 'Innovation Award',
-    description: 'Recognized for pension innovation with the Ghana Financial Services Excellence Award.',
+    year: '2021',
+    title: 'Beige Pensions Acquisition',
+    description: 'Completion of due diligence and successful takeover of Beige Pensions with all their previously managed schemes.',
+    date: 'December 10, 2021',
+    type: 'acquisition',
+    color: 'gray'
   },
   {
-    year: '2020',
-    title: 'Mobile Services',
-    description: 'Launched mobile app with integrated payment solutions for seamless pension management.',
+    year: '2022',
+    title: 'Ideal Pensions Takeover',
+    description: 'Strategic takeover of schemes previously under Ideal Pensions, expanding our portfolio and member base.',
+    date: 'March 4, 2022',
+    type: 'takeover',
+    color: 'light-gray'
+  },
+  {
+    year: '2022',
+    title: 'Broadview Pensions Merger',
+    description: 'Approval of merger with Broadview and rebranding by NPRA, strengthening our market position.',
+    date: 'October 20, 2022',
+    type: 'merger',
+    color: 'orange'
+  },
+  {
+    year: '2022',
+    title: 'Standard Pensions Trust Transformation',
+    description: 'Major rebranding into Standard Pensions Trust Limited, launch of Dosh Personal Pensions, and our first outdoor event with notice to LARPS members.',
+    date: 'November 3, 2022',
+    type: 'transformation',
+    color: 'dark-blue'
   },
   {
     year: '2023',
-    title: 'ESG Investment',
-    description: 'Introduced sustainable investment options, aligning member values with retirement planning.',
+    title: 'Market Leadership',
+    description: 'Consolidated expertise across over 2,000 employers and approximately 150,000 members spanning 19 industries.',
+    date: 'Ongoing',
+    type: 'growth',
+    color: 'green'
+  },
+  {
+    year: '2024',
+    title: 'Digital Innovation',
+    description: 'Enhanced digital services and AI-powered retirement planning tools for improved member experience.',
+    date: 'Ongoing',
+    type: 'innovation',
+    color: 'purple'
   },
   {
     year: '2025',
-    title: 'Looking Forward',
-    description: 'Continuing our mission of securing financial futures for all Ghanaians through innovative pension solutions.',
-  },
+    title: 'Future Vision',
+    description: 'Continuing our mission of securing financial futures for all Ghanaians through innovative pension solutions and expanded reach.',
+    date: 'Ongoing',
+    type: 'vision',
+    color: 'red'
+  }
 ];
 
 // Blog Posts

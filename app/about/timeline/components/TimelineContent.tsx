@@ -28,23 +28,39 @@ export default function TimelineContent() {
         <div className="max-w-7xl mx-auto">
           {/* Hero Section */}
           <ScrollReveal>
-            <section className="mb-12 md:mb-16 text-center bg-card rounded-lg p-6 sm:p-8 md:p-10 lg:p-12 border border-border/40">
+            <section className="mb-12 md:mb-16 text-center bg-gradient-to-br from-red-50 to-pink-50 rounded-lg p-6 sm:p-8 md:p-10 lg:p-12 border border-red-200/40">
               <motion.h1 
                 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight mb-4 text-foreground"
                 initial={{ opacity: 0, y: -20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.8 }}
               >
-                Our Journey Through the Years
+                Unified Strength: Four Strategic Mergers Building Tomorrow's Pension Leadership
               </motion.h1>
               <motion.p 
-                className="text-muted-foreground text-sm sm:text-base md:text-lg leading-relaxed max-w-3xl mx-auto"
+                className="text-muted-foreground text-sm sm:text-base md:text-lg leading-relaxed max-w-4xl mx-auto mb-6"
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.8, delay: 0.2 }}
               >
-                Since our founding, Standard Pensions Trust has grown steadily, expanding our services and reach to better serve Ghanaians in their retirement planning journey.
+                Through four strategic mergers and acquisitions, we've consolidated expertise, expanded to over 2,000 employers, about 150,000-member network across 19 industries, and strengthened our position as trusted pension trustees.
               </motion.p>
+              <motion.div 
+                className="flex flex-wrap justify-center gap-4 text-sm"
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.8, delay: 0.4 }}
+              >
+                <div className="bg-white px-4 py-2 rounded-full border border-red-200">
+                  <span className="font-semibold text-red-700">2,000+</span> Employers
+                </div>
+                <div className="bg-white px-4 py-2 rounded-full border border-red-200">
+                  <span className="font-semibold text-red-700">150,000+</span> Members
+                </div>
+                <div className="bg-white px-4 py-2 rounded-full border border-red-200">
+                  <span className="font-semibold text-red-700">19</span> Industries
+                </div>
+              </motion.div>
             </section>
           </ScrollReveal>
           
@@ -67,7 +83,17 @@ export default function TimelineContent() {
                     {/* Mobile Layout */}
                     <div className="md:hidden flex items-start">
                       <motion.div 
-                        className="w-6 h-6 rounded-full bg-primary flex items-center justify-center border-4 border-background flex-shrink-0 mt-2"
+                        className={`w-6 h-6 rounded-full flex items-center justify-center border-4 border-background flex-shrink-0 mt-2 ${
+                          event.color === 'blue' ? 'bg-blue-500' :
+                          event.color === 'gray' ? 'bg-gray-500' :
+                          event.color === 'light-gray' ? 'bg-gray-400' :
+                          event.color === 'orange' ? 'bg-orange-500' :
+                          event.color === 'dark-blue' ? 'bg-blue-700' :
+                          event.color === 'green' ? 'bg-green-500' :
+                          event.color === 'purple' ? 'bg-purple-500' :
+                          event.color === 'red' ? 'bg-red-500' :
+                          'bg-primary'
+                        }`}
                         initial={{ scale: 0 }}
                         animate={{ scale: 1 }}
                         transition={{ duration: 0.5, delay: 0.5 + index * 0.1, type: "spring" }}
@@ -88,6 +114,16 @@ export default function TimelineContent() {
                         >
                           {event.year}
                         </motion.h3>
+                        <div className="flex items-center gap-2 mb-2">
+                          <span className="text-xs font-medium text-red-600 bg-red-100 px-2 py-1 rounded-full capitalize">
+                            {event.type}
+                          </span>
+                          {event.date && (
+                            <span className="text-xs text-muted-foreground">
+                              {event.date}
+                            </span>
+                          )}
+                        </div>
                         <h4 className="text-lg sm:text-xl font-semibold mb-2 text-foreground">{event.title}</h4>
                         <p className="text-muted-foreground text-sm sm:text-base">{event.description}</p>
                       </motion.div>
@@ -110,6 +146,16 @@ export default function TimelineContent() {
                           >
                             {event.year}
                           </motion.h3>
+                          <div className="flex items-center gap-2 mb-2">
+                            <span className="text-xs font-medium text-red-600 bg-red-100 px-2 py-1 rounded-full capitalize">
+                              {event.type}
+                            </span>
+                            {event.date && (
+                              <span className="text-xs text-muted-foreground">
+                                {event.date}
+                              </span>
+                            )}
+                          </div>
                           <h4 className="text-xl font-semibold mb-2 text-foreground">{event.title}</h4>
                           <p className="text-muted-foreground text-sm">{event.description}</p>
                         </motion.div>
@@ -117,7 +163,17 @@ export default function TimelineContent() {
                       
                       <div className="w-0 flex justify-center relative">
                         <motion.div 
-                          className="w-8 h-8 rounded-full bg-primary flex items-center justify-center border-4 border-background"
+                          className={`w-8 h-8 rounded-full flex items-center justify-center border-4 border-background ${
+                            event.color === 'blue' ? 'bg-blue-500' :
+                            event.color === 'gray' ? 'bg-gray-500' :
+                            event.color === 'light-gray' ? 'bg-gray-400' :
+                            event.color === 'orange' ? 'bg-orange-500' :
+                            event.color === 'dark-blue' ? 'bg-blue-700' :
+                            event.color === 'green' ? 'bg-green-500' :
+                            event.color === 'purple' ? 'bg-purple-500' :
+                            event.color === 'red' ? 'bg-red-500' :
+                            'bg-primary'
+                          }`}
                           initial={{ scale: 0 }}
                           animate={{ scale: 1 }}
                           transition={{ duration: 0.5, delay: 0.5 + index * 0.1, type: "spring" }}
@@ -135,16 +191,16 @@ export default function TimelineContent() {
             </div>
           </section>
           
-          {/* Looking Ahead Section */}
+          {/* Strategic Impact Section */}
           <ScrollReveal delay={0.5}>
-            <section className="bg-card border border-border/50 rounded-lg p-6 sm:p-8 shadow-sm text-left">
+            <section className="bg-gradient-to-br from-blue-50 to-indigo-50 border border-blue-200/50 rounded-lg p-6 sm:p-8 shadow-sm text-left">
               <motion.h2 
                 className="text-2xl sm:text-3xl font-semibold mb-4 sm:mb-6 text-foreground"
                 initial={{ opacity: 0, y: -20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.6 }}
               >
-                Looking Ahead
+                Strategic Impact & Market Position
               </motion.h2>
               <motion.p 
                 className="text-base sm:text-lg text-muted-foreground mb-6"
@@ -152,34 +208,68 @@ export default function TimelineContent() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.6, delay: 0.2 }}
               >
-                As we continue to grow, Standard Pensions Trust remains committed to innovation and excellence in pension administration. Our future plans include:
+                Our strategic mergers and acquisitions have positioned Standard Pensions Trust as a market leader in Ghana's pension industry. The consolidation has delivered:
               </motion.p>
-              <ul className="space-y-4 mx-0">
-                {[
-                  "Expanding our digital services with AI-powered retirement planning tools",
-                  "Opening additional branches in underserved regions to improve accessibility",
-                  "Developing specialized pension products for informal sector workers",
-                  "Enhancing our ESG (Environmental, Social, Governance) investment options"
-                ].map((item, index) => (
-                  <motion.li 
-                    key={index}
-                    className="flex items-start"
-                    initial={{ opacity: 0, x: -20 }}
-                    animate={{ opacity: 1, x: 0 }}
-                    transition={{ duration: 0.5, delay: 0.4 + index * 0.1 }}
-                    whileHover={{ x: 5 }}
-                  >
-                    <motion.div 
-                      className="bg-primary/10 p-2 rounded-full mr-3 mt-1 flex-shrink-0"
-                      whileHover={{ scale: 1.1 }}
-                      transition={{ duration: 0.2 }}
-                    >
-                      <div className="w-2 h-2 rounded-full bg-primary"></div>
-                    </motion.div>
-                    <p className="text-muted-foreground text-sm sm:text-base">{item}</p>
-                  </motion.li>
-                ))}
-              </ul>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div className="space-y-4">
+                  <h3 className="font-semibold text-lg text-foreground">Operational Excellence</h3>
+                  <ul className="space-y-3">
+                    {[
+                      "Consolidated expertise from four leading pension administrators",
+                      "Streamlined processes and improved operational efficiency",
+                      "Enhanced risk management and compliance frameworks",
+                      "Unified technology platforms and member services"
+                    ].map((item, index) => (
+                      <motion.li 
+                        key={index}
+                        className="flex items-start"
+                        initial={{ opacity: 0, x: -20 }}
+                        animate={{ opacity: 1, x: 0 }}
+                        transition={{ duration: 0.5, delay: 0.4 + index * 0.1 }}
+                        whileHover={{ x: 5 }}
+                      >
+                        <motion.div 
+                          className="bg-blue-500/10 p-2 rounded-full mr-3 mt-1 flex-shrink-0"
+                          whileHover={{ scale: 1.1 }}
+                          transition={{ duration: 0.2 }}
+                        >
+                          <div className="w-2 h-2 rounded-full bg-blue-500"></div>
+                        </motion.div>
+                        <p className="text-muted-foreground text-sm sm:text-base">{item}</p>
+                      </motion.li>
+                    ))}
+                  </ul>
+                </div>
+                <div className="space-y-4">
+                  <h3 className="font-semibold text-lg text-foreground">Market Leadership</h3>
+                  <ul className="space-y-3">
+                    {[
+                      "Dominant market share across 19 diverse industries",
+                      "Comprehensive service portfolio for all business sizes",
+                      "Innovative digital solutions and member experience",
+                      "Strong regulatory relationships and compliance track record"
+                    ].map((item, index) => (
+                      <motion.li 
+                        key={index}
+                        className="flex items-start"
+                        initial={{ opacity: 0, x: -20 }}
+                        animate={{ opacity: 1, x: 0 }}
+                        transition={{ duration: 0.5, delay: 0.6 + index * 0.1 }}
+                        whileHover={{ x: 5 }}
+                      >
+                        <motion.div 
+                          className="bg-indigo-500/10 p-2 rounded-full mr-3 mt-1 flex-shrink-0"
+                          whileHover={{ scale: 1.1 }}
+                          transition={{ duration: 0.2 }}
+                        >
+                          <div className="w-2 h-2 rounded-full bg-indigo-500"></div>
+                        </motion.div>
+                        <p className="text-muted-foreground text-sm sm:text-base">{item}</p>
+                      </motion.li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
             </section>
           </ScrollReveal>
         </div>

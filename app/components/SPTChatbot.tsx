@@ -699,7 +699,10 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
             {/* Quick Action Buttons */}
             <div className="space-y-3">
               <button 
-                onClick={() => handleQuickAction('contribution')}
+                onClick={() => {
+                  setActiveTab('chat');
+                  setShowQuestionOptions('contribution');
+                }}
                 className="w-full bg-red-50 hover:bg-red-100 p-3 rounded-lg border border-red-200 transition-colors cursor-pointer"
               >
                 <div className="flex items-center space-x-3">
@@ -714,7 +717,10 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
               </button>
               
               <button 
-                onClick={() => handleQuickAction('enrollment')}
+                onClick={() => {
+                  setActiveTab('chat');
+                  setShowQuestionOptions('enrollment');
+                }}
                 className="w-full bg-green-50 hover:bg-green-100 p-3 rounded-lg border border-green-200 transition-colors cursor-pointer"
               >
                 <div className="flex items-center space-x-3">
@@ -729,7 +735,10 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
               </button>
               
               <button 
-                onClick={() => handleQuickAction('faqs')}
+                onClick={() => {
+                  setActiveTab('chat');
+                  setShowQuestionOptions('faqs');
+                }}
                 className="w-full bg-blue-50 hover:bg-blue-100 p-3 rounded-lg border border-blue-200 transition-colors cursor-pointer"
               >
                 <div className="flex items-center space-x-3">
@@ -739,7 +748,7 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
                   <div className="text-left">
                     <h4 className="font-medium text-blue-800">Quick FAQs</h4>
                     <p className="text-sm text-blue-600">Get instant answers to common questions</p>
-                  </div>
+                    </div>
                 </div>
               </button>
             </div>
