@@ -55,13 +55,13 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_GH',
     url: 'https://standardpensionstrust.com',
-    title: 'Standard Pensions Trust | Ghana\'s Premier Pension Administrator',
+    title: 'Standard Pensions Trust | Ghana\'s leading pension administrator',
     description: 'Standard Pensions Trust is Ghana\'s leading pension administrator, offering comprehensive retirement planning solutions and pension schemes for individuals and businesses.',
     siteName: 'Standard Pensions Trust',
   },
   twitter: {
-    card: 'summary_large_image',
-    title: 'Standard Pensions Trust | Ghana\'s Premier Pension Administrator',
+      card: 'summary_large_image',
+      title: 'Standard Pensions Trust | Ghana\'s leading pension administrator',
     description: 'Standard Pensions Trust is Ghana\'s leading pension administrator, offering comprehensive retirement planning solutions and pension schemes for individuals and businesses.',
   },
 };
