@@ -316,7 +316,7 @@
       "online",
       "member portal"
     ],
-    "route": "/member-portal"
+    "route": "https://portal.standardpensions.com/"
   },
   {
     "id": 21,
@@ -532,7 +532,7 @@
       "check",
       "balances"
     ],
-    "route": "//member-portal"
+    "route": "https://portal.standardpensions.com/"
   },
   {
     "id": 34,
@@ -549,7 +549,7 @@
       "ssnit",
       "number"
     ],
-    "route": "//member-portal/setup"
+    "route": "https://portal.standardpensions.com/"
   },
   {
     "id": 35,
@@ -566,7 +566,7 @@
       "required",
       "password"
     ],
-    "route": "//member-portal/login"
+    "route": "https://portal.standardpensions.com/"
   },
   {
     "id": 36,
@@ -1371,7 +1371,7 @@
     "title": "How do I reset my Member Portal password?",
     "content": "To reset your Member Portal password, click the 'Forgot Password?' link on the login page. Enter your registered email or PAN, and follow the instructions sent to your email to create a new password.",
     "keywords": ["reset", "password", "member portal", "forgot", "login"],
-    "route": "/member-portal"
+    "route": "https://portal.standardpensions.com/"
   },
   {
     "id": 87,
@@ -1387,7 +1387,7 @@
     "title": "How to check your pension contribution history",
     "content": "Log in to the Member Portal. Go to 'Account Overview' and select 'Contribution History' to view all your past contributions, dates, and amounts.",
     "keywords": ["contribution", "history", "check", "account", "member portal"],
-    "route": "/member-portal"
+    "route": "https://portal.standardpensions.com/"
   },
   {
     "id": 89,
@@ -1427,7 +1427,7 @@
     "title": "How to update your beneficiary information",
     "content": "To update your beneficiary, log in to the Member Portal, go to 'Account Settings', and select 'Update Beneficiary'. Alternatively, submit a Change of Beneficiary Form at our office.",
     "keywords": ["beneficiary", "update", "change", "account", "form"],
-    "route": "/member-portal"
+    "route": "https://portal.standardpensions.com/"
   },
   {
     "id": 94,

@@ -81,7 +81,7 @@ export default function SetupAccountPage() {
               className="mb-6 sm:mb-8 -ml-2"
               asChild
             >
-              <Link href="/member-portal">
+              <Link href="https://portal.standardpensions.com/">
                 <ChevronLeft className="h-4 w-4 mr-2" />
                 Back to Member Portal
               </Link>

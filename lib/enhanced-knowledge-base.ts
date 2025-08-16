@@ -61,7 +61,7 @@ export const comprehensiveKnowledge = [
     title: "Member Portal and Digital Services",
     content: "Member Portal Features: 24/7 account access, real-time balance checking, contribution history tracking, statement downloads, personal detail updates, beneficiary management. Login Requirements: Member account number and secure password, optional two-factor authentication for enhanced security. Available Services: Fund performance monitoring, contribution planning tools, retirement projections, document downloads, online form submissions, secure messaging with customer service. Mobile Access: Responsive design for smartphone and tablet access. Security: Bank-level encryption, secure login protocols, regular security updates.",
     keywords: ["member portal", "online access", "balance checking", "statements", "mobile access", "security", "digital services"],
-    route: "/member-portal"
+    route: "https://portal.standardpensions.com/"
   },
   {
     id: 9,

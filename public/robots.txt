@@ -11,9 +11,9 @@ Disallow: /api/
 
 # Disallow form processing endpoints
 Disallow: /forms/*/submit
-Disallow: /member-portal/login
-Disallow: /member-portal/setup
-Disallow: /member-portal/forgot-password
+Disallow: https://portal.standardpensions.com/
+Disallow: https://portal.standardpensions.com/
+Disallow: https://portal.standardpensions.com/
 
 # Allow important pages
 Allow: /about/

@@ -74,16 +74,6 @@ const sitemapSections: SitemapSection[] = [
     ],
   },
   {
-    title: 'Member Portal',
-    description: 'Secure access to your pension account',
-    links: [
-      { href: '/member-portal', label: 'Member Portal', description: 'Access your pension dashboard' },
-      { href: '/member-portal/login', label: 'Login', description: 'Sign in to your account' },
-      { href: '/member-portal/setup', label: 'Account Setup', description: 'Set up your member account' },
-      { href: '/member-portal/forgot-password', label: 'Forgot Password', description: 'Reset your password' },
-    ],
-  },
-  {
     title: 'Media & Resources',
     description: 'News, events, and downloadable resources',
     links: [

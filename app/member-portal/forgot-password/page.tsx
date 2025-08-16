@@ -108,7 +108,7 @@ export default function ForgotPasswordPage() {
                   
                   <div className="space-y-3 sm:space-y-4">
                     <Button asChild className="w-full bg-primary hover:bg-primary/90">
-                      <Link href="/member-portal/login">
+                      <Link href="https://portal.standardpensions.com/">
                         Back to Login
                       </Link>
                     </Button>

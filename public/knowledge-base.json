@@ -66,24 +66,6 @@
     "content": "@/components/pension-calculator @radix-ui/react-icons Calculate your estimated pension benefits at retirement based on your current salary, age, and contribution levels."
   },
   {
-    "id": 13,
-    "path": "app\\member-portal\\page.tsx",
-    "route": "/\\member-portal\\page.tsx",
-    "content": "@/components/ui/button Access your pension account, check balances, update information, and manage your retirement planning through our secure member portal."
-  },
-  {
-    "id": 14,
-    "path": "app\\member-portal\\setup\\page.tsx",
-    "route": "/\\member-portal\\setup\\page.tsx",
-    "content": "@hookform/resolvers/zod @/components/ui/button @/components/ui/input @/components/ui/alert @/components/ui/dialog SSNIT number is required Please enter a valid phone number Please enter a valid email address Gain valuable insights into your account fund performance to support smarter retirement decisions. Easily keep your details up to date through our streamlined portal. Create additional accounts for tax advantages and accelerate your savings. Two-Factor Authentication Add an extra layer of security with optional two-factor authentication. Instant Member Statement 24/7 access to your statements—quick, easy, and reliable."
-  },
-  {
-    "id": 15,
-    "path": "app\\member-portal\\login\\page.tsx",
-    "route": "/\\member-portal\\login\\page.tsx",
-    "content": "@hookform/resolvers/zod @/components/ui/button @/components/ui/input Account number is required Password must be at least 8 characters"
-  },
-  {
     "id": 16,
     "path": "app\\media\\gallery\\page.tsx",
     "route": "/\\media\\gallery\\page.tsx",
@@ -277,20 +259,20 @@
   },
   {
     "id": 48,
-    "path": "app\\member-portal\\page.tsx",
-    "route": "/\\member-portal\\page.tsx",
+    "path": "app\\https://portal.standardpensions.com/\\page.tsx",
+    "route": "/\\https://portal.standardpensions.com/\\page.tsx",
     "content": "@/components/ui/button Access your pension account, check balances, update information, and manage your retirement planning through our secure member portal."
   },
   {
     "id": 49,
-    "path": "app\\member-portal\\setup\\page.tsx",
-    "route": "/\\member-portal\\setup\\page.tsx",
+    "path": "app\\https://portal.standardpensions.com/\\setup\\page.tsx",
+    "route": "/\\https://portal.standardpensions.com/\\setup\\page.tsx",
     "content": "@hookform/resolvers/zod @/components/ui/button @/components/ui/input @/components/ui/alert @/components/ui/dialog SSNIT number is required Please enter a valid phone number Please enter a valid email address Gain valuable insights into your account fund performance to support smarter retirement decisions. Easily keep your details up to date through our streamlined portal. Create additional accounts for tax advantages and accelerate your savings. Two-Factor Authentication Add an extra layer of security with optional two-factor authentication. Instant Member Statement 24/7 access to your statements—quick, easy, and reliable."
   },
   {
     "id": 50,
-    "path": "app\\member-portal\\login\\page.tsx",
-    "route": "/\\member-portal\\login\\page.tsx",
+    "path": "app\\https://portal.standardpensions.com/\\login\\page.tsx",
+    "route": "/\\https://portal.standardpensions.com/\\login\\page.tsx",
     "content": "@hookform/resolvers/zod @/components/ui/button @/components/ui/input Account number is required Password must be at least 8 characters"
   },
   {

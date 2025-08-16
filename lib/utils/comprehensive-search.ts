@@ -118,16 +118,6 @@ export const comprehensiveSearchIndex: EnhancedSearchResult[] = [
     priority: 5
   },
   {
-    id: 'member-portal',
-    title: 'Member Portal - Digital Services',
-    description: 'Access your pension account, check balances, update information, and manage your retirement planning.',
-    content: 'Member Portal Features include 24/7 account access, real-time balance checking, contribution history tracking, statement downloads, personal detail updates, beneficiary management. Available services: fund performance monitoring, contribution planning tools, retirement projections, document downloads, online form submissions, secure messaging with customer service. Login requirements: Member account number and secure password.',
-    category: 'service',
-    url: '/member-portal',
-    keywords: ['member portal', 'online access', 'balance checking', 'statements', 'account', 'login', 'digital services', 'secure'],
-    priority: 5
-  },
-  {
     id: 'pension-calculator',
     title: 'Pension Calculator & Planning Tools',
     description: 'Calculate your estimated pension benefits at retirement based on your current salary, age, and contribution levels.',

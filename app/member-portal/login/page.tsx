@@ -148,7 +148,7 @@ export default function LoginPage() {
                 </CardContent>
                 <CardFooter className="flex flex-col space-y-3 sm:space-y-4 text-center px-4 sm:px-6 pb-6">
                   <Link 
-                    href="/member-portal/forgot-password"
+                    href="https://portal.standardpensions.com/setpassword/"
                     className="text-sm text-primary hover:underline"
                   >
                     Forgot your password?
@@ -156,7 +156,7 @@ export default function LoginPage() {
                   <div className="text-sm text-muted-foreground">
                     Not registered yet?{" "}
                     <Link 
-                      href="/member-portal/setup"
+                      href="https://portal.standardpensions.com/setup/"
                       className="text-primary hover:underline"
                     >
                       Complete setup

@@ -42,7 +42,6 @@ const updateKnowledgeBase = () => {
     { path: 'app/services/faq/page.tsx', route: '/services/faq', category: 'faq' },
     { path: 'app/about/leadership/page.tsx', route: '/about/leadership', category: 'leadership' },
     { path: 'app/pension-calculator/page.tsx', route: '/pension-calculator', category: 'calculator' },
-    { path: 'app/member-portal/page.tsx', route: '/member-portal', category: 'services' },
     { path: 'app/contact/page.tsx', route: '/contact', category: 'contact' }
   ];
 

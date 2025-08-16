@@ -123,7 +123,7 @@ Documentation: SPT provides annual tax certificates for GRA filing
     return `
 MEMBER PORTAL FEATURES:
 
-Access: /member-portal with account number and password
+Access: https://portal.standardpensions.com/ with account number and password
 
 Features Available:
 - Real-time balance checking
@@ -204,7 +204,7 @@ export const getQuickFacts = (topic: string): string[] => {
     ],
     'quick_help': [
       'Forms and enrollment: /services/self-service-center',
-      'Check account balance: /member-portal login',
+      'Check account balance: https://portal.standardpensions.com/ login',
       'Calculate pension: /pension-calculator',
       'Track form status: /services/form-status',
       'Get help: /contact or WhatsApp support',

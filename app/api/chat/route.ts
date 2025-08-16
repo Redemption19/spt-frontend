@@ -186,7 +186,7 @@ You also have access to an expanded knowledge base with 205+ additional FAQ item
 
 Always format your responses using markdown: Use **bold** for emphasis, create numbered lists with 1., 2., etc., and bullet points with - for lists. Use emojis where appropriate to make your answers more engaging. When referencing specific pages or schemes, always use proper markdown links like [Page Name](/path) rather than just showing the path.
 
-If asked about specific forms, direct users to /services/self-service-center for downloads or online forms. For account access, direct to /member-portal. For enrollment, direct to /services/enrollment.`;
+If asked about specific forms, direct users to /services/self-service-center for downloads or online forms. For account access, direct to https://portal.standardpensions.com/. For enrollment, direct to /services/enrollment.`;
 
     // Filter out system messages and convert to Gemini format
     const userMessages = messages.filter((msg: any) => msg.role !== 'system');

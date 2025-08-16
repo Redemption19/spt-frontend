@@ -156,6 +156,16 @@ function MobileNav({ currentPath }: { currentPath: string }) {
   return (
     <nav className="flex flex-col bg-card border-b border-border/40 max-h-[calc(100vh-80px)] overflow-y-auto shadow-lg">
       <div className="flex flex-col space-y-4 p-6">
+        {/* Mobile CTA Buttons - Moved to top */}
+        <div className="space-y-4 pb-6 border-b border-border/40 mb-6">
+          <Button asChild variant="outline" className="w-full justify-center h-12 text-base font-medium">
+            <Link href="https://portal.standardpensions.com/">Member Portal</Link>
+          </Button>
+          <Button asChild className="w-full justify-center h-12 text-base font-medium bg-accent hover:bg-accent/90">
+            <Link href="https://validate.standardpensions.com/validation-portal/">Make Payment</Link>
+          </Button>
+        </div>
+
         {navItems.map((item) => {
           const isActive = currentPath === item.href || 
                           (item.dropdown && item.dropdown.some(subItem => currentPath === subItem.href))
@@ -205,16 +215,6 @@ function MobileNav({ currentPath }: { currentPath: string }) {
             </Link>
           )
         })}
-
-        {/* Mobile CTA Buttons */}
-        <div className="pt-6 space-y-4 border-t border-border/40 mt-6">
-          <Button asChild variant="outline" className="w-full justify-center h-12 text-base font-medium">
-            <Link href="https://portal.standardpensions.com/">Member Portal</Link>
-          </Button>
-          <Button asChild className="w-full justify-center h-12 text-base font-medium bg-accent hover:bg-accent/90">
-            <Link href="https://validate.standardpensions.com/validation-portal/">Make Payment</Link>
-          </Button>
-        </div>
       </div>
     </nav>
   )

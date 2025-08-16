@@ -141,6 +141,6 @@
     "title": "How do I check my pension balance online?",
     "content": "Log in to the Member Portal using your account number and password. Your current balance and contribution history will be displayed on your dashboard.",
     "keywords": ["pension", "balance", "online", "member portal"],
-    "route": "/member-portal"
+    "route": "https://portal.standardpensions.com/"
   }
 ] 

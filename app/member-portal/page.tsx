@@ -51,12 +51,12 @@ export default function MemberPortalPage() {
                 
                 <div className="mt-6 sm:mt-8 flex flex-col sm:flex-row gap-3 sm:gap-4">
                   <Button asChild size="lg" className="bg-accent hover:bg-accent/90 w-full sm:w-auto">
-                    <Link href="/member-portal/login">
+                    <Link href="https://portal.standardpensions.com/">
                       Login to Portal
                     </Link>
                   </Button>
                   <Button asChild size="lg" variant="outline" className="w-full sm:w-auto">
-                    <Link href="/member-portal/setup">
+                    <Link href="https://portal.standardpensions.com/">
                       Set up Account
                     </Link>
                   </Button>
