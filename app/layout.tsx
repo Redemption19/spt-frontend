@@ -2,24 +2,55 @@ import './globals.css';
 import type { Metadata } from 'next';
 // import { Inter } from 'next/font/google';
 import { ThemeProvider } from '@/components/theme-provider';
-import Header from '@/components/layout/header';
-import Footer from '@/components/layout/footer';
-import { WhatsAppButton } from '@/components/whatsapp-button';
 import { Toaster } from '@/components/ui/toaster';
 import Providers from './providers';
 import { ServiceWorkerProvider } from '@/components/service-worker-provider';
+import LayoutWrapper from './layout-wrapper';
 
 // const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
 export const metadata: Metadata = {
   title: {
-    default: 'Standard Pensions Trust | Ghana\'s Premier Pension Administrator',
+    default: 'Standard Pensions Trust | Ghana\'s leading pension administrator',
     template: '%s | Standard Pensions Trust',
   },
   description: 'Standard Pensions Trust is Ghana\'s leading pension administrator, offering comprehensive retirement planning solutions and pension schemes for individuals and businesses.',
   keywords: ['pension', 'retirement', 'Ghana', 'pension fund', 'retirement planning', 'personal pension', 'master trust', 'provident fund'],
   authors: [{ name: 'Standard Pensions Trust' }],
   creator: 'Standard Pensions Trust',
+  icons: [
+    {
+      url: '/favicon-16x16.png',
+      sizes: '16x16',
+      type: 'image/png',
+    },
+    {
+      url: '/favicon-32x32.png',
+      sizes: '32x32',
+      type: 'image/png',
+    },
+    {
+      url: '/favicon-48x48.png',
+      sizes: '48x48',
+      type: 'image/png',
+    },
+    {
+      url: '/favicon-180x180.png',
+      rel: 'apple-touch-icon',
+      sizes: '180x180',
+      type: 'image/png',
+    },
+    {
+      url: '/favicon-192x192.png',
+      sizes: '192x192',
+      type: 'image/png',
+    },
+    {
+      url: '/favicon-512x512.png',
+      sizes: '512x512',
+      type: 'image/png',
+    },
+  ],
   openGraph: {
     type: 'website',
     locale: 'en_GH',
@@ -43,9 +74,19 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
+        {/* Favicon Links */}
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48x48.png" />
+        <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192x192.png" />
+        <link rel="icon" type="image/png" sizes="512x512" href="/favicon-512x512.png" />
+        
+        {/* Apple Touch Icon */}
+        <link rel="apple-touch-icon" sizes="180x180" href="/favicon-180x180.png" />
+        
+        {/* Manifest and PWA */}
         <link rel="manifest" href="/manifest.json" />
         <meta name="theme-color" content="#000000" />
-        <link rel="apple-touch-icon" href="/icon-192x192.svg" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
         <meta name="apple-mobile-web-app-title" content="Standard Pensions Trust" />
@@ -131,10 +172,9 @@ export default function RootLayout({
         <Providers>
           <ServiceWorkerProvider>
             <ThemeProvider attribute="class" defaultTheme="light" enableSystem>
-              <Header />
-              <main>{children}</main>
-              <Footer />
-              <WhatsAppButton />
+              <LayoutWrapper>
+                {children}
+              </LayoutWrapper>
               <Toaster />
             </ThemeProvider>
           </ServiceWorkerProvider>
