@@ -574,7 +574,7 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
   // No minimized state needed - WhatsApp Button handles opening/closing
 
   return (
-    <div className="fixed bottom-4 right-4 left-4 sm:left-auto sm:w-96 w-auto h-[500px] sm:h-[600px] bg-white rounded-lg shadow-2xl border border-gray-200 flex flex-col z-50 max-h-[90vh]">
+    <div className="fixed bottom-4 right-4 left-4 sm:left-auto sm:w-96 w-auto h-[500px] sm:h-[600px] bg-background rounded-lg shadow-2xl border border-border flex flex-col z-50 max-h-[90vh]">
       {/* Header */}
       <div className="bg-red-700 text-white p-3 sm:p-4 rounded-t-lg flex items-center justify-between">
         <div className="flex items-center space-x-2 sm:space-x-3">
@@ -595,14 +595,14 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
       </div>
 
       {/* Tab Navigation */}
-      <div className="bg-gray-50 border-b border-gray-200">
+      <div className="bg-muted border-b border-border">
         <div className="flex">
           <button
             onClick={() => setActiveTab('home')}
             className={`flex-1 flex flex-col items-center justify-center py-2 sm:py-3 px-1 sm:px-2 transition-all duration-200 ${
               activeTab === 'home' 
-                ? 'text-red-700 bg-white border-b-2 border-red-700' 
-                : 'text-gray-500 hover:text-gray-700 hover:bg-gray-100'
+                ? 'text-red-700 dark:text-red-400 bg-card border-b-2 border-red-700 dark:border-red-400' 
+                : 'text-muted-foreground hover:text-foreground hover:bg-muted'
             }`}
           >
             <HomeIcon className="h-4 w-4 sm:h-5 sm:w-5 mb-1" />
@@ -612,8 +612,8 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
             onClick={() => setActiveTab('chat')}
             className={`flex-1 flex flex-col items-center justify-center py-2 sm:py-3 px-1 sm:px-2 transition-all duration-200 ${
               activeTab === 'chat' 
-                ? 'text-red-700 bg-white border-b-2 border-red-700' 
-                : 'text-gray-500 hover:text-gray-700 hover:bg-gray-100'
+                ? 'text-red-700 dark:text-red-400 bg-card border-b-2 border-red-700 dark:border-red-400' 
+                : 'text-muted-foreground hover:text-foreground hover:bg-muted'
             }`}
           >
             <MessageCircle className="h-4 w-4 sm:h-5 sm:w-5 mb-1" />
@@ -623,8 +623,8 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
             onClick={() => setActiveTab('help')}
             className={`flex-1 flex flex-col items-center justify-center py-2 sm:py-3 px-1 sm:px-2 transition-all duration-200 ${
               activeTab === 'help' 
-                ? 'text-red-700 bg-white border-b-2 border-red-700' 
-                : 'text-gray-500 hover:text-gray-700 hover:bg-gray-100'
+                ? 'text-red-700 dark:text-red-400 bg-card border-b-2 border-red-700 dark:border-red-400' 
+                : 'text-muted-foreground hover:text-foreground hover:bg-muted'
             }`}
           >
             <HelpCircle className="h-4 w-4 sm:h-5 sm:w-5 mb-1" />
@@ -636,20 +636,20 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
       {/* Content Area */}
       <div className="flex-1 overflow-hidden">
         {activeTab === 'home' && (
-          <div className="h-full overflow-y-auto p-3 sm:p-4 space-y-3 sm:space-y-4 bg-gray-50">
+          <div className="h-full overflow-y-auto p-3 sm:p-4 space-y-3 sm:space-y-4 bg-background">
             {/* Welcome Section */}
             <div className="text-center">
-              <div className="inline-flex items-center justify-center w-12 h-12 sm:w-16 sm:h-16 bg-red-100 rounded-full mb-3 sm:mb-4 border-2 border-red-200">
-                <Star className="h-6 w-6 sm:h-8 sm:w-8 text-red-700" />
+              <div className="inline-flex items-center justify-center w-12 h-12 sm:w-16 sm:h-16 bg-red-100 dark:bg-red-900/20 rounded-full mb-3 sm:mb-4 border-2 border-red-200 dark:border-red-800">
+                <Star className="h-6 w-6 sm:h-8 sm:w-8 text-red-700 dark:text-red-400" />
               </div>
-              <h2 className="font-bold text-lg sm:text-xl text-gray-800 mb-2">How can we help?</h2>
-              <p className="text-gray-600 text-xs sm:text-sm">Get expert guidance on your pension journey</p>
+              <h2 className="font-bold text-lg sm:text-xl text-foreground mb-2">How can we help?</h2>
+              <p className="text-muted-foreground text-xs sm:text-sm">Get expert guidance on your pension journey</p>
             </div>
             
             {/* Quick Action Cards */}
             <div className="space-y-3">
               <div 
-                className="bg-blue-50 border border-blue-200 rounded-xl p-3 sm:p-4 hover:shadow-md transition-all duration-200 cursor-pointer"
+                className="bg-blue-50 dark:bg-blue-950/30 border border-blue-200 dark:border-blue-800 rounded-xl p-3 sm:p-4 hover:shadow-md transition-all duration-200 cursor-pointer"
                 onClick={() => setActiveTab('chat')}
               >
                 <div className="flex items-center justify-between">
@@ -658,8 +658,8 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
                       <MessageCircle className="h-4 w-4 text-white" />
                     </div>
                     <div>
-                      <p className="font-medium text-blue-900 text-sm">Start Chat</p>
-                      <p className="text-blue-700 text-xs">Get personalized help</p>
+                      <p className="font-medium text-blue-900 dark:text-blue-100 text-sm">Start Chat</p>
+                      <p className="text-blue-700 dark:text-blue-300 text-xs">Get personalized help</p>
                     </div>
                   </div>
                   <ChevronRight className="h-4 w-4 text-blue-500" />
@@ -667,7 +667,7 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
               </div>
               
               <div 
-                className="bg-green-50 border border-green-200 rounded-xl p-3 sm:p-4 hover:shadow-md transition-all duration-200 cursor-pointer"
+                className="bg-green-50 dark:bg-green-950/30 border border-green-200 dark:border-green-800 rounded-xl p-3 sm:p-4 hover:shadow-md transition-all duration-200 cursor-pointer"
                 onClick={() => setActiveTab('help')}
               >
                 <div className="flex items-center justify-between">
@@ -676,8 +676,8 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
                       <BookOpen className="h-4 w-4 text-white" />
                     </div>
                     <div>
-                      <p className="font-medium text-green-900 text-sm">Help Center</p>
-                      <p className="text-green-700 text-xs">Browse articles & guides</p>
+                      <p className="font-medium text-green-900 dark:text-green-100 text-sm">Help Center</p>
+                      <p className="text-green-700 dark:text-green-300 text-xs">Browse articles & guides</p>
                     </div>
                   </div>
                   <ChevronRight className="h-4 w-4 text-green-500" />
@@ -686,12 +686,12 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
             </div>
             
             {/* Office Hours */}
-            <div className="bg-orange-50 border border-orange-200 rounded-xl p-3 sm:p-4">
+            <div className="bg-orange-50 dark:bg-orange-950/30 border border-orange-200 dark:border-orange-800 rounded-xl p-3 sm:p-4">
               <div className="flex items-center gap-2 sm:gap-3">
-                <Clock className="h-4 w-4 sm:h-5 sm:w-5 text-orange-600" />
+                <Clock className="h-4 w-4 sm:h-5 sm:w-5 text-orange-600 dark:text-orange-400" />
                 <div>
-                  <h4 className="font-medium text-orange-800 text-sm">Office Hours</h4>
-                  <p className="text-orange-700 text-xs">Mon - Fri: 8:00 AM - 5:00 PM</p>
+                  <h4 className="font-medium text-orange-800 dark:text-orange-200 text-sm">Office Hours</h4>
+                  <p className="text-orange-700 dark:text-orange-300 text-xs">Mon - Fri: 8:00 AM - 5:00 PM</p>
                 </div>
               </div>
             </div>
@@ -703,15 +703,15 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
                   setActiveTab('chat');
                   setShowQuestionOptions('contribution');
                 }}
-                className="w-full bg-red-50 hover:bg-red-100 p-3 rounded-lg border border-red-200 transition-colors cursor-pointer"
+                className="w-full bg-red-50 dark:bg-red-950/30 hover:bg-red-100 dark:hover:bg-red-900/40 p-3 rounded-lg border border-red-200 dark:border-red-800 transition-colors cursor-pointer"
               >
                 <div className="flex items-center space-x-3">
-                  <div className="w-8 h-8 bg-red-100 rounded-lg flex items-center justify-center">
-                    <Coins className="w-5 h-5 text-red-600" />
+                  <div className="w-8 h-8 bg-red-100 dark:bg-red-900/30 rounded-lg flex items-center justify-center">
+                    <Coins className="w-5 h-5 text-red-600 dark:text-red-400" />
                   </div>
                   <div className="text-left">
-                    <h4 className="font-medium text-red-800">Contribution Information</h4>
-                    <p className="text-sm text-red-600">View our transparent contribution structure</p>
+                    <h4 className="font-medium text-red-800 dark:text-red-200">Contribution Information</h4>
+                    <p className="text-sm text-red-600 dark:text-red-400">View our transparent contribution structure</p>
                   </div>
                 </div>
               </button>
@@ -721,15 +721,15 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
                   setActiveTab('chat');
                   setShowQuestionOptions('enrollment');
                 }}
-                className="w-full bg-green-50 hover:bg-green-100 p-3 rounded-lg border border-green-200 transition-colors cursor-pointer"
+                className="w-full bg-green-50 dark:bg-green-950/30 hover:bg-green-100 dark:hover:bg-green-900/40 p-3 rounded-lg border border-green-200 dark:border-green-800 transition-colors cursor-pointer"
               >
                 <div className="flex items-center space-x-3">
-                  <div className="w-8 h-8 bg-green-100 rounded-lg flex items-center justify-center">
-                    <FileText className="w-5 h-5 text-green-600" />
+                  <div className="w-8 h-8 bg-green-100 dark:bg-green-900/30 rounded-lg flex items-center justify-center">
+                    <FileText className="w-5 h-5 text-green-600 dark:text-green-400" />
                   </div>
                   <div className="text-left">
-                    <h4 className="font-medium text-green-800">Enrollment Guide</h4>
-                    <p className="text-sm text-green-600">Start your pension journey today</p>
+                    <h4 className="font-medium text-green-800 dark:text-green-200">Enrollment Guide</h4>
+                    <p className="text-sm text-green-600 dark:text-green-400">Start your pension journey today</p>
                   </div>
                 </div>
               </button>
@@ -739,15 +739,15 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
                   setActiveTab('chat');
                   setShowQuestionOptions('faqs');
                 }}
-                className="w-full bg-blue-50 hover:bg-blue-100 p-3 rounded-lg border border-blue-200 transition-colors cursor-pointer"
+                className="w-full bg-blue-50 dark:bg-blue-950/30 hover:bg-blue-100 dark:hover:bg-blue-900/40 p-3 rounded-lg border border-blue-200 dark:border-blue-800 transition-colors cursor-pointer"
               >
                 <div className="flex items-center space-x-3">
-                  <div className="w-8 h-8 bg-blue-100 rounded-lg flex items-center justify-center">
-                    <HelpCircle className="w-5 h-5 text-blue-600" />
+                  <div className="w-8 h-8 bg-blue-100 dark:bg-blue-900/30 rounded-lg flex items-center justify-center">
+                    <HelpCircle className="w-5 h-5 text-blue-600 dark:text-blue-400" />
                   </div>
                   <div className="text-left">
-                    <h4 className="font-medium text-blue-800">Quick FAQs</h4>
-                    <p className="text-sm text-blue-600">Get instant answers to common questions</p>
+                    <h4 className="font-medium text-blue-800 dark:text-blue-200">Quick FAQs</h4>
+                    <p className="text-sm text-blue-600 dark:text-blue-400">Get instant answers to common questions</p>
                     </div>
                 </div>
               </button>
@@ -758,7 +758,7 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
         {activeTab === 'chat' && (
           <div className="flex flex-col h-full">
             {/* Messages - Fixed height with scroll */}
-            <div className="flex-1 overflow-y-auto p-3 sm:p-4 space-y-3 sm:space-y-4 bg-gray-50 min-h-0">
+            <div className="flex-1 overflow-y-auto p-3 sm:p-4 space-y-3 sm:space-y-4 bg-background min-h-0">
               {messages.map((message, index) => (
                 <div
                   key={message.id || index}
@@ -785,7 +785,7 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
                       <div className={`px-4 py-2 rounded-2xl ${
                         message.role === 'user'
                           ? 'bg-red-600 text-white rounded-br-md'
-                          : 'bg-white text-gray-800 border border-gray-200 rounded-bl-md'
+                          : 'bg-card text-card-foreground border border-border rounded-bl-md'
                       }`}>
                         {message.role === 'assistant' ? (
                           <MarkdownRenderer content={message.content} className="text-sm leading-relaxed" />
@@ -807,7 +807,7 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
                     }`}>
                       <Bot className="w-4 h-4" />
                     </div>
-                    <div className="bg-white border border-gray-200 px-4 py-2 rounded-2xl rounded-bl-md">
+                    <div className="bg-card border border-border px-4 py-2 rounded-2xl rounded-bl-md">
                       {streamedResponse ? (
                         <div className="text-sm leading-relaxed">
                           <MarkdownRenderer content={streamedResponse} className="text-sm leading-relaxed" />
@@ -844,9 +844,9 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
                         </div>
                       ) : (
                         <div className="flex space-x-1">
-                          <div className="w-2 h-2 bg-gray-400 rounded-full animate-bounce"></div>
-                          <div className="w-2 h-2 bg-gray-400 rounded-full animate-bounce" style={{ animationDelay: '0.1s' }}></div>
-                          <div className="w-2 h-2 bg-gray-400 rounded-full animate-bounce" style={{ animationDelay: '0.2s' }}></div>
+                                          <div className="w-2 h-2 bg-muted-foreground rounded-full animate-bounce"></div>
+                <div className="w-2 h-2 bg-muted-foreground rounded-full animate-bounce" style={{ animationDelay: '0.1s' }}></div>
+                <div className="w-2 h-2 bg-muted-foreground rounded-full animate-bounce" style={{ animationDelay: '0.2s' }}></div>
                         </div>
                       )}
                     </div>
@@ -858,25 +858,25 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
             </div>
 
             {/* Quick Actions - Fixed at bottom */}
-            <div className="px-4 py-2 border-t border-gray-200 bg-white flex-shrink-0">
+            <div className="px-4 py-2 border-t border-border bg-card flex-shrink-0">
               <div className="flex space-x-2 text-xs">
                 <button 
                   onClick={() => handleQuickAction('contribution')}
-                  className="px-3 py-1 bg-red-100 text-red-700 rounded-full hover:bg-red-200 transition-colors cursor-pointer flex items-center gap-1"
+                  className="px-3 py-1 bg-red-100 dark:bg-red-900/30 text-red-700 dark:text-red-400 rounded-full hover:bg-red-200 dark:hover:bg-red-800/40 transition-colors cursor-pointer flex items-center gap-1"
                 >
                   <Coins className="w-3 h-3" />
                   Contribution
                 </button>
                 <button 
                   onClick={() => handleQuickAction('enrollment')}
-                  className="px-3 py-1 bg-green-100 text-green-700 rounded-full hover:bg-green-200 transition-colors cursor-pointer flex items-center gap-1"
+                  className="px-3 py-1 bg-green-100 dark:bg-green-900/30 text-green-700 dark:text-green-400 rounded-full hover:bg-green-200 dark:hover:bg-green-800/40 transition-colors cursor-pointer flex items-center gap-1"
                 >
                   <BookOpen className="w-3 h-3" />
                   Enrollment
                 </button>
                 <button 
                   onClick={() => handleQuickAction('faqs')}
-                  className="px-3 py-1 bg-blue-100 text-blue-700 rounded-full hover:bg-blue-200 transition-colors cursor-pointer flex items-center gap-1"
+                  className="px-3 py-1 bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-400 rounded-full hover:bg-blue-200 dark:hover:bg-blue-800/40 transition-colors cursor-pointer flex items-center gap-1"
                 >
                   <HelpCircle className="w-3 h-3" />
                   FAQs
@@ -887,11 +887,11 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
             {/* Question Options Modal - Enhanced Popup */}
             {showQuestionOptions && (
               <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-2 sm:p-4">
-                <div className="bg-white rounded-xl shadow-2xl max-w-sm sm:max-w-md w-full max-h-[70vh] sm:max-h-[80vh] overflow-hidden animate-in fade-in-0 zoom-in-95 duration-200">
+                <div className="bg-card rounded-xl shadow-2xl max-w-sm sm:max-w-md w-full max-h-[70vh] sm:max-h-[80vh] overflow-hidden animate-in fade-in-0 zoom-in-95 duration-200">
                   {/* Modal Header */}
-                  <div className="px-4 sm:px-6 py-3 sm:py-4 border-b border-gray-200 bg-gradient-to-r from-red-50 to-pink-50">
+                  <div className="px-4 sm:px-6 py-3 sm:py-4 border-b border-border bg-gradient-to-r from-red-50 dark:from-red-950/30 to-pink-50 dark:to-pink-950/30">
                     <div className="flex items-center justify-between">
-                      <h3 className="text-base sm:text-lg font-semibold text-gray-800">
+                      <h3 className="text-base sm:text-lg font-semibold text-foreground">
                         {showQuestionOptions === 'contribution' ? (
                           <span className="flex items-center gap-1 sm:gap-2">
                             <Coins className="w-4 h-4 sm:w-5 sm:h-5 text-red-600" />
@@ -914,14 +914,14 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
                       </h3>
                       <button
                         onClick={() => setShowQuestionOptions(null)}
-                        className="p-1 hover:bg-gray-200 rounded-full transition-colors"
+                        className="p-1 hover:bg-muted rounded-full transition-colors"
                       >
-                        <svg className="w-4 h-4 sm:w-5 sm:h-5 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <svg className="w-4 h-4 sm:w-5 sm:h-5 text-muted-foreground" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
                         </svg>
                       </button>
                     </div>
-                    <p className="text-xs sm:text-sm text-gray-600 mt-1">
+                    <p className="text-xs sm:text-sm text-muted-foreground mt-1">
                       Select a question to ask our AI assistant
                     </p>
                   </div>
@@ -933,13 +933,13 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
                         <button
                           key={index}
                           onClick={() => handleQuestionSelect(question)}
-                          className="w-full text-left p-3 sm:p-4 bg-gray-50 hover:bg-red-50 border border-gray-200 hover:border-red-300 rounded-lg transition-all duration-200 hover:shadow-md group"
+                          className="w-full text-left p-3 sm:p-4 bg-muted hover:bg-red-50 dark:hover:bg-red-950/30 border border-border hover:border-red-300 rounded-lg transition-all duration-200 hover:shadow-md group"
                         >
                           <div className="flex items-start space-x-2 sm:space-x-3">
-                            <div className="w-5 h-5 sm:w-6 sm:h-6 bg-red-100 group-hover:bg-red-200 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
-                              <span className="text-red-600 text-xs sm:text-sm font-medium">{index + 1}</span>
+                            <div className="w-5 h-5 sm:w-6 sm:h-6 bg-red-100 dark:bg-red-900/30 group-hover:bg-red-200 dark:group-hover:bg-red-800/40 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
+                              <span className="text-red-600 dark:text-red-400 text-xs sm:text-sm font-medium">{index + 1}</span>
                             </div>
-                            <span className="text-sm sm:text-base text-gray-800 group-hover:text-red-700 font-medium leading-relaxed">
+                            <span className="text-sm sm:text-base text-foreground group-hover:text-red-700 dark:group-hover:text-red-400 font-medium leading-relaxed">
                               {question}
                             </span>
                           </div>
@@ -949,10 +949,10 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
                   </div>
                   
                   {/* Modal Footer */}
-                  <div className="px-4 sm:px-6 py-3 sm:py-4 border-t border-gray-200 bg-gray-50">
+                  <div className="px-4 sm:px-6 py-3 sm:py-4 border-t border-border bg-muted">
                     <button
                       onClick={() => setShowQuestionOptions(null)}
-                      className="w-full px-3 sm:px-4 py-2 text-sm sm:text-base text-gray-600 hover:text-gray-800 border border-gray-300 hover:border-gray-400 rounded-lg transition-colors"
+                      className="w-full px-3 sm:px-4 py-2 text-sm sm:text-base text-muted-foreground hover:text-foreground border border-border hover:border-input rounded-lg transition-colors"
                     >
                       Cancel
                     </button>
@@ -962,7 +962,7 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
             )}
 
             {/* Input - Fixed at bottom */}
-            <div className="p-3 sm:p-4 border-t border-gray-200 bg-white rounded-b-lg flex-shrink-0">
+            <div className="p-3 sm:p-4 border-t border-border bg-card rounded-b-lg flex-shrink-0">
               <div className="flex items-center space-x-2">
                 <textarea
                   ref={textareaRef}
@@ -977,8 +977,8 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
                   placeholder={isLoading ? "Please wait..." : "Type your message here..."}
                   rows={1}
                   disabled={isLoading}
-                  className={`flex-1 px-3 sm:px-4 py-2 border border-gray-300 rounded-2xl focus:outline-none focus:ring-2 focus:ring-red-700 focus:border-transparent resize-none overflow-y-auto min-h-[40px] max-h-[200px] ${
-                    isLoading ? 'bg-gray-100 cursor-not-allowed opacity-60' : ''
+                  className={`flex-1 px-3 sm:px-4 py-2 border border-input rounded-2xl focus:outline-none focus:ring-2 focus:ring-red-700 focus:border-transparent resize-none overflow-y-auto min-h-[40px] max-h-[200px] ${
+                    isLoading ? 'bg-muted cursor-not-allowed opacity-60' : ''
                   }`}
                   style={{ 
                     lineHeight: '1.5',
@@ -990,9 +990,9 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
                   disabled={!inputText.trim() || isLoading}
                   className={`p-1.5 sm:p-2 rounded-full transition-colors ${
                     isLoading 
-                      ? 'bg-gray-300 cursor-not-allowed' 
+                      ? 'bg-muted cursor-not-allowed' 
                       : !inputText.trim() 
-                        ? 'bg-gray-300 cursor-not-allowed' 
+                        ? 'bg-muted cursor-not-allowed' 
                         : 'bg-red-700 hover:bg-red-800'
                   } text-white`}
                 >
@@ -1004,7 +1004,7 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
                 </button>
               </div>
               {/* Helper text for keyboard shortcuts */}
-              <div className="mt-2 text-xs text-gray-500 text-center">
+              <div className="mt-2 text-xs text-muted-foreground text-center">
                 Press Enter to send, Shift+Enter for new line
               </div>
             </div>
@@ -1014,16 +1014,16 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
         {activeTab === 'help' && (
           <div className="h-full flex flex-col">
             {/* Search Header */}
-            <div className="p-3 sm:p-4 border-b border-gray-200 bg-white">
+            <div className="p-3 sm:p-4 border-b border-border bg-card">
               <div className="relative">
-                <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 h-4 w-4" />
+                <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-muted-foreground h-4 w-4" />
                 <input
                   ref={searchInputRef}
                   type="text"
                   placeholder="Search help articles..."
                   value={searchQuery}
                   onChange={(e) => handleSearch(e.target.value)}
-                  className="w-full pl-10 pr-4 py-2 border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-red-700 focus:border-red-700 bg-white text-gray-800 placeholder-gray-500 text-sm"
+                  className="w-full pl-10 pr-4 py-2 border border-input rounded-xl focus:outline-none focus:ring-2 focus:ring-red-700 focus:border-red-700 bg-background text-foreground placeholder-muted-foreground text-sm"
                 />
               </div>
             </div>
@@ -1033,17 +1033,17 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
               {/* Search Results */}
               {searchQuery && searchResults.length > 0 && (
                 <div className="mb-6">
-                  <h3 className="font-semibold text-lg text-gray-800 mb-3">Search Results ({searchResults.length})</h3>
+                  <h3 className="font-semibold text-lg text-foreground mb-3">Search Results ({searchResults.length})</h3>
                   <div className="space-y-3">
                     {searchResults.map((article) => (
                       <div
                         key={article.id}
                         onClick={() => handleArticleSelect(article)}
-                        className="bg-white p-4 rounded-lg border border-gray-200 hover:border-red-300 hover:shadow-md cursor-pointer transition-all"
+                        className="bg-card p-4 rounded-lg border border-border hover:border-red-300 hover:shadow-md cursor-pointer transition-all"
                       >
-                        <h4 className="font-medium text-gray-800 mb-1">{article.title}</h4>
-                        <p className="text-sm text-gray-600 mb-2">{article.category}</p>
-                        <p className="text-sm text-gray-500 line-clamp-2">{article.content}</p>
+                        <h4 className="font-medium text-foreground mb-1">{article.title}</h4>
+                        <p className="text-sm text-muted-foreground mb-2">{article.category}</p>
+                        <p className="text-sm text-muted-foreground line-clamp-2">{article.content}</p>
                       </div>
                     ))}
                   </div>
@@ -1053,9 +1053,9 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
               {/* No Search Results */}
               {searchQuery && searchResults.length === 0 && (
                 <div className="text-center py-8">
-                  <BookOpen className="h-12 w-12 text-gray-400 mx-auto mb-3" />
-                  <h3 className="font-medium text-gray-600 mb-2">No articles found</h3>
-                  <p className="text-sm text-gray-500">Try different keywords or browse our categories below</p>
+                  <BookOpen className="h-12 w-12 text-muted-foreground mx-auto mb-3" />
+                  <h3 className="font-medium text-foreground mb-2">No articles found</h3>
+                  <p className="text-sm text-muted-foreground">Try different keywords or browse our categories below</p>
                 </div>
               )}
 
@@ -1065,17 +1065,17 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
                   <div className="flex items-center space-x-2 mb-4">
                     <button
                       onClick={handleBackToCollection}
-                      className="text-red-600 hover:text-red-700 text-sm font-medium"
+                      className="text-red-600 dark:text-red-400 hover:text-red-700 dark:hover:text-red-300 text-sm font-medium"
                     >
                       ← Back to {selectedArticle.category}
                     </button>
                   </div>
-                  <div className="bg-white p-6 rounded-lg border border-gray-200">
-                    <h2 className="text-xl font-bold text-gray-800 mb-3">{selectedArticle.title}</h2>
-                    <div className="bg-red-50 text-red-700 px-3 py-1 rounded-full text-sm font-medium inline-block mb-4">
+                  <div className="bg-card p-6 rounded-lg border border-border">
+                    <h2 className="text-xl font-bold text-foreground mb-3">{selectedArticle.title}</h2>
+                    <div className="bg-red-50 dark:bg-red-950/30 text-red-700 dark:text-red-400 px-3 py-1 rounded-full text-sm font-medium inline-block mb-4">
                       {selectedArticle.category}
                     </div>
-                    <p className="text-gray-700 leading-relaxed">{selectedArticle.content}</p>
+                    <p className="text-muted-foreground leading-relaxed">{selectedArticle.content}</p>
                   </div>
                 </div>
               )}
@@ -1086,21 +1086,21 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
                   <div className="flex items-center space-x-2 mb-4">
                     <button
                       onClick={handleBackToCollections}
-                      className="text-red-600 hover:text-red-700 text-sm font-medium"
+                      className="text-red-600 dark:text-red-400 hover:text-red-700 dark:hover:text-red-300 text-sm font-medium"
                     >
                       ← Back to Categories
                     </button>
                   </div>
-                  <h2 className="text-xl font-bold text-gray-800 mb-4">{selectedCollection.title}</h2>
+                  <h2 className="text-xl font-bold text-foreground mb-4">{selectedCollection.title}</h2>
                   <div className="space-y-3">
                     {selectedCollection.articles.map((article) => (
                       <div
                         key={article.id}
                         onClick={() => handleArticleSelect(article)}
-                        className="bg-white p-4 rounded-lg border border-gray-200 hover:border-red-300 hover:shadow-md cursor-pointer transition-all"
+                        className="bg-card p-4 rounded-lg border border-border hover:border-red-300 hover:shadow-md cursor-pointer transition-all"
                       >
-                        <h4 className="font-medium text-gray-800 mb-2">{article.title}</h4>
-                        <p className="text-sm text-gray-500 line-clamp-2">{article.content}</p>
+                        <h4 className="font-medium text-foreground mb-2">{article.title}</h4>
+                        <p className="text-sm text-muted-foreground line-clamp-2">{article.content}</p>
                       </div>
                     ))}
                   </div>
@@ -1111,11 +1111,11 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
               {!selectedCollection && !selectedArticle && !searchQuery && (
                 <div className="space-y-4">
                   <div className="text-center mb-6">
-                    <div className="bg-gradient-to-br from-red-100 to-pink-100 p-4 rounded-full w-16 h-16 mx-auto mb-4 border-4 border-red-200 flex items-center justify-center">
-                      <BookOpen className="h-8 w-8 text-red-600" />
+                    <div className="bg-gradient-to-br from-red-100 dark:from-red-950/30 to-pink-100 dark:to-pink-950/30 p-4 rounded-full w-16 h-16 mx-auto mb-4 border-4 border-red-200 dark:border-red-800 flex items-center justify-center">
+                      <BookOpen className="h-8 w-8 text-red-600 dark:text-red-400" />
                     </div>
-                    <h3 className="font-bold text-xl text-gray-800 mb-2">Help Center</h3>
-                    <p className="text-gray-600 text-sm">Browse our comprehensive help articles and guides</p>
+                    <h3 className="font-bold text-xl text-foreground mb-2">Help Center</h3>
+                    <p className="text-muted-foreground text-sm">Browse our comprehensive help articles and guides</p>
                   </div>
                   
                   <div className="grid grid-cols-1 gap-3">
@@ -1123,19 +1123,19 @@ export default function ClaudeStyleChat({ onClose }: SPTChatbotProps) {
                       <div
                         key={collection.id}
                         onClick={() => handleCollectionSelect(collection)}
-                        className="bg-white p-4 rounded-lg border border-gray-200 hover:border-red-300 hover:shadow-md cursor-pointer transition-all"
+                        className="bg-card p-4 rounded-lg border border-border hover:border-red-300 hover:shadow-md cursor-pointer transition-all"
                       >
                         <div className="flex items-center justify-between">
                           <div className="flex items-center space-x-3">
-                            <div className="w-10 h-10 bg-red-100 rounded-lg flex items-center justify-center">
-                              <BookOpen className="h-5 w-5 text-red-600" />
+                            <div className="w-10 h-10 bg-red-100 dark:bg-red-900/30 rounded-lg flex items-center justify-center">
+                              <BookOpen className="h-5 w-5 text-red-600 dark:text-red-400" />
                             </div>
                             <div>
-                              <h4 className="font-medium text-gray-800">{collection.title}</h4>
-                              <p className="text-sm text-gray-500">{collection.articleCount} articles</p>
+                              <h4 className="font-medium text-foreground">{collection.title}</h4>
+                              <p className="text-sm text-muted-foreground">{collection.articleCount} articles</p>
                             </div>
                           </div>
-                          <ChevronRight className="h-5 w-5 text-gray-400" />
+                          <ChevronRight className="h-5 w-5 text-muted-foreground" />
                         </div>
                       </div>
                     ))}

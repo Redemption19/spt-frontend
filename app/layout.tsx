@@ -49,6 +49,83 @@ export default function RootLayout({
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
         <meta name="apple-mobile-web-app-title" content="Standard Pensions Trust" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              // Global Image Protection
+              (function() {
+                // Prevent right-click on images
+                document.addEventListener('contextmenu', function(e) {
+                  if (e.target.tagName === 'IMG') {
+                    e.preventDefault();
+                    return false;
+                  }
+                });
+                
+                // Prevent drag and drop of images
+                document.addEventListener('dragstart', function(e) {
+                  if (e.target.tagName === 'IMG') {
+                    e.preventDefault();
+                    return false;
+                  }
+                });
+                
+                // Prevent keyboard shortcuts for saving
+                document.addEventListener('keydown', function(e) {
+                  // Prevent Ctrl+S (Save)
+                  if ((e.ctrlKey || e.metaKey) && e.key === 's') {
+                    e.preventDefault();
+                    return false;
+                  }
+                  
+                  // Prevent Ctrl+Shift+S (Save As)
+                  if ((e.ctrlKey || e.metaKey) && e.shiftKey && e.key === 'S') {
+                    e.preventDefault();
+                    return false;
+                  }
+                  
+                  // Prevent F12 (Developer Tools)
+                  if (e.key === 'F12') {
+                    e.preventDefault();
+                    return false;
+                  }
+                });
+                
+                // Disable image selection
+                const images = document.querySelectorAll('img');
+                images.forEach(function(img) {
+                  img.style.userSelect = 'none';
+                  img.style.webkitUserSelect = 'none';
+                  img.style.mozUserSelect = 'none';
+                  img.style.msUserSelect = 'none';
+                  img.style.webkitTouchCallout = 'none';
+                  img.style.pointerEvents = 'none';
+                });
+                
+                // Monitor for dynamically added images
+                const observer = new MutationObserver(function(mutations) {
+                  mutations.forEach(function(mutation) {
+                    mutation.addedNodes.forEach(function(node) {
+                      if (node.nodeType === 1 && node.tagName === 'IMG') {
+                        node.style.userSelect = 'none';
+                        node.style.webkitUserSelect = 'none';
+                        node.style.mozUserSelect = 'none';
+                        node.style.msUserSelect = 'none';
+                        node.style.webkitTouchCallout = 'none';
+                        node.style.pointerEvents = 'none';
+                      }
+                    });
+                  });
+                });
+                
+                observer.observe(document.body, {
+                  childList: true,
+                  subtree: true
+                });
+              })();
+            `,
+          }}
+        />
       </head>
       <body className="antialiased font-sans">
         <Providers>
