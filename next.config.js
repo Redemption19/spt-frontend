@@ -7,6 +7,26 @@ const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
+  async redirects() {
+    return [
+      // Redirect old PHP URLs to new Next.js pages
+      {
+        source: '/site/about.php',
+        destination: '/about',
+        permanent: true,
+      },
+      {
+        source: '/site/bod.php',
+        destination: '/about/leadership',
+        permanent: true,
+      },
+      {
+        source: '/site/self-service.php',
+        destination: '/services/self-service-center',
+        permanent: true,
+      },
+    ];
+  },
   images: {
     formats: ['image/webp', 'image/avif'],
     deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
